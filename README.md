@@ -40,16 +40,24 @@
 
 ---
 
-  ## 🤖 Claude Code Agents
+## 🤖 Claude Code Agents
 
-  *Productivity agents I've built while coding in the early morning hours*
+  *Productivity tools built by a cop who codes by night*
 
-  - 📱 **App Progress Tracker** - Creates visual project dashboards like the one I use
-  - 🎯 **GitHub Profile Generator** - Builds epic auto-updating profiles like this one
-  - 🔧 **More agents coming soon...** - Building tools for the developer community
+  | Agent | Purpose | Install |
+  |-------|---------|---------|
+  | 📱 **[App Progress 
+  Tracker](https://github.com/Kettlebell319/claude-agents/blob/main/app-progress-tracker.mdc)** | Visual
+  project dashboards | [📥 Copy 
+  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/app-progress-tracker.mdc) |
+  | 🎯 **[GitHub Profile 
+  Generator](https://github.com/Kettlebell319/claude-agents/blob/main/github-profile-generator.mdc)** |
+  Auto-updating profiles | [📥 Copy 
+  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/github-profile-generator.mdc) |
 
-  *Want to try these agents? Hit me up on [Twitter](https://x.com/kevinasrx) or 
-  [YouTube](https://www.youtube.com/@OfficialKevinBell)!*
+  ### **[→ Browse All Agents](https://github.com/Kettlebell319/claude-agents)**
+
+  *One-click copy agents for Claude Code*
 
   ---
 
