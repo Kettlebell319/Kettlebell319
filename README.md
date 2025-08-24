@@ -101,12 +101,11 @@
 
   ```javascript
   const kevinsBusyLife = {
-    "6:00 AM": "☕ Coffee & quick code review",
+    "6:00 AM": "☕ Coffee, code & Workout",
     "7:00 AM": "👨‍👩‍👧‍👦 Get kids ready for school",
-    "8:00 AM - 6:00 PM": "👮‍♂️ Protect & serve the community",
+    "8:00 AM - 6:00 PM": "👮‍♂️ crusing in a black & white",
     "6:00 PM - 8:00 PM": "🏠 Family time & boring business calls",
-    "8:00 PM - 10:00 PM": "📺 YouTube content creation",
-    "10:00 PM - 12:00 AM": "💻 PURE CODING BLISS",
+    "8:00 PM - 10:00 PM": "📚 read and relax",
     "Weekend": "🚀 Ship apps & family adventures"
   };
 
@@ -125,7 +124,7 @@
 
   ---
   ---
-  P.S. If you're reading this at 2 AM, you're probably a fellow night coder. Welcome to the club! 🌙💻
+  P.S. If you're reading this at 4 AM, you're either up too early or you're a fellow ambitious parent trying to build big things. Welcome to the club! 🌙💻
 
 <!--
 **Kettlebell319/Kettlebell319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
