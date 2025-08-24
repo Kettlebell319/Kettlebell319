@@ -46,35 +46,36 @@
 
   ### 📱 App Progress Tracker
   **What it does:** Creates visual dashboards to track all your development projects
-  **[📋 Copy Agent 
-  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/app-progress-tracker.mdc)**
+  **[📋 View Agent](https://github.com/Kettlebell319/claude-agents/blob/main/app-progress-tracker.mdc)**
 
   ### 🎯 GitHub Profile Generator
   **What it does:** Generates epic auto-updating GitHub profiles like this one
-  **[📋 Copy Agent 
-  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/github-profile-generator.mdc)**
+  **[📋 View 
+  Agent](https://github.com/Kettlebell319/claude-agents/blob/main/github-profile-generator.mdc)**
 
   ---
 
-  ## ⚡ Super Easy Installation
+  ## ⚡ Installation
 
-  ### **Method 1: One-Line Install** *(Fastest)*
+  ### **One Command Install** *(Recommended)*
 
-  **Copy and paste this command in your terminal:**
+  **Copy and paste this in your terminal:**
 
   `curl -s https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/install.sh | bash`
 
-  ### **Method 2: Manual Copy-Paste**
+  **That's it! The script automatically:**
+  - ✅ Finds your Claude Code rules folder
+  - ✅ Downloads both agents
+  - ✅ Sets everything up for immediate use
 
-  1. **Click "Copy Agent Code"** above
-  2. **Select all text** (Ctrl+A / Cmd+A) and copy it
-  3. **Create a new file** in your Claude Code rules folder
-  4. **Name it:** `app-tracker.mdc` (or `github-profile.mdc`)
-  5. **Paste and save** - Done! ✅
+  ### **Then just ask Claude:**
+  - *"Create my app tracker"*
+  - *"Build my GitHub profile"*
+  - *"Update my project progress"*
 
   ---
 
-  **[📚 Browse all agents →](https://github.com/Kettlebell319/claude-agents)**
+  **[📚 Browse all agents & docs →](https://github.com/Kettlebell319/claude-agents)**
 
   *Built with ❤️ for fellow early morning builders* 🌅☕
 
