@@ -1,0 +1,82 @@
+name: Sync App Progress Tracker
+  on:
+    workflow_dispatch:  # Manual trigger
+    schedule:
+      - cron: '0 8 * * *'  # Daily at 8 AM
+
+  jobs:
+    sync-app-tracker:
+      name: Update App Progress Tracker
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v3
+
+        - name: Create/Update App Tracker
+          run: |
+            # Create the app tracker file with current data
+            cat > app-progress-tracker.md << 'EOF'
+            # 🚀 Kevin's App Progress Tracker
+
+            *Last Updated: $(date '+%B %d, %Y')*
+
+            ---
+
+            ## 📋 **QUICK CHECKLIST - ALL APPS**
+
+            ### ✅ **Ready to Ship** (3)
+            - [ ] 🎯 **VibeCode Platform** - 80% - Production ready, scaling
+            - [ ] ⏰ **Tabata Timer** - 80% - Working prototype, needs polish
+            - [ ] 🕷️ **Content Scraper** - 70% - Functional utility tools
+
+            ### 🔄 **In Active Development** (6)
+            - [ ] 🍎 **FoodTrackerApp** - 60% - Feature complete, needs persistence
+            - [ ] 📚 **BookMatch** - 30% - Early development phase
+            - [ ] 📧 **SimpleSend** - 50% - MVP ready, needs backend
+            - [ ] 🌐 **Static Site Generator** - 60% - Working blog engine
+            - [ ] 👮 **Cop Lingo Training** - 30% - Structure built, needs content
+            - [ ] 🌊 **VibeThis Trend Tracker** - 40% - Proof of concept
+
+            ### 🧪 **Experimental/Planning** (3)
+            - [ ] ✍️ **Content Remixer** - 20% - Basic setup phase
+            - [ ] 🎙️ **Vibecaster** - 10% - Concept stage
+            - [ ] 🔧 **TidyTop** - Unknown% - Mac productivity app
+
+            ---
+
+            ## 🎯 **30-60-90 DAY PLAN**
+
+            ### 📅 **Next 30 Days**
+            1. 🚀 **Ship Tabata Timer** - Add final features and deploy
+            2. 🍎 **Complete FoodTracker** - Add persistence layer
+            3. 🎯 **Scale VibeCode** - Focus on user growth
+
+            ### 📅 **Next 60 Days**
+            4. 📚 **Advance BookMatch** - Core recommendation engine
+            5. 📧 **Launch SimpleSend** - Email service integration
+            6. 🌊 **Validate VibeThis** - Market research and MVP
+
+            ---
+
+            **Focus Philosophy**: *Ship the ready, build the promising, research the future* 🚀
+            EOF
+
+        - name: Check if file changed
+          id: check_changes
+          run: |
+            if git diff --quiet app-progress-tracker.md; then
+              echo "changed=false" >> $GITHUB_OUTPUT
+            else
+              echo "changed=true" >> $GITHUB_OUTPUT
+            fi
+
+        - name: Commit and push changes
+          if: steps.check_changes.outputs.changed == 'true'
+          run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "App Tracker Bot"
+            git add app-progress-tracker.md
+            git commit -m "🚀 Auto-update app progress tracker - $(date '+%Y-%m-%d')"
+            git push
