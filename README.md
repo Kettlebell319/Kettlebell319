@@ -31,12 +31,12 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-  - Blog posts will auto-update here
-  - Another post will show here
-  - Third post placeholder
-  - Fourth post coming soon
-  - Fifth post placeholder
-  <!-- BLOG:END -->
+- [Opposites Create Opportunity](https://kevinbellco.com/opposites-create-opportunity/)
+- [Parent Hack](https://kevinbellco.com/parent-hack/)
+- [I literally built an app WHILE running..](https://kevinbellco.com/i-literally-built-an-app-while-running/)
+- [Think Binary When Starting a Business](https://kevinbellco.com/think-binary-when-starting-a-business/)
+- [App Idea](https://kevinbellco.com/app-idea/)
+<!-- BLOG:END -->
 
 ---
 
