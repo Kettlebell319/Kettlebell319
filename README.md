@@ -40,9 +40,9 @@
 
 ---
 
- ## 🤖 Claude Code Agents
+## 🤖 Claude Code Agents
 
-  *Productivity tools built by a cop who codes by night*
+  *Productivity tools built by a cop who codes before dawn*
 
   ### 📱 App Progress Tracker
   **What it does:** Creates visual dashboards to track all your development projects
@@ -58,14 +58,25 @@
 
   ## ⚡ Super Easy Installation
 
-  ### **Method 1: One-Click Copy** *(Recommended)*
+  ### **Method 1: One-Line Install** *(Fastest)*
+
+  **Copy and paste this command in your terminal:**
+
+  `curl -s https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/install.sh | bash`
+
+  ### **Method 2: Manual Copy-Paste**
+
   1. **Click "Copy Agent Code"** above
   2. **Select all text** (Ctrl+A / Cmd+A) and copy it
   3. **Create a new file** in your Claude Code rules folder
   4. **Name it:** `app-tracker.mdc` (or `github-profile.mdc`)
   5. **Paste and save** - Done! ✅
 
-  Built with ❤️ for fellow early morning builders 🌅
+  ---
+
+  **[📚 Browse all agents →](https://github.com/Kettlebell319/claude-agents)**
+
+  *Built with ❤️ for fellow early morning builders* 🌅☕
 
   ---
 
