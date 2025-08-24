@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Building AI Apps with Claude Code - Full Tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [From Cop to Coder: My Evening Development Routine](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Building Multiple Income Streams While Working Full Time](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Home Service Business Automation with Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Dad Life + Development: How I Code with 3 Kids](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [My exact workflow building with Claude Code](https://www.youtube.com/watch?v=TTEEzq31U8w)
+- [I filmed my app build for you to learn from](https://www.youtube.com/watch?v=UoapSswrXFA)
+- [From zero experience and a wild idea to fully developed app in the App Store](https://www.youtube.com/watch?v=lV9r9X8hlhc)
+- [Putting Replit and Loveable head to head](https://www.youtube.com/watch?v=WV20G3f5W0M)
+- [Using Replit to build my own content remixer](https://www.youtube.com/watch?v=Zsv9lbE_vvE)
 <!-- YOUTUBE:END -->
 
 ---
