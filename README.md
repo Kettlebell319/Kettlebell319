@@ -40,6 +40,19 @@
 
 ---
 
+  ## 🤖 Claude Code Agents
+
+  *Productivity agents I've built while coding in the early morning hours*
+
+  - 📱 **App Progress Tracker** - Creates visual project dashboards like the one I use
+  - 🎯 **GitHub Profile Generator** - Builds epic auto-updating profiles like this one
+  - 🔧 **More agents coming soon...** - Building tools for the developer community
+
+  *Want to try these agents? Hit me up on [Twitter](https://x.com/kevinasrx) or 
+  [YouTube](https://www.youtube.com/@OfficialKevinBell)!*
+
+  ---
+
 ## 🚀 Current Projects
 
 ### 🎯 Live & Scaling
