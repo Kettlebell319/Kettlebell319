@@ -42,22 +42,36 @@
 
 ## 🤖 Claude Code Agents
 
-  *Productivity tools built by a cop who codes by night*
+  *Productivity tools built by a dad of 3 and a full time job*
 
-  | Agent | Purpose | Install |
-  |-------|---------|---------|
-  | 📱 **[App Progress 
-  Tracker](https://github.com/Kettlebell319/claude-agents/blob/main/app-progress-tracker.mdc)** | Visual
-  project dashboards | [📥 Copy 
-  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/app-progress-tracker.mdc) |
-  | 🎯 **[GitHub Profile 
-  Generator](https://github.com/Kettlebell319/claude-agents/blob/main/github-profile-generator.mdc)** |
-  Auto-updating profiles | [📥 Copy 
-  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/github-profile-generator.mdc) |
+  ### 📱 App Progress Tracker
+  **What it does:** Creates visual dashboards to track all your development projects
+  **[📥 Download 
+  Agent](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/app-progress-tracker.mdc)**
 
-  ### **[→ Browse All Agents](https://github.com/Kettlebell319/claude-agents)**
+  ### 🎯 GitHub Profile Generator
+  **What it does:** Generates epic auto-updating GitHub profiles like this one
+  **[📥 Download 
+  Agent](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/github-profile-generator.mdc)**
 
-  *One-click copy agents for Claude Code*
+  ---
+
+  ### 🚀 How to Install
+  1. **Click the download link** above
+  2. **Copy all the text** that appears
+  3. **Save it as a `.mdc` file** in your Claude Code rules folder
+  4. **Ask Claude** to use the agent!
+
+  ### **[→ View All Agents on GitHub](https://github.com/Kettlebell319/claude-agents)**
+
+  *Built with ❤️ for fellow early morning coders*
+
+  This will look much cleaner because:
+  - ✅ No broken table formatting
+  - ✅ Short, clean links
+  - ✅ Clear instructions
+  - ✅ Professional presentation
+  - ✅ Mobile friendly
 
   ---
 
