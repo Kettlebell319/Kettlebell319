@@ -42,36 +42,60 @@
 
 ## 🤖 Claude Code Agents
 
-  *Productivity tools built by a dad of 3 and a full time job*
+  *Productivity tools built by a cop who codes before dawn*
 
   ### 📱 App Progress Tracker
   **What it does:** Creates visual dashboards to track all your development projects
-  **[📥 Download 
-  Agent](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/app-progress-tracker.mdc)**
+  **[📋 Copy Agent 
+  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/app-progress-tracker.mdc)**
 
   ### 🎯 GitHub Profile Generator
   **What it does:** Generates epic auto-updating GitHub profiles like this one
-  **[📥 Download 
-  Agent](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/github-profile-generator.mdc)**
+  **[📋 Copy Agent 
+  Code](https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/github-profile-generator.mdc)**
 
   ---
 
-  ### 🚀 How to Install
-  1. **Click the download link** above
-  2. **Copy all the text** that appears
-  3. **Save it as a `.mdc` file** in your Claude Code rules folder
-  4. **Ask Claude** to use the agent!
+  ## ⚡ Super Easy Installation
 
-  ### **[→ View All Agents on GitHub](https://github.com/Kettlebell319/claude-agents)**
+  ### **Method 1: One-Click Copy** *(Recommended)*
+  1. **Click "Copy Agent Code"** above
+  2. **Select all text** (Ctrl+A / Cmd+A) and copy it
+  3. **Create a new file** in your Claude Code rules folder
+  4. **Name it:** `app-tracker.mdc` (or `github-profile.mdc`)
+  5. **Paste and save** - Done! ✅
 
-  *Built with ❤️ for fellow early morning coders*
+  ### **Method 2: One-Line Terminal Install**
+  ```bash
+  curl -s https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/install.sh | bash
 
-  This will look much cleaner because:
-  - ✅ No broken table formatting
-  - ✅ Short, clean links
-  - ✅ Clear instructions
-  - ✅ Professional presentation
-  - ✅ Mobile friendly
+  https://github.com/Kettlebell319/claude-agents
+
+  Built with ❤️ for fellow early morning builders 🌅
+
+  ## 🤖 **What the Install Script Would Do:**
+
+  The `install.sh` script would:
+
+  1. **Download both agent files** automatically to the user's current directory
+  2. **Show progress messages** so they know what's happening
+  3. **Give them next steps** on what to do with the files
+  4. **Handle errors** gracefully if download fails
+
+  **Example of what users would see:**
+  ```bash
+  $ curl -s https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/install.sh | bash
+
+  🤖 Installing Kevin Bell's Claude Code Agents...
+  📱 Downloading App Progress Tracker... ✅
+  🎯 Downloading GitHub Profile Generator... ✅
+  ✅ Agents installed!
+
+  Next steps:
+  1. Move these .mdc files to your Claude Code rules folder
+  2. Ask Claude: "create app tracker" or "build GitHub profile"
+
+  Happy coding! 🌅☕
 
   ---
 
