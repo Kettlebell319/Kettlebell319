@@ -28,15 +28,15 @@
 
 ---
 
-## 🐦 Latest Tweets
+  ## 📝 Latest Blog Posts
 
-<!-- TWITTER:START -->
-- Tweet content will auto-update here
-- Another tweet will show here  
-- Third tweet placeholder
-- Fourth tweet coming soon
-- Fifth tweet placeholder
-<!-- TWITTER:END -->
+  <!-- BLOG:START -->
+  - Blog posts will auto-update here
+  - Another post will show here
+  - Third post placeholder
+  - Fourth post coming soon
+  - Fifth post placeholder
+  <!-- BLOG:END -->
 
 ---
 
