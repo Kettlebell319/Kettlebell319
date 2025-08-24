@@ -40,7 +40,7 @@
 
 ---
 
-## 🤖 Claude Code Agents
+ ## 🤖 Claude Code Agents
 
   *Productivity tools built by a cop who codes before dawn*
 
@@ -72,30 +72,6 @@
   https://github.com/Kettlebell319/claude-agents
 
   Built with ❤️ for fellow early morning builders 🌅
-
-  ## 🤖 **What the Install Script Would Do:**
-
-  The `install.sh` script would:
-
-  1. **Download both agent files** automatically to the user's current directory
-  2. **Show progress messages** so they know what's happening
-  3. **Give them next steps** on what to do with the files
-  4. **Handle errors** gracefully if download fails
-
-  **Example of what users would see:**
-  ```bash
-  $ curl -s https://raw.githubusercontent.com/Kettlebell319/claude-agents/main/install.sh | bash
-
-  🤖 Installing Kevin Bell's Claude Code Agents...
-  📱 Downloading App Progress Tracker... ✅
-  🎯 Downloading GitHub Profile Generator... ✅
-  ✅ Agents installed!
-
-  Next steps:
-  1. Move these .mdc files to your Claude Code rules folder
-  2. Ask Claude: "create app tracker" or "build GitHub profile"
-
-  Happy coding! 🌅☕
 
   ---
 
