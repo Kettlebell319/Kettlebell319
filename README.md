@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin Bell 👋
 
-👮‍♂️ I am a full-time police officer and father of three who codes by night. By day, I roll around in police car. By evening, I build 'boring' home service businesses. But when the kids are asleep and the world goes quiet, I unlock the creative doors of development - turning my wild and crazy ideas into real, functional, ACTUAL apps.
+👮‍♂️ I am a full-time police officer and father of three who codes in whatever spare time i can find. By day, I roll around in police car. By evening, I build 'boring' home service businesses. But when the kids are asleep and the world goes quiet, I unlock the creative doors of development - turning my wild and crazy ideas into real, functional, ACTUAL apps.
 
 <p align="center">
   <a href="https://www.youtube.com/@OfficialKevinBell">
