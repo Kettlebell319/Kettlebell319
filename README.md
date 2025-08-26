@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Teaching My Kids to ‘Capture &amp; Write’ Before They Swipe](https://kevinbellco.com/teaching-my-kids-to-capture-write-before-they-swipe/)
 - [Opposites Create Opportunity](https://kevinbellco.com/opposites-create-opportunity/)
 - [Parent Hack](https://kevinbellco.com/parent-hack/)
 - [I literally built an app WHILE running..](https://kevinbellco.com/i-literally-built-an-app-while-running/)
 - [Think Binary When Starting a Business](https://kevinbellco.com/think-binary-when-starting-a-business/)
-- [App Idea](https://kevinbellco.com/app-idea/)
 <!-- BLOG:END -->
 
 ---
