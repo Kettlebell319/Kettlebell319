@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Teaching My Kids to ‘Capture &amp; Write’ Before They Swipe](https://kevinbellco.com/teaching-my-kids-to-capture-write-before-they-swipe/)
-- [Opposites Create Opportunity](https://kevinbellco.com/opposites-create-opportunity/)
-- [Parent Hack](https://kevinbellco.com/parent-hack/)
-- [I literally built an app WHILE running..](https://kevinbellco.com/i-literally-built-an-app-while-running/)
-- [Think Binary When Starting a Business](https://kevinbellco.com/think-binary-when-starting-a-business/)
+- [Why Anyone Can Be a Builder Now](https://kevinbellco.com/why-anyone-can-be-a-builder-now/)
+- [My guilt-free spend](https://kevinbellco.com/my-guilt-free-spend/)
+- [One to put the 🔔 on 👀](https://kevinbellco.com/one-to-put-the-on/)
+- [This Is Extremely Valuable](https://kevinbellco.com/this-is-extremely-valuable/)
+- [ROI of a beach banner ad? Let’s do the math 🧵](https://kevinbellco.com/roi-of-a-beach-banner-ad-lets-do-the-math-thread/)
 <!-- BLOG:END -->
 
 ---
