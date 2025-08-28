@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This Week’s Favorite Tweet](https://kevinbellco.com/this-weeks-favorite-tweet/)
+- [How to transfer code from one app to the other?](https://kevinbellco.com/how-to-transfer-code-from-one-app-to-the-other/)
+- [What’s Your Vibemarketing Strategy?](https://kevinbellco.com/whats-your-vibemarketing-strategy/)
 - [Why Anyone Can Be a Builder Now](https://kevinbellco.com/why-anyone-can-be-a-builder-now/)
 - [My guilt-free spend](https://kevinbellco.com/my-guilt-free-spend/)
-- [One to put the 🔔 on 👀](https://kevinbellco.com/one-to-put-the-on/)
-- [This Is Extremely Valuable](https://kevinbellco.com/this-is-extremely-valuable/)
-- [ROI of a beach banner ad? Let’s do the math 🧵](https://kevinbellco.com/roi-of-a-beach-banner-ad-lets-do-the-math-thread/)
 <!-- BLOG:END -->
 
 ---
