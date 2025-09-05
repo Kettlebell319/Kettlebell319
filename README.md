@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Who’s Hoarding App Ideas With Me?](https://kevinbellco.com/whos-hoarding-app-ideas-with-me/)
+- [See if you can find the error…🔎](https://kevinbellco.com/see-if-you-can-find-the-error/)
+- [Secret That No One Talks About](https://kevinbellco.com/secret-that-no-one-talks-about/)
+- [Chase the Edges](https://kevinbellco.com/chase-the-edges/)
 - [Staying in the fight](https://kevinbellco.com/staying-in-the-fight/)
-- [Most Important Lesson You Read All Week](https://kevinbellco.com/most-important-lesson-you-read-all-week/)
-- [This Week’s Favorite Tweet](https://kevinbellco.com/this-weeks-favorite-tweet/)
-- [How to transfer code from one app to the other?](https://kevinbellco.com/how-to-transfer-code-from-one-app-to-the-other/)
-- [What’s Your Vibemarketing Strategy?](https://kevinbellco.com/whats-your-vibemarketing-strategy/)
 <!-- BLOG:END -->
 
 ---
