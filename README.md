@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Most Important Lesson You Read All Week](https://kevinbellco.com/most-important-lesson-you-read-all-week/)
 - [This Week’s Favorite Tweet](https://kevinbellco.com/this-weeks-favorite-tweet/)
 - [How to transfer code from one app to the other?](https://kevinbellco.com/how-to-transfer-code-from-one-app-to-the-other/)
 - [What’s Your Vibemarketing Strategy?](https://kevinbellco.com/whats-your-vibemarketing-strategy/)
 - [Why Anyone Can Be a Builder Now](https://kevinbellco.com/why-anyone-can-be-a-builder-now/)
-- [My guilt-free spend](https://kevinbellco.com/my-guilt-free-spend/)
 <!-- BLOG:END -->
 
 ---
