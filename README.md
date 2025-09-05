@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Introducing TidyTop, clean up your life- starting with your desktop](https://kevinbellco.com/introducing-tidytop-clean-up-your-life-starting-with-your-desktop/)
+- [Forget “Watch Later,” Just Watch Alex Christou](https://kevinbellco.com/forget-watch-later-just-watch-alex-christou/)
 - [Who’s Hoarding App Ideas With Me?](https://kevinbellco.com/whos-hoarding-app-ideas-with-me/)
 - [See if you can find the error…🔎](https://kevinbellco.com/see-if-you-can-find-the-error/)
 - [Secret That No One Talks About](https://kevinbellco.com/secret-that-no-one-talks-about/)
-- [Chase the Edges](https://kevinbellco.com/chase-the-edges/)
-- [Staying in the fight](https://kevinbellco.com/staying-in-the-fight/)
 <!-- BLOG:END -->
 
 ---
