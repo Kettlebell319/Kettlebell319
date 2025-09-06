@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Volume &gt; Luck](https://kevinbellco.com/volume-luck/)
-- [Introducing TidyTop, clean up your life- starting with your desktop](https://kevinbellco.com/introducing-tidytop-clean-up-your-life-starting-with-your-desktop/)
-- [Forget “Watch Later,” Just Watch Alex Christou](https://kevinbellco.com/forget-watch-later-just-watch-alex-christou/)
-- [Who’s Hoarding App Ideas With Me?](https://kevinbellco.com/whos-hoarding-app-ideas-with-me/)
-- [See if you can find the error…🔎](https://kevinbellco.com/see-if-you-can-find-the-error/)
+- [If you are frustrated, you are LEARNING](https://kevinbellco.com/if-you-are-frustrated-you-are-learning/)
+- [Productivity Can Wait. The Sunset Won’t](https://kevinbellco.com/productivity-can-wait-the-sunset-wont/)
+- [Breaking the Habit: Trading My Phone for a Notebook](https://kevinbellco.com/breaking-the-habit-trading-my-phone-for-a-notebook/)
+- [How to use AI for back to school night](https://kevinbellco.com/how-to-use-ai-for-back-to-school-night/)
+- [Small List, Big Gratitude....186 and Counting](https://kevinbellco.com/small-list-big-gratitude186-and-counting/)
 <!-- BLOG:END -->
 
 ---
