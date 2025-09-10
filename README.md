@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You’ll Never Be More Ready Than Right Now](https://kevinbellco.com/youll-never-be-more-ready-than-right-now/)
 - [The hardest part of building a service business..](https://kevinbellco.com/the-hardest-part-of-building-a-service-business/)
 - [My Go-To AI Prompt That Never Fails](https://kevinbellco.com/my-go-to-ai-prompt-that-never-fails/)
 - [The Man in the Arena](https://kevinbellco.com/the-man-in-the-arena-new/)
 - [Keep Building](https://kevinbellco.com/keep-building/)
-- [Four LLMs, One Phone: Who’s Pulling This Off](https://kevinbellco.com/four-llms-one-phone-whos-pulling-this-off/)
 <!-- BLOG:END -->
 
 ---
