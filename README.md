@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Four LLMs, One Phone: Who’s Pulling This Off](https://kevinbellco.com/four-llms-one-phone-whos-pulling-this-off/)
 - [Digital Work of Art](https://kevinbellco.com/digital-work-of-art/)
 - [If you are frustrated, you are LEARNING](https://kevinbellco.com/if-you-are-frustrated-you-are-learning/)
 - [Productivity Can Wait. The Sunset Won’t](https://kevinbellco.com/productivity-can-wait-the-sunset-wont/)
 - [Breaking the Habit: Trading My Phone for a Notebook](https://kevinbellco.com/breaking-the-habit-trading-my-phone-for-a-notebook/)
-- [How to use AI for back to school night](https://kevinbellco.com/how-to-use-ai-for-back-to-school-night/)
 <!-- BLOG:END -->
 
 ---
