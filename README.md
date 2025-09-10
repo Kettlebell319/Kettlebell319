@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The hardest part of building a service business..](https://kevinbellco.com/the-hardest-part-of-building-a-service-business/)
+- [My Go-To AI Prompt That Never Fails](https://kevinbellco.com/my-go-to-ai-prompt-that-never-fails/)
+- [The Man in the Arena](https://kevinbellco.com/the-man-in-the-arena-new/)
+- [Keep Building](https://kevinbellco.com/keep-building/)
 - [Four LLMs, One Phone: Who’s Pulling This Off](https://kevinbellco.com/four-llms-one-phone-whos-pulling-this-off/)
-- [Digital Work of Art](https://kevinbellco.com/digital-work-of-art/)
-- [If you are frustrated, you are LEARNING](https://kevinbellco.com/if-you-are-frustrated-you-are-learning/)
-- [Productivity Can Wait. The Sunset Won’t](https://kevinbellco.com/productivity-can-wait-the-sunset-wont/)
-- [Breaking the Habit: Trading My Phone for a Notebook](https://kevinbellco.com/breaking-the-habit-trading-my-phone-for-a-notebook/)
 <!-- BLOG:END -->
 
 ---
