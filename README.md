@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Honestly, You Don’t Need to Be the One Writing Code...](https://kevinbellco.com/honestly-you-dont-need-to-be-the-one-writing-code/)
-- [Great connections and conversations are like SHOTS ON THE GOAL.](https://kevinbellco.com/great-connections-and-conversations-are-like-shots-on-the-goal/)
-- [Who else would rock this to work? 👮‍♂️💻](https://kevinbellco.com/who-else-would-rock-this-to-work/)
-- [Take My Money… Brilliant!](https://kevinbellco.com/take-my-money-brilliant/)
-- [How I Measure Every Purchase Now…](https://kevinbellco.com/how-i-measure-every-purchase-now/)
+- [This is a solid question!](https://kevinbellco.com/this-is-a-solid-question/)
+- [Girl Dad 101: Braiding Edition](https://kevinbellco.com/girl-dad-101-braiding-edition/)
+- [Don&#39;t underestimate this prompt!](https://kevinbellco.com/dont-underestimate-this-prompt/)
+- [Marry Young, Be Broke, Build Together!](https://kevinbellco.com/marry-young-be-broke-build-together/)
+- [If These Don’t Work, I’m Out of Ideas :joy:](https://kevinbellco.com/if-these-dont-work-im-out-of-ideas-joy/)
 <!-- BLOG:END -->
 
 ---
