@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You’re not lost, you’re in progress.](https://kevinbellco.com/youre-not-lost-youre-in-progress/)
 - [Life Is A Series of Choices](https://kevinbellco.com/life-is-a-series-of-choices/)
 - [Your ULTIMATE VIBECODING RESOURCE List](https://kevinbellco.com/your-ultimate-vibecoding-resource-list/)
 - [This is a solid question!](https://kevinbellco.com/this-is-a-solid-question/)
 - [Girl Dad 101: Braiding Edition](https://kevinbellco.com/girl-dad-101-braiding-edition/)
-- [Don&#39;t underestimate this prompt!](https://kevinbellco.com/dont-underestimate-this-prompt/)
 <!-- BLOG:END -->
 
 ---
