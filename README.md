@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [How Grit and Authenticity Shape Our Kids’ Future](https://kevinbellco.com/how-grit-and-authenticity-shape-our-kids-future/)
 - [Becoming Who You’re Meant To Be](https://kevinbellco.com/becoming-who-youre-meant-to-be/)
 - [Jenna Page&#39;s Definition of Entrepreneurship](https://kevinbellco.com/jenna-pages-definition-of-entrepreneurship/)
 - [Business Idea Of The Week](https://kevinbellco.com/business-idea-of-the-week/)
 - [You’re not lost, you’re in progress.](https://kevinbellco.com/youre-not-lost-youre-in-progress/)
-- [Life Is A Series of Choices](https://kevinbellco.com/life-is-a-series-of-choices/)
 <!-- BLOG:END -->
 
 ---
