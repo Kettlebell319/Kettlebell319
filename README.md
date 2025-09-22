@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [This Lead Gen Ad Sets the Bar High](https://kevinbellco.com/this-lead-gen-ad-sets-the-bar-high/)
-- [Why My Best Work Happens on Long Flights](https://kevinbellco.com/why-my-best-work-happens-on-long-flights/)
-- [Wisdom At Its Simplest](https://kevinbellco.com/wisdom-at-its-simplest/)
-- [Who else would rock this?](https://kevinbellco.com/who-else-would-rock-this/)
-- [A 2-hour and 40-minute convo that made me WEALTHY!](https://kevinbellco.com/a-2-hour-and-40-minute-convo-that-made-me-wealthy/)
+- [The Real Price of Family Dinner Out](https://kevinbellco.com/the-real-price-of-family-dinner-out/)
+- [These Bad Boys Never Goes Out of Style](https://kevinbellco.com/these-bad-boys-never-goes-out-of-style/)
+- [You Were Meant For GREATNESS](https://kevinbellco.com/you-were-meant-for-greatness/)
+- [Find Something Challenging and Try and Tackle It.](https://kevinbellco.com/find-something-challenging-and-try-and-tackle-it/)
+- [Talk About A Great Niche](https://kevinbellco.com/talk-about-a-great-niche/)
 <!-- BLOG:END -->
 
 ---
