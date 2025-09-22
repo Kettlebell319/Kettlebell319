@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This Lead Gen Ad Sets the Bar High](https://kevinbellco.com/this-lead-gen-ad-sets-the-bar-high/)
+- [Why My Best Work Happens on Long Flights](https://kevinbellco.com/why-my-best-work-happens-on-long-flights/)
 - [Wisdom At Its Simplest](https://kevinbellco.com/wisdom-at-its-simplest/)
 - [Who else would rock this?](https://kevinbellco.com/who-else-would-rock-this/)
 - [A 2-hour and 40-minute convo that made me WEALTHY!](https://kevinbellco.com/a-2-hour-and-40-minute-convo-that-made-me-wealthy/)
-- [If I Opened A Donut Shop In Georgia…](https://kevinbellco.com/if-i-opened-a-donut-shop-in-georgia/)
-- [Testing My Limits: 32.4 Miles Through Kingston, GA](https://kevinbellco.com/testing-my-limits-324-miles-through-kingston-ga/)
 <!-- BLOG:END -->
 
 ---
