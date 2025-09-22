@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [How Grit and Authenticity Shape Our Kids’ Future](https://kevinbellco.com/how-grit-and-authenticity-shape-our-kids-future/)
-- [Becoming Who You’re Meant To Be](https://kevinbellco.com/becoming-who-youre-meant-to-be/)
-- [Jenna Page&#39;s Definition of Entrepreneurship](https://kevinbellco.com/jenna-pages-definition-of-entrepreneurship/)
-- [Business Idea Of The Week](https://kevinbellco.com/business-idea-of-the-week/)
-- [You’re not lost, you’re in progress.](https://kevinbellco.com/youre-not-lost-youre-in-progress/)
+- [Wisdom At Its Simplest](https://kevinbellco.com/wisdom-at-its-simplest/)
+- [Who else would rock this?](https://kevinbellco.com/who-else-would-rock-this/)
+- [A 2-hour and 40-minute convo that made me WEALTHY!](https://kevinbellco.com/a-2-hour-and-40-minute-convo-that-made-me-wealthy/)
+- [If I Opened A Donut Shop In Georgia…](https://kevinbellco.com/if-i-opened-a-donut-shop-in-georgia/)
+- [Testing My Limits: 32.4 Miles Through Kingston, GA](https://kevinbellco.com/testing-my-limits-324-miles-through-kingston-ga/)
 <!-- BLOG:END -->
 
 ---
