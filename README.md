@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Sack Up. Be a Maverick](https://kevinbellco.com/sack-up-be-a-maverick/)
+- [Alive, but Not Living](https://kevinbellco.com/alive-but-not-living/)
+- [The $1K Garage Door Fix That Opened My Eyes](https://kevinbellco.com/the-1k-garage-door-fix-that-opened-my-eyes/)
+- [Saturday Dad-Code Sprint](https://kevinbellco.com/saturday-dad-code-sprint/)
 - [The Real Price of Family Dinner Out](https://kevinbellco.com/the-real-price-of-family-dinner-out/)
-- [These Bad Boys Never Goes Out of Style](https://kevinbellco.com/these-bad-boys-never-goes-out-of-style/)
-- [You Were Meant For GREATNESS](https://kevinbellco.com/you-were-meant-for-greatness/)
-- [Find Something Challenging and Try and Tackle It.](https://kevinbellco.com/find-something-challenging-and-try-and-tackle-it/)
-- [Talk About A Great Niche](https://kevinbellco.com/talk-about-a-great-niche/)
 <!-- BLOG:END -->
 
 ---
