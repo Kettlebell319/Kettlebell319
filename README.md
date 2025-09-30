@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Agency Bros: Does $500K Actually Track?](https://kevinbellco.com/agency-bros-does-500k-actually-track/)
+- [Escape Velocity](https://kevinbellco.com/escape-velocity/)
 - [The Messy Road Nobody Talks About](https://kevinbellco.com/the-messy-road-nobody-talks-about/)
 - [Sack Up. Be a Maverick](https://kevinbellco.com/sack-up-be-a-maverick/)
 - [Alive, but Not Living](https://kevinbellco.com/alive-but-not-living/)
-- [The $1K Garage Door Fix That Opened My Eyes](https://kevinbellco.com/the-1k-garage-door-fix-that-opened-my-eyes/)
-- [Saturday Dad-Code Sprint](https://kevinbellco.com/saturday-dad-code-sprint/)
 <!-- BLOG:END -->
 
 ---
