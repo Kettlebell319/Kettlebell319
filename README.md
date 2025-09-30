@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Fuel For Your Day](https://kevinbellco.com/fuel-for-your-day/)
+- [Give Me Your Money!](https://kevinbellco.com/give-me-your-money/)
+- [California is still the best...](https://kevinbellco.com/california-is-still-the-best/)
+- [Start With What You Have, You Can Just Do Things](https://kevinbellco.com/start-with-what-you-have-you-can-just-do-things/)
 - [Agency Bros: Does $500K Actually Track?](https://kevinbellco.com/agency-bros-does-500k-actually-track/)
-- [Escape Velocity](https://kevinbellco.com/escape-velocity/)
-- [The Messy Road Nobody Talks About](https://kevinbellco.com/the-messy-road-nobody-talks-about/)
-- [Sack Up. Be a Maverick](https://kevinbellco.com/sack-up-be-a-maverick/)
-- [Alive, but Not Living](https://kevinbellco.com/alive-but-not-living/)
 <!-- BLOG:END -->
 
 ---
