@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Messy Road Nobody Talks About](https://kevinbellco.com/the-messy-road-nobody-talks-about/)
 - [Sack Up. Be a Maverick](https://kevinbellco.com/sack-up-be-a-maverick/)
 - [Alive, but Not Living](https://kevinbellco.com/alive-but-not-living/)
 - [The $1K Garage Door Fix That Opened My Eyes](https://kevinbellco.com/the-1k-garage-door-fix-that-opened-my-eyes/)
 - [Saturday Dad-Code Sprint](https://kevinbellco.com/saturday-dad-code-sprint/)
-- [The Real Price of Family Dinner Out](https://kevinbellco.com/the-real-price-of-family-dinner-out/)
 <!-- BLOG:END -->
 
 ---
