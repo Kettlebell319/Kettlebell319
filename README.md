@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Fuel For Your Day](https://kevinbellco.com/fuel-for-your-day/)
-- [Give Me Your Money!](https://kevinbellco.com/give-me-your-money/)
-- [California is still the best...](https://kevinbellco.com/california-is-still-the-best/)
-- [Start With What You Have, You Can Just Do Things](https://kevinbellco.com/start-with-what-you-have-you-can-just-do-things/)
-- [Agency Bros: Does $500K Actually Track?](https://kevinbellco.com/agency-bros-does-500k-actually-track/)
+- [Stagnation Is Death](https://kevinbellco.com/stagnation-is-death/)
+- [The $400M Pivot](https://kevinbellco.com/the-400m-pivot/)
+- [What do you genuinely want to spend the majority of your life doing?](https://kevinbellco.com/what-do-you-genuinely-want-to-spend-the-majority-of-your-life-doing/)
+- [On The Wrong Side of History](https://kevinbellco.com/on-the-wrong-side-of-history/)
+- [W2 to Entrepreneur: What Do You Wish You Knew?](https://kevinbellco.com/w2-to-entrepreneur-what-do-you-wish-you-knew/)
 <!-- BLOG:END -->
 
 ---
