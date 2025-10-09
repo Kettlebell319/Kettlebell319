@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This changed how I see “niche skills” forever!](https://kevinbellco.com/this-changed-how-i-see-niche-skills-forever/)
+- [More Than Coffee—It’s Connection](https://kevinbellco.com/more-than-coffeeits-connection/)
+- [Your Passion Is Worth More Than a Salary](https://kevinbellco.com/your-passion-is-worth-more-than-a-salary/)
 - [Stagnation Is Death](https://kevinbellco.com/stagnation-is-death/)
 - [The $400M Pivot](https://kevinbellco.com/the-400m-pivot/)
-- [What do you genuinely want to spend the majority of your life doing?](https://kevinbellco.com/what-do-you-genuinely-want-to-spend-the-majority-of-your-life-doing/)
-- [On The Wrong Side of History](https://kevinbellco.com/on-the-wrong-side-of-history/)
-- [W2 to Entrepreneur: What Do You Wish You Knew?](https://kevinbellco.com/w2-to-entrepreneur-what-do-you-wish-you-knew/)
 <!-- BLOG:END -->
 
 ---
