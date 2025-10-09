@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This is what a family man with a business looks like!](https://kevinbellco.com/this-is-what-a-family-man-with-a-business-looks-like/)
+- [Hustle hard, but LOVE your FAMILY harder...](https://kevinbellco.com/hustle-hard-but-love-your-family-harder/)
+- [Build your own pension.](https://kevinbellco.com/build-your-own-pension/)
+- [I Don’t Regret Trying Everything...Not One Bit](https://kevinbellco.com/i-dont-regret-trying-everythingnot-one-bit/)
 - [This changed how I see “niche skills” forever!](https://kevinbellco.com/this-changed-how-i-see-niche-skills-forever/)
-- [More Than Coffee—It’s Connection](https://kevinbellco.com/more-than-coffeeits-connection/)
-- [Your Passion Is Worth More Than a Salary](https://kevinbellco.com/your-passion-is-worth-more-than-a-salary/)
-- [Stagnation Is Death](https://kevinbellco.com/stagnation-is-death/)
-- [The $400M Pivot](https://kevinbellco.com/the-400m-pivot/)
 <!-- BLOG:END -->
 
 ---
