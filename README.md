@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [It’s a great time to be alive!](https://kevinbellco.com/its-a-great-time-to-be-alive/)
+- [How to actually reach your favorite influencers](https://kevinbellco.com/how-to-actually-reach-your-favorite-influencers/)
+- [To all the &quot;dreamers&quot; raising &quot;mini dreamers&quot;...](https://kevinbellco.com/to-all-the-dreamers-raising-mini-dreamers/)
+- [The books that shifted everything...](https://kevinbellco.com/the-books-that-shifted-everything/)
 - [I Don’t Need to Be the Best at Everything](https://kevinbellco.com/i-dont-need-to-be-the-best-at-everything/)
-- [If you love books, you NEED to know about this](https://kevinbellco.com/if-you-love-books-you-need-to-know-about-this/)
-- [Proof that you really can just do things…](https://kevinbellco.com/proof-that-you-really-can-just-do-things/)
-- [Would Alex Hormozi Save This Gym?](https://kevinbellco.com/would-alex-hormozi-save-this-gym/)
-- [This is what a family man with a business looks like!](https://kevinbellco.com/this-is-what-a-family-man-with-a-business-looks-like/)
 <!-- BLOG:END -->
 
 ---
