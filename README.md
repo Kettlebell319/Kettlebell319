@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You’ll never lose betting on you!](https://kevinbellco.com/youll-never-lose-betting-on-you/)
 - [It’s a great time to be alive!](https://kevinbellco.com/its-a-great-time-to-be-alive/)
 - [How to actually reach your favorite influencers](https://kevinbellco.com/how-to-actually-reach-your-favorite-influencers/)
 - [To all the &quot;dreamers&quot; raising &quot;mini dreamers&quot;...](https://kevinbellco.com/to-all-the-dreamers-raising-mini-dreamers/)
 - [The books that shifted everything...](https://kevinbellco.com/the-books-that-shifted-everything/)
-- [I Don’t Need to Be the Best at Everything](https://kevinbellco.com/i-dont-need-to-be-the-best-at-everything/)
 <!-- BLOG:END -->
 
 ---
