@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Proof that you really can just do things…](https://kevinbellco.com/proof-that-you-really-can-just-do-things/)
+- [Would Alex Hormozi Save This Gym?](https://kevinbellco.com/would-alex-hormozi-save-this-gym/)
 - [This is what a family man with a business looks like!](https://kevinbellco.com/this-is-what-a-family-man-with-a-business-looks-like/)
 - [Hustle hard, but LOVE your FAMILY harder...](https://kevinbellco.com/hustle-hard-but-love-your-family-harder/)
 - [Build your own pension.](https://kevinbellco.com/build-your-own-pension/)
-- [I Don’t Regret Trying Everything...Not One Bit](https://kevinbellco.com/i-dont-regret-trying-everythingnot-one-bit/)
-- [This changed how I see “niche skills” forever!](https://kevinbellco.com/this-changed-how-i-see-niche-skills-forever/)
 <!-- BLOG:END -->
 
 ---
