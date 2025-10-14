@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Don’t Need to Be the Best at Everything](https://kevinbellco.com/i-dont-need-to-be-the-best-at-everything/)
+- [If you love books, you NEED to know about this](https://kevinbellco.com/if-you-love-books-you-need-to-know-about-this/)
 - [Proof that you really can just do things…](https://kevinbellco.com/proof-that-you-really-can-just-do-things/)
 - [Would Alex Hormozi Save This Gym?](https://kevinbellco.com/would-alex-hormozi-save-this-gym/)
 - [This is what a family man with a business looks like!](https://kevinbellco.com/this-is-what-a-family-man-with-a-business-looks-like/)
-- [Hustle hard, but LOVE your FAMILY harder...](https://kevinbellco.com/hustle-hard-but-love-your-family-harder/)
-- [Build your own pension.](https://kevinbellco.com/build-your-own-pension/)
 <!-- BLOG:END -->
 
 ---
