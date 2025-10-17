@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Try everything EXCEPT drugs](https://kevinbellco.com/try-everything-except-drugs/)
+- [Work Will Always Wait, Your Kids Won’t...](https://kevinbellco.com/work-will-always-wait-your-kids-wont/)
 - [This is valuable](https://kevinbellco.com/this-is-valuable/)
 - [Real Deals Don’t Need Design](https://kevinbellco.com/real-deals-dont-need-design/)
 - [Finding your 1000 true fans](https://kevinbellco.com/finding-your-1000-true-fans/)
-- [You’ll never lose betting on you!](https://kevinbellco.com/youll-never-lose-betting-on-you/)
-- [It’s a great time to be alive!](https://kevinbellco.com/its-a-great-time-to-be-alive/)
 <!-- BLOG:END -->
 
 ---
