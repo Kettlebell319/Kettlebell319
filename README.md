@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [My Leap Of Faith](https://kevinbellco.com/my-leap-of-faith/)
-- [Try everything EXCEPT drugs](https://kevinbellco.com/try-everything-except-drugs/)
-- [Work Will Always Wait, Your Kids Won’t...](https://kevinbellco.com/work-will-always-wait-your-kids-wont/)
-- [This is valuable](https://kevinbellco.com/this-is-valuable/)
-- [Real Deals Don’t Need Design](https://kevinbellco.com/real-deals-dont-need-design/)
+- [Leveling Up the Hair Game 😎](https://kevinbellco.com/leveling-up-the-hair-game/)
+- [The importance of asking yourself WHY????](https://kevinbellco.com/the-importance-of-asking-yourself-why/)
+- [The Only Way Forward 👣](https://kevinbellco.com/the-only-way-forward/)
+- [Home Projects Begin 😅](https://kevinbellco.com/home-projects-begin/)
+- [You’re not even close...](https://kevinbellco.com/youre-not-even-close/)
 <!-- BLOG:END -->
 
 ---
