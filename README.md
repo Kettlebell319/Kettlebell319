@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [How to start from ZERO?](https://kevinbellco.com/how-to-start-from-zero/)
 - [Leveling Up the Hair Game 😎](https://kevinbellco.com/leveling-up-the-hair-game/)
 - [The importance of asking yourself WHY????](https://kevinbellco.com/the-importance-of-asking-yourself-why/)
 - [The Only Way Forward 👣](https://kevinbellco.com/the-only-way-forward/)
 - [Home Projects Begin 😅](https://kevinbellco.com/home-projects-begin/)
-- [You’re not even close...](https://kevinbellco.com/youre-not-even-close/)
 <!-- BLOG:END -->
 
 ---
