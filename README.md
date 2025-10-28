@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Follow Up or Fall Behind](https://kevinbellco.com/follow-up-or-fall-behind/)
+- [No Regrets, Just Freedom](https://kevinbellco.com/no-regrets-just-freedom/)
+- [Cool Isn’t Found, It’s Created](https://kevinbellco.com/cool-isnt-found-its-created/)
+- [Finally Understand My Wife](https://kevinbellco.com/finally-understand-my-wife/)
 - [How to start from ZERO?](https://kevinbellco.com/how-to-start-from-zero/)
-- [Leveling Up the Hair Game 😎](https://kevinbellco.com/leveling-up-the-hair-game/)
-- [The importance of asking yourself WHY????](https://kevinbellco.com/the-importance-of-asking-yourself-why/)
-- [The Only Way Forward 👣](https://kevinbellco.com/the-only-way-forward/)
-- [Home Projects Begin 😅](https://kevinbellco.com/home-projects-begin/)
 <!-- BLOG:END -->
 
 ---
