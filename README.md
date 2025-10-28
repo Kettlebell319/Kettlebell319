@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [More Than Just Pancakes](https://kevinbellco.com/more-than-pancakes/)
+- [Day in the life of a stay at home entrepreneur…](https://kevinbellco.com/day-in-the-life-of-a-stay-at-home-entrepreneur/)
+- [Starting Business In The Middle Of Somewhere](https://kevinbellco.com/starting-business-in-the-middle-of-somewhere/)
 - [Follow Up or Fall Behind](https://kevinbellco.com/follow-up-or-fall-behind/)
 - [No Regrets, Just Freedom](https://kevinbellco.com/no-regrets-just-freedom/)
-- [Cool Isn’t Found, It’s Created](https://kevinbellco.com/cool-isnt-found-its-created/)
-- [Finally Understand My Wife](https://kevinbellco.com/finally-understand-my-wife/)
-- [How to start from ZERO?](https://kevinbellco.com/how-to-start-from-zero/)
 <!-- BLOG:END -->
 
 ---
