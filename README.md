@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Technically a Backyard 😅](https://kevinbellco.com/technically-a-backyard/)
 - [Proof You Should Hit ‘Send’ Anyway](https://kevinbellco.com/proof-you-should-hit-send-anyway/)
 - [More Than Just Pancakes](https://kevinbellco.com/more-than-pancakes/)
 - [Day in the life of a stay at home entrepreneur…](https://kevinbellco.com/day-in-the-life-of-a-stay-at-home-entrepreneur/)
 - [Starting Business In The Middle Of Somewhere](https://kevinbellco.com/starting-business-in-the-middle-of-somewhere/)
-- [Follow Up or Fall Behind](https://kevinbellco.com/follow-up-or-fall-behind/)
 <!-- BLOG:END -->
 
 ---
