@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [BET on Yourself, STAY in the FIGHT 🙌](https://kevinbellco.com/bet-on-yourself-stay-in-the-fight/)
+- [The Quiet Way to Raise Tough Kids](https://kevinbellco.com/the-quiet-way-to-raise-tough-kids/)
 - [Technically a Backyard 😅](https://kevinbellco.com/technically-a-backyard/)
 - [Proof You Should Hit ‘Send’ Anyway](https://kevinbellco.com/proof-you-should-hit-send-anyway/)
 - [More Than Just Pancakes](https://kevinbellco.com/more-than-pancakes/)
-- [Day in the life of a stay at home entrepreneur…](https://kevinbellco.com/day-in-the-life-of-a-stay-at-home-entrepreneur/)
-- [Starting Business In The Middle Of Somewhere](https://kevinbellco.com/starting-business-in-the-middle-of-somewhere/)
 <!-- BLOG:END -->
 
 ---
