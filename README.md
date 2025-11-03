@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [When Work Moves In With You 😎](https://kevinbellco.com/when-work-moves-in-with-you/)
+- [Real Legends Hit Reply](https://kevinbellco.com/real-legends-hit-reply/)
+- [This Is How You Monetize Anything](https://kevinbellco.com/this-is-how-you-monetize-anything/)
 - [BET on Yourself, STAY in the FIGHT 🙌](https://kevinbellco.com/bet-on-yourself-stay-in-the-fight/)
 - [The Quiet Way to Raise Tough Kids](https://kevinbellco.com/the-quiet-way-to-raise-tough-kids/)
-- [Technically a Backyard 😅](https://kevinbellco.com/technically-a-backyard/)
-- [Proof You Should Hit ‘Send’ Anyway](https://kevinbellco.com/proof-you-should-hit-send-anyway/)
-- [More Than Just Pancakes](https://kevinbellco.com/more-than-pancakes/)
 <!-- BLOG:END -->
 
 ---
