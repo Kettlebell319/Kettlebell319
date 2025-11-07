@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [&quot;Work&quot;](https://kevinbellco.com/work/)
 - [Sick Days Hit Different Now](https://kevinbellco.com/sick-days-hit-different-now/)
 - [Just Add Your Twist](https://kevinbellco.com/just-add-your-twist/)
 - [When Work Moves In With You 😎](https://kevinbellco.com/when-work-moves-in-with-you/)
 - [Real Legends Hit Reply](https://kevinbellco.com/real-legends-hit-reply/)
-- [This Is How You Monetize Anything](https://kevinbellco.com/this-is-how-you-monetize-anything/)
 <!-- BLOG:END -->
 
 ---
