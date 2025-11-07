@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Sick Days Hit Different Now](https://kevinbellco.com/sick-days-hit-different-now/)
+- [Just Add Your Twist](https://kevinbellco.com/just-add-your-twist/)
 - [When Work Moves In With You 😎](https://kevinbellco.com/when-work-moves-in-with-you/)
 - [Real Legends Hit Reply](https://kevinbellco.com/real-legends-hit-reply/)
 - [This Is How You Monetize Anything](https://kevinbellco.com/this-is-how-you-monetize-anything/)
-- [BET on Yourself, STAY in the FIGHT 🙌](https://kevinbellco.com/bet-on-yourself-stay-in-the-fight/)
-- [The Quiet Way to Raise Tough Kids](https://kevinbellco.com/the-quiet-way-to-raise-tough-kids/)
 <!-- BLOG:END -->
 
 ---
