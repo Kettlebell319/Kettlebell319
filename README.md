@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [A World That Exists Beyond the Walls We Build](https://kevinbellco.com/a-world-that-exists-beyond-the-walls-we-build/)
 - [&quot;Work&quot;](https://kevinbellco.com/work/)
 - [Sick Days Hit Different Now](https://kevinbellco.com/sick-days-hit-different-now/)
 - [Just Add Your Twist](https://kevinbellco.com/just-add-your-twist/)
 - [When Work Moves In With You 😎](https://kevinbellco.com/when-work-moves-in-with-you/)
-- [Real Legends Hit Reply](https://kevinbellco.com/real-legends-hit-reply/)
 <!-- BLOG:END -->
 
 ---
