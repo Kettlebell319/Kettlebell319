@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [The Things I’ve Learned While Working With the Pros...](https://kevinbellco.com/the-things-ive-learned-while-working-with-the-pros/)
-- [A World That Exists Beyond the Walls We Build](https://kevinbellco.com/a-world-that-exists-beyond-the-walls-we-build/)
-- [&quot;Work&quot;](https://kevinbellco.com/work/)
-- [Sick Days Hit Different Now](https://kevinbellco.com/sick-days-hit-different-now/)
-- [Just Add Your Twist](https://kevinbellco.com/just-add-your-twist/)
+- [You Really Can Live Off What You Love](https://kevinbellco.com/you-really-can-live-off-what-you-love/)
+- [A Conversation Full of ‘Write That Down’ Moments](https://kevinbellco.com/a-conversation-full-of-write-that-down-moments/)
+- [Not Just a Shirt. A Mindset.](https://kevinbellco.com/not-just-a-shirt-a-mindset/)
+- [Just DO It](https://kevinbellco.com/just-do-it/)
+- [Accept The Invite Immediately 😉](https://kevinbellco.com/accept-the-invite-immediately/)
 <!-- BLOG:END -->
 
 ---
