@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This Is What Freedom Really Looks Like](https://kevinbellco.com/this-is-what-freedom-really-looks-like/)
+- [A Call That Launched the Slingshot](https://kevinbellco.com/a-call-that-launched-the-slingshot/)
+- [35 Years Later… Still the GOAT of Funny Videos](https://kevinbellco.com/35-years-later-still-the-goat-of-funny-videos/)
 - [You Really Can Live Off What You Love](https://kevinbellco.com/you-really-can-live-off-what-you-love/)
 - [A Conversation Full of ‘Write That Down’ Moments](https://kevinbellco.com/a-conversation-full-of-write-that-down-moments/)
-- [Not Just a Shirt. A Mindset.](https://kevinbellco.com/not-just-a-shirt-a-mindset/)
-- [Just DO It](https://kevinbellco.com/just-do-it/)
-- [Accept The Invite Immediately 😉](https://kevinbellco.com/accept-the-invite-immediately/)
 <!-- BLOG:END -->
 
 ---
