@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [From Cop and Teacher to &quot;Stay-at-Home Entrepreneurs&quot;](https://kevinbellco.com/from-cop-and-teacher-to-stay-at-home-entrepreneurs/)
-- [I Send Books. The Rest Is Up to You.](https://kevinbellco.com/i-send-books-the-rest-is-up-to-you/)
-- [Just DON&#39;T Ever Quit ❌](https://kevinbellco.com/just-dont-ever-quit/)
-- [From “High School Drama” to Real Talk 😎](https://kevinbellco.com/from-high-school-drama-to-real-talk/)
-- [This Is What Freedom Really Looks Like](https://kevinbellco.com/this-is-what-freedom-really-looks-like/)
+- [RETENTION....](https://kevinbellco.com/retention/)
+- [Leaving a 6-Figure Career to Build Something Bigger](https://kevinbellco.com/leaving-a-6-figure-career-to-build-something-bigger/)
+- [Dreaming Big, the Way Kids Do](https://kevinbellco.com/dreaming-big-the-way-kids-do/)
+- [Her Rainbow, Her Way](https://kevinbellco.com/her-rainbow-her-way/)
+- [You have to bet on yourself.](https://kevinbellco.com/you-have-to-bet-on-yourself/)
 <!-- BLOG:END -->
 
 ---
