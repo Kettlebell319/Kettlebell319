@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [From Cop and Teacher to &quot;Stay-at-Home Entrepreneurs&quot;](https://kevinbellco.com/from-cop-and-teacher-to-stay-at-home-entrepreneurs/)
+- [I Send Books. The Rest Is Up to You.](https://kevinbellco.com/i-send-books-the-rest-is-up-to-you/)
+- [Just DON&#39;T Ever Quit ❌](https://kevinbellco.com/just-dont-ever-quit/)
 - [From “High School Drama” to Real Talk 😎](https://kevinbellco.com/from-high-school-drama-to-real-talk/)
 - [This Is What Freedom Really Looks Like](https://kevinbellco.com/this-is-what-freedom-really-looks-like/)
-- [A Call That Launched the Slingshot](https://kevinbellco.com/a-call-that-launched-the-slingshot/)
-- [35 Years Later… Still the GOAT of Funny Videos](https://kevinbellco.com/35-years-later-still-the-goat-of-funny-videos/)
-- [You Really Can Live Off What You Love](https://kevinbellco.com/you-really-can-live-off-what-you-love/)
 <!-- BLOG:END -->
 
 ---
