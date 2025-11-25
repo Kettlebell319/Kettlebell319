@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [RETENTION....](https://kevinbellco.com/retention/)
-- [Leaving a 6-Figure Career to Build Something Bigger](https://kevinbellco.com/leaving-a-6-figure-career-to-build-something-bigger/)
-- [Dreaming Big, the Way Kids Do](https://kevinbellco.com/dreaming-big-the-way-kids-do/)
-- [Her Rainbow, Her Way](https://kevinbellco.com/her-rainbow-her-way/)
-- [You have to bet on yourself.](https://kevinbellco.com/you-have-to-bet-on-yourself/)
+- [The Donut Shop Lesson](https://kevinbellco.com/the-donut-shop-lesson/)
+- [The Backwards Habit That Works](https://kevinbellco.com/the-backwards-habit-that-works/)
+- [The Chemist Who Chose a Smarter Formula💡](https://kevinbellco.com/the-chemist-who-chose-a-smarter-formula/)
+- [This Is What &quot;BEAST MODE&quot; Looks Like In The Coding World...](https://kevinbellco.com/this-is-what-beast-mode-looks-like-in-the-coding-world/)
+- [The Power of Showing Up Weekly](https://kevinbellco.com/the-power-of-showing-up-weekly/)
 <!-- BLOG:END -->
 
 ---
