@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Season I Finally Get to Be Here!](https://kevinbellco.com/the-season-i-finally-get-to-be-here/)
+- [This is one of the BEST posts of the week.](https://kevinbellco.com/this-is-one-of-the-best-posts-of-the-week/)
+- [People Are More Important Than Things](https://kevinbellco.com/people-are-more-important-than-things/)
 - [The Donut Shop Lesson](https://kevinbellco.com/the-donut-shop-lesson/)
 - [The Backwards Habit That Works](https://kevinbellco.com/the-backwards-habit-that-works/)
-- [The Chemist Who Chose a Smarter Formula💡](https://kevinbellco.com/the-chemist-who-chose-a-smarter-formula/)
-- [This Is What &quot;BEAST MODE&quot; Looks Like In The Coding World...](https://kevinbellco.com/this-is-what-beast-mode-looks-like-in-the-coding-world/)
-- [The Power of Showing Up Weekly](https://kevinbellco.com/the-power-of-showing-up-weekly/)
 <!-- BLOG:END -->
 
 ---
