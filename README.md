@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Unplug to Think](https://kevinbellco.com/unplug-to-think/)
+- [Entrepreneurs, You Need To Read This...](https://kevinbellco.com/entrepreneurs-you-need-to-read-this/)
+- [My Favorite ROI: Books 📖](https://kevinbellco.com/my-favorite-roi-books/)
+- [Another Day, Not Another Deadline...](https://kevinbellco.com/another-day-not-another-deadline/)
 - [A Decade of Growth, and This Season Finally Feels Right!](https://kevinbellco.com/a-decade-of-growth-and-this-season-finally-feels-right/)
-- [The Season I Finally Get to Be Here!](https://kevinbellco.com/the-season-i-finally-get-to-be-here/)
-- [This is one of the BEST posts of the week.](https://kevinbellco.com/this-is-one-of-the-best-posts-of-the-week/)
-- [People Are More Important Than Things](https://kevinbellco.com/people-are-more-important-than-things/)
-- [The Donut Shop Lesson](https://kevinbellco.com/the-donut-shop-lesson/)
 <!-- BLOG:END -->
 
 ---
