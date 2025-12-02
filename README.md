@@ -31,7 +31,7 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Unplug to Think](https://kevinbellco.com/unplug-to-think/)
+- [The Power Of Running In Silence](https://kevinbellco.com/unplug-to-think/)
 - [Entrepreneurs, You Need To Read This...](https://kevinbellco.com/entrepreneurs-you-need-to-read-this/)
 - [My Favorite ROI: Books 📖](https://kevinbellco.com/my-favorite-roi-books/)
 - [Another Day, Not Another Deadline...](https://kevinbellco.com/another-day-not-another-deadline/)
