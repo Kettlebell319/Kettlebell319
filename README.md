@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Tree That Grew With Us!🎄](https://kevinbellco.com/the-tree-that-grew-with-us/)
 - [The Power Of Running In Silence](https://kevinbellco.com/unplug-to-think/)
 - [Entrepreneurs, You Need To Read This...](https://kevinbellco.com/entrepreneurs-you-need-to-read-this/)
 - [My Favorite ROI: Books 📖](https://kevinbellco.com/my-favorite-roi-books/)
 - [Another Day, Not Another Deadline...](https://kevinbellco.com/another-day-not-another-deadline/)
-- [A Decade of Growth, and This Season Finally Feels Right!](https://kevinbellco.com/a-decade-of-growth-and-this-season-finally-feels-right/)
 <!-- BLOG:END -->
 
 ---
