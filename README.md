@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This Is Why I Let My Kids Touch My Books](https://kevinbellco.com/this-is-why-i-let-my-kids-touch-my-books/)
+- [Building a $1M Community &lpar;Part 1&rpar;](https://kevinbellco.com/building-a-1m-community-part-1/)
 - [The Tree That Grew With Us!🎄](https://kevinbellco.com/the-tree-that-grew-with-us/)
 - [The Power Of Running In Silence](https://kevinbellco.com/unplug-to-think/)
 - [Entrepreneurs, You Need To Read This...](https://kevinbellco.com/entrepreneurs-you-need-to-read-this/)
-- [My Favorite ROI: Books 📖](https://kevinbellco.com/my-favorite-roi-books/)
-- [Another Day, Not Another Deadline...](https://kevinbellco.com/another-day-not-another-deadline/)
 <!-- BLOG:END -->
 
 ---
