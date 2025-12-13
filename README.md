@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Consistency Makes the Impossible Inevitable](https://kevinbellco.com/consistency-makes-the-impossible-inevitable/)
+- [Sunday Means Donuts 🍩](https://kevinbellco.com/sunday-means-donuts/)
 - [Your Dreams Aren’t Meant to Stay Caged](https://kevinbellco.com/your-dreams-arent-meant-to-stay-caged/)
 - [Redefining Success: My Next 10 Years Start Now](https://kevinbellco.com/redefining-success-my-next-10-years-start-now/)
 - [The ROI of Not Quitting](https://kevinbellco.com/the-roi-of-not-quitting/)
-- [A Year Later: Still Messy, Still Real](https://kevinbellco.com/a-year-later-still-messy-still-real/)
-- [This Is Why I Let My Kids Touch My Books](https://kevinbellco.com/this-is-why-i-let-my-kids-touch-my-books/)
 <!-- BLOG:END -->
 
 ---
