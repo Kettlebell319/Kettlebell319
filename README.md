@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You Only Get 18 Summers](https://kevinbellco.com/you-only-get-18-summers/)
+- [Built by Boldness](https://kevinbellco.com/built-by-boldness/)
+- [A 12-Minute AI Marketing Masterclass](https://kevinbellco.com/a-12-minute-ai-marketing-masterclass/)
+- [Choosing the Right Perspective](https://kevinbellco.com/choosing-the-right-perspective/)
 - [Never EVER close your mind on the infinite possibilities...](https://kevinbellco.com/never-ever-close-your-mind-on-the-infinite-possibilities/)
-- [When Perfection Kills Momentum](https://kevinbellco.com/when-perfection-kills-momentum/)
-- [Bringing Builders Into the Room](https://kevinbellco.com/bringing-builders-into-the-room/)
-- [Consistency Makes the Impossible Inevitable](https://kevinbellco.com/consistency-makes-the-impossible-inevitable/)
-- [Sunday Means Donuts 🍩](https://kevinbellco.com/sunday-means-donuts/)
 <!-- BLOG:END -->
 
 ---
