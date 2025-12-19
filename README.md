@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [What Do You Do For Work?](https://kevinbellco.com/what-do-you-do-for-work/)
+- [Tell Me Your Big Vision](https://kevinbellco.com/tell-me-your-big-vision/)
+- [Building a $1M Community &lpar;Part 2&rpar;](https://kevinbellco.com/building-a-1m-community-part-2/)
 - [Proof I’m Not a Robot](https://kevinbellco.com/proof-im-not-a-robot/)
 - [Old School Wisdom Still Hits](https://kevinbellco.com/old-school-wisdom-still-hits/)
-- [The Real Content Ladder](https://kevinbellco.com/the-real-content-ladder/)
-- [You Only Get 18 Summers](https://kevinbellco.com/you-only-get-18-summers/)
-- [Built by Boldness](https://kevinbellco.com/built-by-boldness/)
 <!-- BLOG:END -->
 
 ---
