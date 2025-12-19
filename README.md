@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Proof I’m Not a Robot](https://kevinbellco.com/proof-im-not-a-robot/)
 - [Old School Wisdom Still Hits](https://kevinbellco.com/old-school-wisdom-still-hits/)
 - [The Real Content Ladder](https://kevinbellco.com/the-real-content-ladder/)
 - [You Only Get 18 Summers](https://kevinbellco.com/you-only-get-18-summers/)
 - [Built by Boldness](https://kevinbellco.com/built-by-boldness/)
-- [A 12-Minute AI Marketing Masterclass](https://kevinbellco.com/a-12-minute-ai-marketing-masterclass/)
 <!-- BLOG:END -->
 
 ---
