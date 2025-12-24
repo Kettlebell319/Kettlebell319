@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [It’s never too late to start 📣](https://kevinbellco.com/its-never-too-late-to-start/)
+- [My Top 10 Books This Year 📖](https://kevinbellco.com/my-top-10-books-this-year/)
 - [What Do You Do For Work?](https://kevinbellco.com/what-do-you-do-for-work/)
 - [Tell Me Your Big Vision](https://kevinbellco.com/tell-me-your-big-vision/)
 - [Building a $1M Community &lpar;Part 2&rpar;](https://kevinbellco.com/building-a-1m-community-part-2/)
-- [Proof I’m Not a Robot](https://kevinbellco.com/proof-im-not-a-robot/)
-- [Old School Wisdom Still Hits](https://kevinbellco.com/old-school-wisdom-still-hits/)
 <!-- BLOG:END -->
 
 ---
