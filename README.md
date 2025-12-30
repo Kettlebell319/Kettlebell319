@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [When Work and Fatherhood Collide](https://kevinbellco.com/when-work-and-fatherhood-collide/)
 - [The Most Practical AI Money Thread I’ve Read](https://kevinbellco.com/the-most-practical-ai-money-thread-ive-read/)
 - [Parents Will Pay for This!](https://kevinbellco.com/parents-will-pay-for-this/)
 - [Beating My Kid to the Plot](https://kevinbellco.com/beating-my-kid-to-the-plot/)
 - [The Edge Lives in the Overlap](https://kevinbellco.com/the-edge-lives-in-the-overlap/)
-- [Be inspired and then keep building YOUR empire...](https://kevinbellco.com/be-inspired-and-then-keep-building-your-empire/)
 <!-- BLOG:END -->
 
 ---
