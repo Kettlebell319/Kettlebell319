@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [When Work and Fatherhood Collide](https://kevinbellco.com/when-work-and-fatherhood-collide/)
-- [The Most Practical AI Money Thread I’ve Read](https://kevinbellco.com/the-most-practical-ai-money-thread-ive-read/)
-- [Parents Will Pay for This!](https://kevinbellco.com/parents-will-pay-for-this/)
-- [Beating My Kid to the Plot](https://kevinbellco.com/beating-my-kid-to-the-plot/)
-- [The Edge Lives in the Overlap](https://kevinbellco.com/the-edge-lives-in-the-overlap/)
+- [Find Someone Who Matches Your Pace](https://kevinbellco.com/find-someone-who-matches-your-pace/)
+- [Not All Christmas Dinners Are at Home](https://kevinbellco.com/not-all-christmas-dinners-are-at-home/)
+- [How Winchell’s Accidentally Created the Donut King](https://kevinbellco.com/how-winchells-accidentally-created-the-donut-king/)
+- [Growing on Twitter Is Both Art and Science](https://kevinbellco.com/growing-on-twitter-is-both-art-and-science/)
+- [This Taylor Swift Realization Stopped Me Cold](https://kevinbellco.com/this-taylor-swift-realization-stopped-me-cold/)
 <!-- BLOG:END -->
 
 ---
