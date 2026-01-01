@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Secret to Building Multiple Businesses and Being a Great Dad:](https://kevinbellco.com/secret-to-building-multiple-businesses-and-being-a-great-dad/)
+- [The secret sauce to building an audience...](https://kevinbellco.com/the-secret-sauce-to-building-an-audience/)
+- [This cannot be said enough!](https://kevinbellco.com/this-cannot-be-said-enough/)
 - [Find Someone Who Matches Your Pace](https://kevinbellco.com/find-someone-who-matches-your-pace/)
 - [Not All Christmas Dinners Are at Home](https://kevinbellco.com/not-all-christmas-dinners-are-at-home/)
-- [How Winchell’s Accidentally Created the Donut King](https://kevinbellco.com/how-winchells-accidentally-created-the-donut-king/)
-- [Growing on Twitter Is Both Art and Science](https://kevinbellco.com/growing-on-twitter-is-both-art-and-science/)
-- [This Taylor Swift Realization Stopped Me Cold](https://kevinbellco.com/this-taylor-swift-realization-stopped-me-cold/)
 <!-- BLOG:END -->
 
 ---
