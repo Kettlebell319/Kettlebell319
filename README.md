@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Secret to Building Multiple Businesses and Being a Great Dad:](https://kevinbellco.com/secret-to-building-multiple-businesses-and-being-a-great-dad/)
-- [The secret sauce to building an audience...](https://kevinbellco.com/the-secret-sauce-to-building-an-audience/)
-- [This cannot be said enough!](https://kevinbellco.com/this-cannot-be-said-enough/)
-- [Find Someone Who Matches Your Pace](https://kevinbellco.com/find-someone-who-matches-your-pace/)
-- [Not All Christmas Dinners Are at Home](https://kevinbellco.com/not-all-christmas-dinners-are-at-home/)
+- [Everything Takes Longer Than You Expect It Will](https://kevinbellco.com/everything-takes-longer-than-you-expect-it-will/)
+- [Why 34 Feels Like My Prime!](https://kevinbellco.com/why-34-feels-like-my-prime/)
+- [THIS is the real stuff.](https://kevinbellco.com/this-is-the-real-stuff/)
+- [Find The People You Aspire To Be Like](https://kevinbellco.com/find-the-people-you-aspire-to-be-like/)
+- [Secret to Building Multiple Businesses and Being a Great Dad](https://kevinbellco.com/secret-to-building-multiple-businesses-and-being-a-great-dad/)
 <!-- BLOG:END -->
 
 ---
