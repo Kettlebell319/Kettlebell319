@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [The Skills and the Location Are the Moat](https://kevinbellco.com/the-skills-and-the-location-are-the-moat/)
-- [The Real Return After 43 Years](https://kevinbellco.com/the-real-return-after-43-years/)
-- [Everything Takes Longer Than You Expect It Will](https://kevinbellco.com/everything-takes-longer-than-you-expect-it-will/)
-- [Why 34 Feels Like My Prime!](https://kevinbellco.com/why-34-feels-like-my-prime/)
-- [THIS is the real stuff.](https://kevinbellco.com/this-is-the-real-stuff/)
+- [We&#39;re On A Donut Mission! 🍩](https://kevinbellco.com/were-on-a-donut-mission/)
+- [Receipts in the Comments 💬](https://kevinbellco.com/receipts-in-the-comments/)
+- [Attention Is the Markup 📈](https://kevinbellco.com/attention-is-the-markup/)
+- [Find What You Love To Do The Most and Keep Doing It!](https://kevinbellco.com/find-what-you-love-to-do-the-most-and-keep-doing-it/)
+- [Which Risk Would You Regret More?](https://kevinbellco.com/which-risk-would-you-regret-more/)
 <!-- BLOG:END -->
 
 ---
