@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Most Present, Most Distracted Parents](https://kevinbellco.com/the-most-present-most-distracted-parents/)
+- [Where Love and Work Overlap](https://kevinbellco.com/where-love-and-work-overlap/)
+- [The Good Ol’ Days](https://kevinbellco.com/the-good-ol-days/)
+- [This kid still DID it!](https://kevinbellco.com/this-kid-still-did-it/)
 - [We&#39;re On A Donut Mission! 🍩](https://kevinbellco.com/were-on-a-donut-mission/)
-- [Receipts in the Comments 💬](https://kevinbellco.com/receipts-in-the-comments/)
-- [Attention Is the Markup 📈](https://kevinbellco.com/attention-is-the-markup/)
-- [Find What You Love To Do The Most and Keep Doing It!](https://kevinbellco.com/find-what-you-love-to-do-the-most-and-keep-doing-it/)
-- [Which Risk Would You Regret More?](https://kevinbellco.com/which-risk-would-you-regret-more/)
 <!-- BLOG:END -->
 
 ---
