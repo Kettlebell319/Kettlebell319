@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Tell Your Story, Someone Is Waiting for It](https://kevinbellco.com/tell-your-story-someone-is-waiting-for-it/)
 - [The Office That Finally Let Me Breathe](https://kevinbellco.com/the-office-that-finally-let-me-breathe/)
 - [Burn the Boats—But Do It the Right Way](https://kevinbellco.com/burn-the-boatsbut-do-it-the-right-way/)
 - [The Most Present, Most Distracted Parents](https://kevinbellco.com/the-most-present-most-distracted-parents/)
 - [Where Love and Work Overlap](https://kevinbellco.com/where-love-and-work-overlap/)
-- [The Good Ol’ Days](https://kevinbellco.com/the-good-ol-days/)
 <!-- BLOG:END -->
 
 ---
