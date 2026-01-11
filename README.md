@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Overlooked Asset Hanging on Every Garage Door](https://kevinbellco.com/the-overlooked-asset-hanging-on-every-garage-door/)
+- [You Don’t Need the Whole Staircase to Take the First Step](https://kevinbellco.com/you-dont-need-the-whole-staircase-to-take-the-first-step/)
 - [Bell Curve of Success](https://kevinbellco.com/bell-curve-of-success/)
 - [Tell Your Story, Someone Is Waiting for It](https://kevinbellco.com/tell-your-story-someone-is-waiting-for-it/)
 - [The Office That Finally Let Me Breathe](https://kevinbellco.com/the-office-that-finally-let-me-breathe/)
-- [Burn the Boats—But Do It the Right Way](https://kevinbellco.com/burn-the-boatsbut-do-it-the-right-way/)
-- [The Most Present, Most Distracted Parents](https://kevinbellco.com/the-most-present-most-distracted-parents/)
 <!-- BLOG:END -->
 
 ---
