@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [How bad do you want it?](https://kevinbellco.com/how-bad-do-you-want-it/)
+- [Redefining Wealth in Small Moments](https://kevinbellco.com/redefining-wealth-in-small-moments/)
+- [Diamonds Don’t Form Without Pressure](https://kevinbellco.com/diamonds-dont-form-without-pressure/)
+- [If You Can Raise Kids, You Can Run a $40M Company](https://kevinbellco.com/if-you-can-raise-kids-you-can-run-a-40m-company/)
 - [Stay-at-Home Parents Would Make the Best CEOs](https://kevinbellco.com/stay-at-home-parents-would-make-the-best-ceos/)
-- [Obsessed People WIN](https://kevinbellco.com/obsessed-people-win/)
-- [You can just do things.](https://kevinbellco.com/you-can-just-do-things-new-new-new/)
-- [The Hard Thing Is Usually the Right Thing](https://kevinbellco.com/the-hard-thing-is-usually-the-right-thing/)
-- [A $1M Biz](https://kevinbellco.com/a-1m-biz/)
 <!-- BLOG:END -->
 
 ---
