@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Zero regrets](https://www.youtube.com/shorts/kTlbLUD2-gA)
 - [This guy is building a product that will compete with ChatGPT](https://www.youtube.com/watch?v=JsTD0Ae_nuE)
 - [Replit Agent 3 test while running Claude code at the same time](https://www.youtube.com/watch?v=lxqFITMZbRg)
 - [GitHub profile makeover for noobs 🙋🏻‍♂️](https://www.youtube.com/watch?v=qIpY61-NzdQ)
 - [My exact workflow building with Claude Code](https://www.youtube.com/watch?v=TTEEzq31U8w)
-- [I filmed my app build for you to learn from](https://www.youtube.com/watch?v=UoapSswrXFA)
 <!-- YOUTUBE:END -->
 
 ---
