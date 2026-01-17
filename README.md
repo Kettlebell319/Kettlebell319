@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You’re Not a Slave to the Algorithm](https://kevinbellco.com/youre-not-a-slave-to-the-algorithm/)
 - [The Rise of the Shiny Object Chaser](https://kevinbellco.com/the-rise-of-the-shiny-object-chaser/)
 - [How bad do you want it?](https://kevinbellco.com/how-bad-do-you-want-it/)
 - [Redefining Wealth in Small Moments](https://kevinbellco.com/redefining-wealth-in-small-moments/)
 - [Diamonds Don’t Form Without Pressure](https://kevinbellco.com/diamonds-dont-form-without-pressure/)
-- [If You Can Raise Kids, You Can Run a $40M Company](https://kevinbellco.com/if-you-can-raise-kids-you-can-run-a-40m-company/)
 <!-- BLOG:END -->
 
 ---
