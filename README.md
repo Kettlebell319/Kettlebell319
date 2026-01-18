@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [An idea that never gets written usually…](https://www.youtube.com/shorts/Fsn_D1v6iYQ)
 - [Find your motivation in the sweetest of places](https://www.youtube.com/shorts/Uf1cq2Y5uu0)
 - [Zero regrets](https://www.youtube.com/shorts/kTlbLUD2-gA)
 - [This guy is building a product that will compete with ChatGPT](https://www.youtube.com/watch?v=JsTD0Ae_nuE)
 - [Replit Agent 3 test while running Claude code at the same time](https://www.youtube.com/watch?v=lxqFITMZbRg)
-- [GitHub profile makeover for noobs 🙋🏻‍♂️](https://www.youtube.com/watch?v=qIpY61-NzdQ)
 <!-- YOUTUBE:END -->
 
 ---
