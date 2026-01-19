@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This guy is making $200/hr with kids toys!](https://www.youtube.com/watch?v=7vowig6WIs0)
 - [Bookworm problems 📚](https://www.youtube.com/shorts/zysyKg3kt6s)
 - [An idea that never gets written usually…](https://www.youtube.com/shorts/Fsn_D1v6iYQ)
 - [Find your motivation in the sweetest of places](https://www.youtube.com/shorts/Uf1cq2Y5uu0)
 - [Zero regrets](https://www.youtube.com/shorts/kTlbLUD2-gA)
-- [This guy is building a product that will compete with ChatGPT](https://www.youtube.com/watch?v=JsTD0Ae_nuE)
 <!-- YOUTUBE:END -->
 
 ---
