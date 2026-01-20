@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Days are a little different now](https://www.youtube.com/shorts/zmZhLgpND3Y)
 - [This guy is making $200/hr with kids toys!](https://www.youtube.com/watch?v=7vowig6WIs0)
 - [Bookworm problems 📚](https://www.youtube.com/shorts/zysyKg3kt6s)
 - [An idea that never gets written usually…](https://www.youtube.com/shorts/Fsn_D1v6iYQ)
 - [Find your motivation in the sweetest of places](https://www.youtube.com/shorts/Uf1cq2Y5uu0)
-- [Zero regrets](https://www.youtube.com/shorts/kTlbLUD2-gA)
 <!-- YOUTUBE:END -->
 
 ---
