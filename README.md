@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [You’re Not a Slave to the Algorithm](https://kevinbellco.com/youre-not-a-slave-to-the-algorithm/)
-- [The Rise of the Shiny Object Chaser](https://kevinbellco.com/the-rise-of-the-shiny-object-chaser/)
-- [How bad do you want it?](https://kevinbellco.com/how-bad-do-you-want-it/)
-- [Redefining Wealth in Small Moments](https://kevinbellco.com/redefining-wealth-in-small-moments/)
-- [Diamonds Don’t Form Without Pressure](https://kevinbellco.com/diamonds-dont-form-without-pressure/)
+- [Not Everyone Can Read Your Boundaries](https://kevinbellco.com/not-everyone-can-read-your-boundaries/)
+- [An idea that never gets written usually disappears...](https://kevinbellco.com/an-idea-that-never-gets-written-usually-disappears/)
+- [This is SATURDAY Night!](https://kevinbellco.com/this-is-saturday-night/)
+- [The world is literally at your fingertips right now...](https://kevinbellco.com/the-world-is-literally-at-your-fingertips-right-now/)
+- [Zero Regrets](https://kevinbellco.com/zero-regrets/)
 <!-- BLOG:END -->
 
 ---
