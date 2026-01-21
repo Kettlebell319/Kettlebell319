@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You are the avg of the 5 people you’re around the most](https://www.youtube.com/shorts/KaZ14cvhLAc)
 - [I left my cop job to work with this guy](https://www.youtube.com/watch?v=M8LzJuHBeBo)
 - [🤫 it’s a secret…](https://www.youtube.com/shorts/VIYmy83eSnA)
 - [Perks of running my own business from home](https://www.youtube.com/shorts/FbY_j7SLu48)
 - [Days are a little different now](https://www.youtube.com/shorts/zmZhLgpND3Y)
-- [This guy is making $200/hr with kids toys!](https://www.youtube.com/watch?v=7vowig6WIs0)
 <!-- YOUTUBE:END -->
 
 ---
