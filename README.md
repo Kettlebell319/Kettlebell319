@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [For Those Who Created Their Own Career](https://kevinbellco.com/for-those-who-created-their-own-career/)
 - [This Really Is The Secret To Success](https://kevinbellco.com/this-really-is-the-secret-to-success/)
 - [Authenticity Will Always Win](https://kevinbellco.com/authenticity-will-always-win/)
 - [Not Everyone Can Read Your Boundaries](https://kevinbellco.com/not-everyone-can-read-your-boundaries/)
 - [An idea that never gets written usually disappears...](https://kevinbellco.com/an-idea-that-never-gets-written-usually-disappears/)
-- [This is SATURDAY Night!](https://kevinbellco.com/this-is-saturday-night/)
 <!-- BLOG:END -->
 
 ---
