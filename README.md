@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 books to read in 2026](https://www.youtube.com/shorts/zviP5L7IYBA)
 - [These ARE the good ol days](https://www.youtube.com/shorts/UYNDgXqMYTg)
 - [I’m not worried](https://www.youtube.com/shorts/EGHtJQd3BDY)
 - [Work from home life…](https://www.youtube.com/shorts/eGxyxT5hVj0)
 - [You are the avg of the 5 people you’re around the most](https://www.youtube.com/shorts/KaZ14cvhLAc)
-- [I left my cop job to work with this guy](https://www.youtube.com/watch?v=M8LzJuHBeBo)
 <!-- YOUTUBE:END -->
 
 ---
