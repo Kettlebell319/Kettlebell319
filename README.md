@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is how a 34 year old dad of 3 keeps it dialed in.](https://www.youtube.com/shorts/UUCJomVc1lQ)
 - [Nothing else matters](https://www.youtube.com/shorts/8FHMrMtzDmc)
 - [5 books to read in 2026](https://www.youtube.com/shorts/zviP5L7IYBA)
 - [These ARE the good ol days](https://www.youtube.com/shorts/UYNDgXqMYTg)
 - [I’m not worried](https://www.youtube.com/shorts/EGHtJQd3BDY)
-- [Work from home life…](https://www.youtube.com/shorts/eGxyxT5hVj0)
 <!-- YOUTUBE:END -->
 
 ---
