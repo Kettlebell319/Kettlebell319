@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I just left my job as a cop. This is what life looks like now](https://www.youtube.com/shorts/rUOfKsLY40g)
 - [This is how a 34 year old dad of 3 keeps it dialed in.](https://www.youtube.com/shorts/UUCJomVc1lQ)
 - [Nothing else matters](https://www.youtube.com/shorts/8FHMrMtzDmc)
 - [5 books to read in 2026](https://www.youtube.com/shorts/zviP5L7IYBA)
 - [These ARE the good ol days](https://www.youtube.com/shorts/UYNDgXqMYTg)
-- [I’m not worried](https://www.youtube.com/shorts/EGHtJQd3BDY)
 <!-- YOUTUBE:END -->
 
 ---
