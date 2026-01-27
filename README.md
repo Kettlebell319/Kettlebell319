@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Identity Before Algorithms](https://kevinbellco.com/identity-before-algorithms/)
 - [The Version of Life You’ll Never Know](https://kevinbellco.com/the-version-of-life-youll-never-know/)
 - [The Simple System Behind 3,000 Reviews](https://kevinbellco.com/the-simple-system-behind-3000-reviews/)
 - [Happy Friday Is a Red Flag 🚩](https://kevinbellco.com/happy-friday-is-a-red-flag/)
 - [This post should have gone viral!](https://kevinbellco.com/this-post-should-have-gone-viral/)
-- [For Those Who Created Their Own Career](https://kevinbellco.com/for-those-who-created-their-own-career/)
 <!-- BLOG:END -->
 
 ---
