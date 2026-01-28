@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Run the Gap](https://kevinbellco.com/run-the-gap/)
 - [Here’s to another “Tool in our Tool Belt”](https://kevinbellco.com/heres-to-another-tool-in-our-tool-belt/)
 - [You Should Start Telling Your Story Now](https://kevinbellco.com/you-should-start-telling-your-story-now/)
 - [Identity Before Algorithms](https://kevinbellco.com/identity-before-algorithms/)
 - [The Version of Life You’ll Never Know](https://kevinbellco.com/the-version-of-life-youll-never-know/)
-- [The Simple System Behind 3,000 Reviews](https://kevinbellco.com/the-simple-system-behind-3000-reviews/)
 <!-- BLOG:END -->
 
 ---
