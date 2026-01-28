@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get out of your comfort zones and dream big!](https://www.youtube.com/shorts/bEfqB9k8gnM)
 - [Follow me for a day](https://www.youtube.com/shorts/K0p2WmgWlTM)
 - [This Guy Rents Out Boxes??](https://www.youtube.com/watch?v=wswhi9XEEdQ)
 - [You’ll make time for what matters most](https://www.youtube.com/shorts/4SJ6HNgpIXo)
 - [I risked it all to pursue my dream…](https://www.youtube.com/shorts/tk-MUtS70MI)
-- [I just left my job as a cop. This is what life looks like now](https://www.youtube.com/shorts/rUOfKsLY40g)
 <!-- YOUTUBE:END -->
 
 ---
