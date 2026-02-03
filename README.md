@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Drew a Circle and Got 5x the Views](https://kevinbellco.com/i-drew-a-circle-and-got-5x-the-views/)
 - [Here&#39;s your cheat sheet ...](https://kevinbellco.com/heres-your-cheat-sheet/)
 - [Why Authenticity Beats the Algorithm](https://kevinbellco.com/why-authenticity-beats-the-algorithm/)
 - [Run the Gap](https://kevinbellco.com/run-the-gap/)
 - [Here’s to another “Tool in our Tool Belt”](https://kevinbellco.com/heres-to-another-tool-in-our-tool-belt/)
-- [You Should Start Telling Your Story Now](https://kevinbellco.com/you-should-start-telling-your-story-now/)
 <!-- BLOG:END -->
 
 ---
