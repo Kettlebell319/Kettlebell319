@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [February 4, 2026](https://www.youtube.com/shorts/WsvxRLgvXpI)
 - [I’m not ashamed to admit this](https://www.youtube.com/shorts/sK23eU2K62E)
 - [Do the hard things first and the rest of the day is easy](https://www.youtube.com/shorts/C91lUd9DQo4)
 - [February 2, 2026](https://www.youtube.com/shorts/2Fpoav4Hvqg)
 - [Forget the workout. Focus on the impact](https://www.youtube.com/shorts/b5-kzLxq3Rs)
-- [Dreams don’t work unless you do](https://www.youtube.com/shorts/e_E2RzWpA0g)
 <!-- YOUTUBE:END -->
 
 ---
