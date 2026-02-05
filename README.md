@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is how I dial in.](https://www.youtube.com/shorts/SC4OH01Fabg)
 - [This guy built an app that every home service company needs](https://www.youtube.com/watch?v=NdIwBJ8F52A)
 - [February 4, 2026](https://www.youtube.com/shorts/WsvxRLgvXpI)
 - [I’m not ashamed to admit this](https://www.youtube.com/shorts/sK23eU2K62E)
 - [Do the hard things first and the rest of the day is easy](https://www.youtube.com/shorts/C91lUd9DQo4)
-- [February 2, 2026](https://www.youtube.com/shorts/2Fpoav4Hvqg)
 <!-- YOUTUBE:END -->
 
 ---
