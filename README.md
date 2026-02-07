@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Proof that &quot;You Can Just Do Things&quot;](https://kevinbellco.com/proof-that-you-can-just-do-things/)
 - [Just Put Yourself In The Room And The Magic Will Happen](https://kevinbellco.com/just-put-yourself-in-the-room-and-the-magic-will-happen/)
 - [How Much Should I Get Paid to Take Over This Business?](https://kevinbellco.com/how-much-should-i-get-paid-to-take-over-this-business/)
 - [Dream BIG](https://kevinbellco.com/dream-big/)
 - [I Don’t Go to Work, I Bring It](https://kevinbellco.com/i-dont-go-to-work-i-bring-it/)
-- [I Drew a Circle and Got 5x the Views](https://kevinbellco.com/i-drew-a-circle-and-got-5x-the-views/)
 <!-- BLOG:END -->
 
 ---
