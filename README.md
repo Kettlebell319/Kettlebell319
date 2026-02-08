@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dad— you need this.](https://www.youtube.com/shorts/KqQipuglbM4)
 - [Dream big](https://www.youtube.com/shorts/uywA3ftNqUs)
 - [The best moments are the ones you don’t always plan](https://www.youtube.com/shorts/s5da8AhXLD8)
 - [These ARE the good ol days](https://www.youtube.com/shorts/6Q-aoXRVPNg)
 - [This is how I dial in.](https://www.youtube.com/shorts/SC4OH01Fabg)
-- [This guy built an app that every home service company needs](https://www.youtube.com/watch?v=NdIwBJ8F52A)
 <!-- YOUTUBE:END -->
 
 ---
