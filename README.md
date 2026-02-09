@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Seriously, this is way harder than being a cop](https://www.youtube.com/shorts/YKn5qMxAl7I)
 - [It’s the little things in life, ya know?](https://www.youtube.com/shorts/I-AhlXI0PRM)
 - [Dad— you need this.](https://www.youtube.com/shorts/KqQipuglbM4)
 - [Dream big](https://www.youtube.com/shorts/uywA3ftNqUs)
 - [The best moments are the ones you don’t always plan](https://www.youtube.com/shorts/s5da8AhXLD8)
-- [These ARE the good ol days](https://www.youtube.com/shorts/6Q-aoXRVPNg)
 <!-- YOUTUBE:END -->
 
 ---
