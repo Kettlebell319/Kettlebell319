@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [These are the good ol days...](https://kevinbellco.com/these-are-the-good-ol-days/)
+- [The Guy Who Made A Fortune With Crypto](https://kevinbellco.com/the-guy-who-made-a-fortune-with-crypto/)
 - [Proof that &quot;You Can Just Do Things&quot;](https://kevinbellco.com/proof-that-you-can-just-do-things/)
 - [Just Put Yourself In The Room And The Magic Will Happen](https://kevinbellco.com/just-put-yourself-in-the-room-and-the-magic-will-happen/)
 - [How Much Should I Get Paid to Take Over This Business?](https://kevinbellco.com/how-much-should-i-get-paid-to-take-over-this-business/)
-- [Dream BIG](https://kevinbellco.com/dream-big/)
-- [I Don’t Go to Work, I Bring It](https://kevinbellco.com/i-dont-go-to-work-i-bring-it/)
 <!-- BLOG:END -->
 
 ---
