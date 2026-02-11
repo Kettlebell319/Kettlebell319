@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You’re living the good ol days right now. Don’t blink.](https://www.youtube.com/shorts/_GnNRGBOXuY)
 - [This guys story is unreal!](https://www.youtube.com/shorts/xGkcMKILp4k)
 - [Join me for a cup.](https://www.youtube.com/shorts/okwcAQoB7jU)
 - [Seriously, this is way harder than being a cop](https://www.youtube.com/shorts/YKn5qMxAl7I)
 - [It’s the little things in life, ya know?](https://www.youtube.com/shorts/I-AhlXI0PRM)
-- [Dad— you need this.](https://www.youtube.com/shorts/KqQipuglbM4)
 <!-- YOUTUBE:END -->
 
 ---
