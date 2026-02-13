@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Stay In The Fight](https://kevinbellco.com/stay-in-the-fight-new/)
 - [$0 to $45k in 6 Months](https://kevinbellco.com/0-to-45k-in-6-months/)
 - [The Only Two Networking Rules You Need](https://kevinbellco.com/the-only-two-networking-rules-you-need/)
 - [These are the good ol days...](https://kevinbellco.com/these-are-the-good-ol-days/)
 - [The Guy Who Made A Fortune With Crypto](https://kevinbellco.com/the-guy-who-made-a-fortune-with-crypto/)
-- [Proof that &quot;You Can Just Do Things&quot;](https://kevinbellco.com/proof-that-you-can-just-do-things/)
 <!-- BLOG:END -->
 
 ---
