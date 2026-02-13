@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [512 pages of an absolute masterpiece.](https://www.youtube.com/shorts/w3rPZ6FOFGE)
 - [My Tuesday as a 34 year old with 3 kids who works from home](https://www.youtube.com/shorts/X11oV8wrOQs)
 - [Do more hard things.](https://www.youtube.com/shorts/SKJbYM8_AJY)
 - [You’re living the good ol days right now. Don’t blink.](https://www.youtube.com/shorts/_GnNRGBOXuY)
 - [This guys story is unreal!](https://www.youtube.com/shorts/xGkcMKILp4k)
-- [Join me for a cup.](https://www.youtube.com/shorts/okwcAQoB7jU)
 <!-- YOUTUBE:END -->
 
 ---
