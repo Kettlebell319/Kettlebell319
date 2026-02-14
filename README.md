@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Success Isn’t the Whole Story](https://kevinbellco.com/success-isnt-the-whole-story/)
+- [From Baby Bump to Business Boom](https://kevinbellco.com/from-baby-bump-to-business-boom/)
+- [Focus And Enjoy The Ride](https://kevinbellco.com/focus-and-enjoy-the-ride/)
+- [This Is Valuable](https://kevinbellco.com/this-is-valuable-new/)
 - [He Started With Laundry. He Ended With $33M](https://kevinbellco.com/he-started-with-laundry-he-ended-with-33m/)
-- [Stay In The Fight](https://kevinbellco.com/stay-in-the-fight-new/)
-- [$0 to $45k in 6 Months](https://kevinbellco.com/0-to-45k-in-6-months/)
-- [The Only Two Networking Rules You Need](https://kevinbellco.com/the-only-two-networking-rules-you-need/)
-- [These are the good ol days...](https://kevinbellco.com/these-are-the-good-ol-days/)
 <!-- BLOG:END -->
 
 ---
