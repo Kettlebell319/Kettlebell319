@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [February 15, 2026](https://www.youtube.com/shorts/z3ffngf7kgM)
 - [Sometimes you need to get up early and push yourself past your previous personal best…](https://www.youtube.com/shorts/XK0D2yp0wUM)
 - [512 pages of an absolute masterpiece.](https://www.youtube.com/shorts/w3rPZ6FOFGE)
 - [My Tuesday as a 34 year old with 3 kids who works from home](https://www.youtube.com/shorts/X11oV8wrOQs)
 - [Do more hard things.](https://www.youtube.com/shorts/SKJbYM8_AJY)
-- [You’re living the good ol days right now. Don’t blink.](https://www.youtube.com/shorts/_GnNRGBOXuY)
 <!-- YOUTUBE:END -->
 
 ---
