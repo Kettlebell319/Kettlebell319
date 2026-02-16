@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Should I be concerned? 🤔](https://kevinbellco.com/should-i-be-concerned/)
+- [Not all entrepreneurs I talk to are making bank](https://kevinbellco.com/not-all-entrepreneurs-i-talk-to-are-making-bank/)
 - [Success Isn’t the Whole Story](https://kevinbellco.com/success-isnt-the-whole-story/)
 - [From Baby Bump to Business Boom](https://kevinbellco.com/from-baby-bump-to-business-boom/)
 - [Focus And Enjoy The Ride](https://kevinbellco.com/focus-and-enjoy-the-ride/)
-- [This Is Valuable](https://kevinbellco.com/this-is-valuable-new/)
-- [He Started With Laundry. He Ended With $33M](https://kevinbellco.com/he-started-with-laundry-he-ended-with-33m/)
 <!-- BLOG:END -->
 
 ---
