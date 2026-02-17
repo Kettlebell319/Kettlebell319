@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Let’s slow time down, one day at a time.](https://www.youtube.com/shorts/fDSF-8gZQfE)
 - [One of the best days of the week, second only to donut day.](https://www.youtube.com/shorts/ChIU3gN0Z9Q)
 - [February 15, 2026](https://www.youtube.com/shorts/z3ffngf7kgM)
 - [Sometimes you need to get up early and push yourself past your previous personal best…](https://www.youtube.com/shorts/XK0D2yp0wUM)
 - [512 pages of an absolute masterpiece.](https://www.youtube.com/shorts/w3rPZ6FOFGE)
-- [My Tuesday as a 34 year old with 3 kids who works from home](https://www.youtube.com/shorts/X11oV8wrOQs)
 <!-- YOUTUBE:END -->
 
 ---
