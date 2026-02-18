@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Any guesses?](https://kevinbellco.com/any-guesses/)
 - [Should I be concerned? 🤔](https://kevinbellco.com/should-i-be-concerned/)
 - [Not all entrepreneurs I talk to are making bank](https://kevinbellco.com/not-all-entrepreneurs-i-talk-to-are-making-bank/)
 - [Success Isn’t the Whole Story](https://kevinbellco.com/success-isnt-the-whole-story/)
 - [From Baby Bump to Business Boom](https://kevinbellco.com/from-baby-bump-to-business-boom/)
-- [Focus And Enjoy The Ride](https://kevinbellco.com/focus-and-enjoy-the-ride/)
 <!-- BLOG:END -->
 
 ---
