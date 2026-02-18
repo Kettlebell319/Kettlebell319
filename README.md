@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I wouldn’t trade those days for anything!](https://www.youtube.com/shorts/aLn1wIaPLj4)
 - [Life is good](https://www.youtube.com/shorts/6_kNX19pCPA)
 - [Let’s slow time down, one day at a time.](https://www.youtube.com/shorts/fDSF-8gZQfE)
 - [One of the best days of the week, second only to donut day.](https://www.youtube.com/shorts/ChIU3gN0Z9Q)
 - [February 15, 2026](https://www.youtube.com/shorts/z3ffngf7kgM)
-- [Sometimes you need to get up early and push yourself past your previous personal best…](https://www.youtube.com/shorts/XK0D2yp0wUM)
 <!-- YOUTUBE:END -->
 
 ---
