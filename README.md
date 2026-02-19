@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [No Ads. No Clout. Just Sharing the Journey](https://kevinbellco.com/no-ads-no-clout-just-sharing-the-journey/)
 - [Built a 6-Figure Business From an Instagram Idea &lpar;Spent $0&rpar;](https://kevinbellco.com/you-can-build-a-6-figure-business-from-an-idea-of-instagram-without-spending-a-dime-of-your-own-money/)
 - [Any guesses?](https://kevinbellco.com/any-guesses/)
 - [Should I be concerned? 🤔](https://kevinbellco.com/should-i-be-concerned/)
 - [Not all entrepreneurs I talk to are making bank](https://kevinbellco.com/not-all-entrepreneurs-i-talk-to-are-making-bank/)
-- [Success Isn’t the Whole Story](https://kevinbellco.com/success-isnt-the-whole-story/)
 <!-- BLOG:END -->
 
 ---
