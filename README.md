@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anyone else feel this way?](https://www.youtube.com/shorts/2JW1s-iqjV0)
 - [If you can dream it, you can build it.](https://www.youtube.com/shorts/Beb0KXFzrNE)
 - [I wouldn’t trade those days for anything!](https://www.youtube.com/shorts/aLn1wIaPLj4)
 - [Life is good](https://www.youtube.com/shorts/6_kNX19pCPA)
 - [Let’s slow time down, one day at a time.](https://www.youtube.com/shorts/fDSF-8gZQfE)
-- [One of the best days of the week, second only to donut day.](https://www.youtube.com/shorts/ChIU3gN0Z9Q)
 <!-- YOUTUBE:END -->
 
 ---
