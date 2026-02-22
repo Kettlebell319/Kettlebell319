@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [POV: You have big goals and you’re actively pursuing them](https://www.youtube.com/shorts/T7Nkq88_UOQ)
 - [And don’t even try and lock the door. It won’t work… it’ll just make them mad.](https://www.youtube.com/shorts/id9DmlbNVf8)
 - [Anyone else feel this way?](https://www.youtube.com/shorts/2JW1s-iqjV0)
 - [If you can dream it, you can build it.](https://www.youtube.com/shorts/Beb0KXFzrNE)
 - [I wouldn’t trade those days for anything!](https://www.youtube.com/shorts/aLn1wIaPLj4)
-- [Life is good](https://www.youtube.com/shorts/6_kNX19pCPA)
 <!-- YOUTUBE:END -->
 
 ---
