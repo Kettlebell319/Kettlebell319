@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [How to Figure Out What You’re Worth](https://kevinbellco.com/how-to-figure-out-what-youre-worth/)
+- [What A Story!](https://kevinbellco.com/what-a-story/)
+- [Saved by Good People](https://kevinbellco.com/saved-by-good-people/)
 - [You Can Just Do Things &lpar;Even at 23&rpar;](https://kevinbellco.com/you-can-just-do-things-even-at-23/)
 - [The $125 Wake-Up Call](https://kevinbellco.com/the-125-wake-up-call/)
-- [If you can dream it, you can build it](https://kevinbellco.com/if-you-can-dream-it-you-can-build-it-new/)
-- [Find yourself friends that randomly send you banger throwback hits.](https://kevinbellco.com/find-yourself-friends-that-randomly-send-you-banger-throwback-hits/)
-- [No Ads. No Clout. Just Sharing the Journey](https://kevinbellco.com/no-ads-no-clout-just-sharing-the-journey/)
 <!-- BLOG:END -->
 
 ---
