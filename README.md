@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Join me on my work trip to Dallas and then back, in one day.](https://www.youtube.com/shorts/Q8LqYj8Ho6M)
 - [Another Wednesday in paradise](https://www.youtube.com/shorts/19ud5YnyvPY)
 - [Dad, step up your game.](https://www.youtube.com/shorts/R_v6HWXjerc)
 - [If you’re a parent, you should read this book](https://www.youtube.com/shorts/t6rc64U5Mo0)
 - [February 24, 2026](https://www.youtube.com/shorts/FSoD8E7FQp8)
-- [Best decision I’ve ever made to work from home. Zero regrets.](https://www.youtube.com/shorts/aYfQIfx01Dk)
 <!-- YOUTUBE:END -->
 
 ---
