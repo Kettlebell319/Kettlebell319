@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Calling All Cool Dallas Businesses](https://kevinbellco.com/calling-all-cool-dallas-businesses/)
+- [The 9–5 Employee Making Six Figures Side Hustle](https://kevinbellco.com/the-95-employee-making-six-figures-side-hustle/)
 - [How to Figure Out What You’re Worth](https://kevinbellco.com/how-to-figure-out-what-youre-worth/)
 - [What A Story!](https://kevinbellco.com/what-a-story/)
 - [Saved by Good People](https://kevinbellco.com/saved-by-good-people/)
-- [You Can Just Do Things &lpar;Even at 23&rpar;](https://kevinbellco.com/you-can-just-do-things-even-at-23/)
-- [The $125 Wake-Up Call](https://kevinbellco.com/the-125-wake-up-call/)
 <!-- BLOG:END -->
 
 ---
