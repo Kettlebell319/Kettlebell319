@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You Can Build Anything Now &lpar;Even If You Can’t Code&rpar;](https://kevinbellco.com/you-can-build-anything-now-even-if-you-cant-code/)
 - [Calling All Cool Dallas Businesses](https://kevinbellco.com/calling-all-cool-dallas-businesses/)
 - [The 9–5 Employee Making Six Figures Side Hustle](https://kevinbellco.com/the-95-employee-making-six-figures-side-hustle/)
 - [How to Figure Out What You’re Worth](https://kevinbellco.com/how-to-figure-out-what-youre-worth/)
 - [What A Story!](https://kevinbellco.com/what-a-story/)
-- [Saved by Good People](https://kevinbellco.com/saved-by-good-people/)
 <!-- BLOG:END -->
 
 ---
