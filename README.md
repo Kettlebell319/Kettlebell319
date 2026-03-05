@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Join me for a workout and coffee](https://www.youtube.com/shorts/2mTGlpUsk1Y)
 - [I’m 34 with 3 kids an I’m tired](https://www.youtube.com/shorts/CkllSNcpsjc)
 - [I knew this would happen…](https://www.youtube.com/shorts/Dz2UVg3xB74)
 - [Spoiler, I made weight and ate pizza and donuts](https://www.youtube.com/shorts/YFGczeXqdug)
 - [Part 1 — will I make it??](https://www.youtube.com/shorts/dUz8uh-B9j4)
-- [Join me on my work trip to Dallas and then back, in one day.](https://www.youtube.com/shorts/Q8LqYj8Ho6M)
 <!-- YOUTUBE:END -->
 
 ---
