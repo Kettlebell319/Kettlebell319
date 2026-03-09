@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [It’s Saturday night and you’re low on ice cream](https://www.youtube.com/shorts/oRaTFPqk9XE)
 - [Before anyone says anything, I didn’t eat ALL the donuts myself. 🤣](https://www.youtube.com/shorts/BYyXM9e5GB8)
 - [March 7, 2026](https://www.youtube.com/shorts/xqpyFcz9u-4)
 - [10 min goes by way too fast!](https://www.youtube.com/shorts/BnkHO6yDpQY)
 - [Join me for a workout and coffee](https://www.youtube.com/shorts/2mTGlpUsk1Y)
-- [I’m 34 with 3 kids an I’m tired](https://www.youtube.com/shorts/CkllSNcpsjc)
 <!-- YOUTUBE:END -->
 
 ---
