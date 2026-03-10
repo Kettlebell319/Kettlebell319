@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Just sayin&#39;...](https://kevinbellco.com/just-sayin/)
+- [One Poster. 200M Views. 900 Drivers.](https://kevinbellco.com/one-poster-200m-views-900-drivers/)
 - [Most Opportunities Look Ordinary](https://kevinbellco.com/most-opportunities-look-ordinary/)
 - [Focus on PURPOSE and PASSION and let the rest fall into place...](https://kevinbellco.com/focus-on-purpose-and-passion-and-let-the-rest-fall-into-place/)
 - [Freemium Marriage](https://kevinbellco.com/freemium-marriage/)
-- [You Can Build Anything Now &lpar;Even If You Can’t Code&rpar;](https://kevinbellco.com/you-can-build-anything-now-even-if-you-cant-code/)
-- [Calling All Cool Dallas Businesses](https://kevinbellco.com/calling-all-cool-dallas-businesses/)
 <!-- BLOG:END -->
 
 ---
