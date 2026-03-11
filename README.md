@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Told My Dad to Let AI Teach Him AI](https://kevinbellco.com/i-told-my-dad-to-let-ai-teach-him-ai/)
+- [The Kidpreneur Who Helped Buy the Family’s Dream Car](https://kevinbellco.com/the-kidpreneur-who-helped-buy-the-familys-dream-car/)
 - [The Vibecoding Generation Is Here](https://kevinbellco.com/the-vibecoding-generation-is-here/)
 - [$2M From AI Without Being a Developer](https://kevinbellco.com/2m-from-ai-without-being-a-developer/)
 - [Just sayin&#39;...](https://kevinbellco.com/just-sayin/)
-- [One Poster. 200M Views. 900 Drivers.](https://kevinbellco.com/one-poster-200m-views-900-drivers/)
-- [Most Opportunities Look Ordinary](https://kevinbellco.com/most-opportunities-look-ordinary/)
 <!-- BLOG:END -->
 
 ---
