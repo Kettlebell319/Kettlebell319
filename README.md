@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Me, married for 12 years with 3 kids](https://www.youtube.com/shorts/1Sc9VDPAda4)
+- [Your dream life is more within your reach than you think](https://www.youtube.com/shorts/hd4bzx5RIHQ)
 - [Throwing the algorithm out the window and nerding out for a sec](https://www.youtube.com/shorts/XHHYnczbiuQ)
 - [It’s Saturday night and you’re low on ice cream](https://www.youtube.com/shorts/oRaTFPqk9XE)
 - [Before anyone says anything, I didn’t eat ALL the donuts myself. 🤣](https://www.youtube.com/shorts/BYyXM9e5GB8)
-- [March 7, 2026](https://www.youtube.com/shorts/xqpyFcz9u-4)
-- [10 min goes by way too fast!](https://www.youtube.com/shorts/BnkHO6yDpQY)
 <!-- YOUTUBE:END -->
 
 ---
