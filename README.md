@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My wife and daughters took over my bed](https://www.youtube.com/shorts/NJdT3KAYBRM)
 - [You don’t need to be an expert](https://www.youtube.com/shorts/hHWcpoqPUog)
 - [I’m 34 with 3 kids. This is what I eat](https://www.youtube.com/shorts/l95jdWyCHNY)
 - [Me, married for 12 years with 3 kids](https://www.youtube.com/shorts/1Sc9VDPAda4)
 - [Your dream life is more within your reach than you think](https://www.youtube.com/shorts/hd4bzx5RIHQ)
-- [Throwing the algorithm out the window and nerding out for a sec](https://www.youtube.com/shorts/XHHYnczbiuQ)
 <!-- YOUTUBE:END -->
 
 ---
