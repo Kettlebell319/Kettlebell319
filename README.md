@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Exported 3 Years of My ChatGPT Brain](https://kevinbellco.com/i-exported-3-years-of-my-chatgpt-brain/)
+- [Do something about](https://kevinbellco.com/do-something-about/)
 - [I Told My Dad to Let AI Teach Him AI](https://kevinbellco.com/i-told-my-dad-to-let-ai-teach-him-ai/)
 - [The Kidpreneur Who Helped Buy the Family’s Dream Car](https://kevinbellco.com/the-kidpreneur-who-helped-buy-the-familys-dream-car/)
 - [The Vibecoding Generation Is Here](https://kevinbellco.com/the-vibecoding-generation-is-here/)
-- [$2M From AI Without Being a Developer](https://kevinbellco.com/2m-from-ai-without-being-a-developer/)
-- [Just sayin&#39;...](https://kevinbellco.com/just-sayin/)
 <!-- BLOG:END -->
 
 ---
