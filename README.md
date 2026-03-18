@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don’t listen to it](https://www.youtube.com/shorts/YfmKC4Wl27g)
 - [This is the new kind of wealth](https://www.youtube.com/shorts/3yQKJs3RHA0)
 - [My wife and daughters took over my bed](https://www.youtube.com/shorts/NJdT3KAYBRM)
 - [You don’t need to be an expert](https://www.youtube.com/shorts/hHWcpoqPUog)
 - [I’m 34 with 3 kids. This is what I eat](https://www.youtube.com/shorts/l95jdWyCHNY)
-- [Me, married for 12 years with 3 kids](https://www.youtube.com/shorts/1Sc9VDPAda4)
 <!-- YOUTUBE:END -->
 
 ---
