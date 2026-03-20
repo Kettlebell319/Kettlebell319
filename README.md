@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Let AI Run My Day…](https://kevinbellco.com/i-let-ai-run-my-day/)
+- [Take one of your WILD ideas and build it](https://kevinbellco.com/take-one-of-your-wild-ideas-and-build-it/)
+- [Love hearing stories like this!](https://kevinbellco.com/love-hearing-stories-like-this/)
+- [I Built All This with Claude &lpar;No Code&rpar;](https://kevinbellco.com/i-built-all-this-with-claude-no-code/)
 - [Claude Just Updated the 4-Hour Workweek](https://kevinbellco.com/claude-just-updated-the-4-hour-workweek/)
-- [He Built His Own AI David Goggins](https://kevinbellco.com/he-built-his-own-ai-david-goggins/)
-- [I Exported 3 Years of My ChatGPT Brain](https://kevinbellco.com/i-exported-3-years-of-my-chatgpt-brain/)
-- [Do something about](https://kevinbellco.com/do-something-about/)
-- [I Told My Dad to Let AI Teach Him AI](https://kevinbellco.com/i-told-my-dad-to-let-ai-teach-him-ai/)
 <!-- BLOG:END -->
 
 ---
