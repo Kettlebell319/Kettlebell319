@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [They notice and it’s worth it](https://www.youtube.com/shorts/0nS4cz84Eag)
 - [My life changed last year. Yours can too](https://www.youtube.com/shorts/bbf7d0LNBg4)
 - [Don’t listen to it](https://www.youtube.com/shorts/YfmKC4Wl27g)
 - [This is the new kind of wealth](https://www.youtube.com/shorts/3yQKJs3RHA0)
 - [My wife and daughters took over my bed](https://www.youtube.com/shorts/NJdT3KAYBRM)
-- [You don’t need to be an expert](https://www.youtube.com/shorts/hHWcpoqPUog)
 <!-- YOUTUBE:END -->
 
 ---
