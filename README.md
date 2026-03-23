@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Make sure your kids know the truth.](https://www.youtube.com/shorts/h1NG4kyii-Q)
 - [You’re 35 with 3 kids, these are your weeknd plans.](https://www.youtube.com/shorts/j4xiAdeMKlY)
 - [They notice and it’s worth it](https://www.youtube.com/shorts/0nS4cz84Eag)
 - [My life changed last year. Yours can too](https://www.youtube.com/shorts/bbf7d0LNBg4)
 - [Don’t listen to it](https://www.youtube.com/shorts/YfmKC4Wl27g)
-- [This is the new kind of wealth](https://www.youtube.com/shorts/3yQKJs3RHA0)
 <!-- YOUTUBE:END -->
 
 ---
