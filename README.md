@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I left a secure $120k/year career…](https://www.youtube.com/shorts/IKOac0jR4N8)
 - [Be a dad that can do this](https://www.youtube.com/shorts/5TgnMaGfpOI)
 - [Strong momma](https://www.youtube.com/shorts/_aS6q-XgKkc)
 - [Make sure your kids know the truth.](https://www.youtube.com/shorts/h1NG4kyii-Q)
 - [You’re 35 with 3 kids, these are your weeknd plans.](https://www.youtube.com/shorts/j4xiAdeMKlY)
-- [They notice and it’s worth it](https://www.youtube.com/shorts/0nS4cz84Eag)
 <!-- YOUTUBE:END -->
 
 ---
