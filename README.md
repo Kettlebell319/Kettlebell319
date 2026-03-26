@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Stay Updated, Get Paid](https://kevinbellco.com/stay-updated-get-paid/)
 - [If you aren’t building YOUR empire, you’re building it for someone else.](https://kevinbellco.com/if-you-arent-building-your-empire-youre-building-it-for-someone-else/)
 - [$1K for Thinking, Not Doing](https://kevinbellco.com/1k-for-thinking-not-doing/)
 - [Built While Moving. What’s Your Excuse?](https://kevinbellco.com/built-while-moving-whats-your-excuse/)
 - [The AI Hustle Has No Age Limit](https://kevinbellco.com/the-ai-hustle-has-no-age-limit/)
-- [I Let AI Run My Day…](https://kevinbellco.com/i-let-ai-run-my-day/)
 <!-- BLOG:END -->
 
 ---
