@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Don&#39;t miss it...](https://kevinbellco.com/dont-miss-it/)
 - [He Let His AI Agent Build a $40K/Month Business](https://kevinbellco.com/he-let-his-ai-agent-build-a-40kmonth-business/)
 - [Stay Updated, Get Paid](https://kevinbellco.com/stay-updated-get-paid/)
 - [If you aren’t building YOUR empire, you’re building it for someone else.](https://kevinbellco.com/if-you-arent-building-your-empire-youre-building-it-for-someone-else/)
 - [$1K for Thinking, Not Doing](https://kevinbellco.com/1k-for-thinking-not-doing/)
-- [Built While Moving. What’s Your Excuse?](https://kevinbellco.com/built-while-moving-whats-your-excuse/)
 <!-- BLOG:END -->
 
 ---
