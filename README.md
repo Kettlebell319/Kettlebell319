@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [One of the hardest realizations as a parent](https://www.youtube.com/shorts/yOHWiykzdLU)
 - [This is how a 35 year old with 3 kids does Vegas alone…](https://www.youtube.com/shorts/OqkXYE_KDhY)
 - [I never travel without these](https://www.youtube.com/shorts/1ygCGAwtSsg)
 - [Don’t blink](https://www.youtube.com/shorts/KNW740EMgcY)
 - [I left a secure $120k/year career…](https://www.youtube.com/shorts/IKOac0jR4N8)
-- [Be a dad that can do this](https://www.youtube.com/shorts/5TgnMaGfpOI)
 <!-- YOUTUBE:END -->
 
 ---
