@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is Vegas at 35 with 3 kids](https://www.youtube.com/shorts/BaNVDzEhI5Q)
 - [Life is too short to not live a little](https://www.youtube.com/shorts/Avzv7fAHaCI)
 - [One of the hardest realizations as a parent](https://www.youtube.com/shorts/yOHWiykzdLU)
 - [This is how a 35 year old with 3 kids does Vegas alone…](https://www.youtube.com/shorts/OqkXYE_KDhY)
 - [I never travel without these](https://www.youtube.com/shorts/1ygCGAwtSsg)
-- [Don’t blink](https://www.youtube.com/shorts/KNW740EMgcY)
 <!-- YOUTUBE:END -->
 
 ---
