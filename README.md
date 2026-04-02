@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [If It Feels Uncomfortable, Go](https://kevinbellco.com/if-it-feels-uncomfortable-go/)
 - [They Took Action](https://kevinbellco.com/they-took-action/)
 - [You HAVE to Experiment](https://kevinbellco.com/you-have-to-experiment/)
 - [The Best Way To Do Things Is The Hardest Way](https://kevinbellco.com/the-best-way-to-do-things-is-the-hardest-way/)
 - [Don&#39;t miss it...](https://kevinbellco.com/dont-miss-it/)
-- [He Let His AI Agent Build a $40K/Month Business](https://kevinbellco.com/he-let-his-ai-agent-build-a-40kmonth-business/)
 <!-- BLOG:END -->
 
 ---
