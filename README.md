@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Without kids, you miss lessons you can’t imagine](https://kevinbellco.com/without-kids-you-miss-lessons-you-cant-imagine/)
 - [If It Feels Uncomfortable, Go](https://kevinbellco.com/if-it-feels-uncomfortable-go/)
 - [They Took Action](https://kevinbellco.com/they-took-action/)
 - [You HAVE to Experiment](https://kevinbellco.com/you-have-to-experiment/)
 - [The Best Way To Do Things Is The Hardest Way](https://kevinbellco.com/the-best-way-to-do-things-is-the-hardest-way/)
-- [Don&#39;t miss it...](https://kevinbellco.com/dont-miss-it/)
 <!-- BLOG:END -->
 
 ---
