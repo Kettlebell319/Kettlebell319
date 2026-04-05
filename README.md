@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Friday night pizza is so freaking good](https://www.youtube.com/shorts/qbJH_mszprI)
 - [The crazy part is, the macros are amazing!](https://www.youtube.com/shorts/RDtiOiimrRs)
 - [Homemade protein ice cream](https://www.youtube.com/shorts/Zy4eu-r5pJg)
 - [This is Vegas at 35 with 3 kids](https://www.youtube.com/shorts/BaNVDzEhI5Q)
 - [Life is too short to not live a little](https://www.youtube.com/shorts/Avzv7fAHaCI)
-- [One of the hardest realizations as a parent](https://www.youtube.com/shorts/yOHWiykzdLU)
 <!-- YOUTUBE:END -->
 
 ---
