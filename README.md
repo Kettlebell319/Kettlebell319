@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Let Claude Teach Me OpenClaw](https://kevinbellco.com/i-let-claude-teach-me-openclaw/)
+- [This Is So Freaking Cool](https://kevinbellco.com/this-is-so-freaking-cool-new/)
+- [This Is So Freaking Cool](https://kevinbellco.com/this-is-so-freaking-cool/)
 - [They’ll Pay You to Figure Out What They Won’t](https://kevinbellco.com/theyll-pay-you-to-figure-out-what-they-wont/)
 - [The gap between the AI Twitter bubble and the real world is MASSIVE.](https://kevinbellco.com/the-gap-between-the-ai-twitter-bubble-and-the-real-world-is-massive/)
-- [This mentality will change your life](https://kevinbellco.com/this-mentality-will-change-your-life/)
-- [YOU CAN’T AUTOMATE EVERYTHING](https://kevinbellco.com/you-cant-automate-everything/)
-- [Without kids, you miss lessons you can’t imagine](https://kevinbellco.com/without-kids-you-miss-lessons-you-cant-imagine/)
 <!-- BLOG:END -->
 
 ---
