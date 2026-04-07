@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [They’ll Pay You to Figure Out What They Won’t](https://kevinbellco.com/theyll-pay-you-to-figure-out-what-they-wont/)
+- [The gap between the AI Twitter bubble and the real world is MASSIVE.](https://kevinbellco.com/the-gap-between-the-ai-twitter-bubble-and-the-real-world-is-massive/)
+- [This mentality will change your life](https://kevinbellco.com/this-mentality-will-change-your-life/)
+- [YOU CAN’T AUTOMATE EVERYTHING](https://kevinbellco.com/you-cant-automate-everything/)
 - [Without kids, you miss lessons you can’t imagine](https://kevinbellco.com/without-kids-you-miss-lessons-you-cant-imagine/)
-- [If It Feels Uncomfortable, Go](https://kevinbellco.com/if-it-feels-uncomfortable-go/)
-- [They Took Action](https://kevinbellco.com/they-took-action/)
-- [You HAVE to Experiment](https://kevinbellco.com/you-have-to-experiment/)
-- [The Best Way To Do Things Is The Hardest Way](https://kevinbellco.com/the-best-way-to-do-things-is-the-hardest-way/)
 <!-- BLOG:END -->
 
 ---
