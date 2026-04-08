@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Phone Call Notes, Finally Solved &lpar;Granola Just Did It&rpar;](https://kevinbellco.com/phone-call-notes-finally-solved-granola-just-did-it/)
+- [Expose Your Business. Get Smarter](https://kevinbellco.com/expose-your-business-get-smarter-free-ai-audit/)
+- [You just have to play around and learn through failure](https://kevinbellco.com/you-just-have-to-play-around-and-learn-through-failure/)
 - [I Let Claude Teach Me OpenClaw](https://kevinbellco.com/i-let-claude-teach-me-openclaw/)
-- [This Is So Freaking Cool](https://kevinbellco.com/this-is-so-freaking-cool-new/)
 - [This Is So Freaking Cool](https://kevinbellco.com/this-is-so-freaking-cool/)
-- [They’ll Pay You to Figure Out What They Won’t](https://kevinbellco.com/theyll-pay-you-to-figure-out-what-they-wont/)
-- [The gap between the AI Twitter bubble and the real world is MASSIVE.](https://kevinbellco.com/the-gap-between-the-ai-twitter-bubble-and-the-real-world-is-massive/)
 <!-- BLOG:END -->
 
 ---
