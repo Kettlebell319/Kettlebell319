@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [35yo with 3 kids— this is Saturday morning at 4am](https://www.youtube.com/shorts/YtuRDUGUP0w)
 - [Golden - carpool addition](https://www.youtube.com/shorts/vG1uqGVLBxc)
 - [Weird…](https://www.youtube.com/shorts/zkyrK8S-zgA)
 - [This Friday night pizza is so freaking good](https://www.youtube.com/shorts/qbJH_mszprI)
 - [The crazy part is, the macros are amazing!](https://www.youtube.com/shorts/RDtiOiimrRs)
-- [Homemade protein ice cream](https://www.youtube.com/shorts/Zy4eu-r5pJg)
 <!-- YOUTUBE:END -->
 
 ---
