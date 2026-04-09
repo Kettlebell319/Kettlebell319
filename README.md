@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why you need to start NOW](https://www.youtube.com/shorts/4L3zrvvE6Nc)
 - [Parenting in your 30s](https://www.youtube.com/shorts/9LY3d5yO4hE)
 - [35yo with 3 kids— this is Saturday morning at 4am](https://www.youtube.com/shorts/YtuRDUGUP0w)
 - [Golden - carpool addition](https://www.youtube.com/shorts/vG1uqGVLBxc)
 - [Weird…](https://www.youtube.com/shorts/zkyrK8S-zgA)
-- [This Friday night pizza is so freaking good](https://www.youtube.com/shorts/qbJH_mszprI)
 <!-- YOUTUBE:END -->
 
 ---
