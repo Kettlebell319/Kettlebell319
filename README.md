@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [To all the work from home dads out there…](https://www.youtube.com/shorts/PSApNKtrlUw)
 - [Saturday morning coffee ASMR](https://www.youtube.com/shorts/39DY3wRXTKQ)
 - [I’m 35 now. This can’t be right…](https://www.youtube.com/shorts/D5FhRDvX5oI)
 - [Why you need to start NOW](https://www.youtube.com/shorts/4L3zrvvE6Nc)
 - [Parenting in your 30s](https://www.youtube.com/shorts/9LY3d5yO4hE)
-- [35yo with 3 kids— this is Saturday morning at 4am](https://www.youtube.com/shorts/YtuRDUGUP0w)
 <!-- YOUTUBE:END -->
 
 ---
