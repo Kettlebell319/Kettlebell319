@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Morning sync with my AI](https://kevinbellco.com/morning-sync-with-my-ai/)
+- [This stuff is WAY easier than you think](https://kevinbellco.com/this-stuff-is-way-easier-than-you-think/)
+- [The Limit Is Now Really Just Your Imagination and Your Willingness to Experiment](https://kevinbellco.com/the-limit-is-now-really-just-your-imagination-and-your-willingness-to-experiment/)
 - [Why Fractional CAIOs Are the Next Big Consulting Wave](https://kevinbellco.com/why-fractional-caios-are-the-next-big-consulting-wave/)
 - [OUR JOB is to stay in the fight and put one foot in front of the other](https://kevinbellco.com/our-job-is-to-stay-in-the-fight-and-put-one-foot-in-front-of-the-other/)
-- [Here&#39;s one of my “money rules”](https://kevinbellco.com/heres-one-of-my-money-rules/)
-- [If you can DREAM it, you can BUILD it](https://kevinbellco.com/if-you-can-dream-it-you-can-build-it-new-new-new/)
-- [Phone Call Notes, Finally Solved &lpar;Granola Just Did It&rpar;](https://kevinbellco.com/phone-call-notes-finally-solved-granola-just-did-it/)
 <!-- BLOG:END -->
 
 ---
