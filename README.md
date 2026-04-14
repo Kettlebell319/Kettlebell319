@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [If You’re Not Hosting AI Workshops, You’re Late](https://kevinbellco.com/if-youre-not-hosting-ai-workshops-youre-late/)
 - [Morning sync with my AI](https://kevinbellco.com/morning-sync-with-my-ai/)
 - [This stuff is WAY easier than you think](https://kevinbellco.com/this-stuff-is-way-easier-than-you-think/)
 - [The Limit Is Now Really Just Your Imagination and Your Willingness to Experiment](https://kevinbellco.com/the-limit-is-now-really-just-your-imagination-and-your-willingness-to-experiment/)
 - [Why Fractional CAIOs Are the Next Big Consulting Wave](https://kevinbellco.com/why-fractional-caios-are-the-next-big-consulting-wave/)
-- [OUR JOB is to stay in the fight and put one foot in front of the other](https://kevinbellco.com/our-job-is-to-stay-in-the-fight-and-put-one-foot-in-front-of-the-other/)
 <!-- BLOG:END -->
 
 ---
