@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The only way to travel](https://www.youtube.com/shorts/Ed0Udrj6w0c)
 - [When your kids ask what you did with your life…](https://www.youtube.com/shorts/ULzwCWjcy5I)
 - [To all the work from home dads out there…](https://www.youtube.com/shorts/PSApNKtrlUw)
 - [Saturday morning coffee ASMR](https://www.youtube.com/shorts/39DY3wRXTKQ)
 - [I’m 35 now. This can’t be right…](https://www.youtube.com/shorts/D5FhRDvX5oI)
-- [Why you need to start NOW](https://www.youtube.com/shorts/4L3zrvvE6Nc)
 <!-- YOUTUBE:END -->
 
 ---
