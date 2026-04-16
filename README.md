@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [How I’m Explaining AI to Someone Who’s Already Technical](https://kevinbellco.com/how-im-explaining-ai-to-someone-whos-already-technical/)
 - [9 Hours in an AI Workshop—Here’s What Actually Matters](https://kevinbellco.com/9-hours-in-an-ai-workshopheres-what-actually-matters/)
 - [If You’re Not Hosting AI Workshops, You’re Late](https://kevinbellco.com/if-youre-not-hosting-ai-workshops-youre-late/)
 - [Morning sync with my AI](https://kevinbellco.com/morning-sync-with-my-ai/)
 - [This stuff is WAY easier than you think](https://kevinbellco.com/this-stuff-is-way-easier-than-you-think/)
-- [The Limit Is Now Really Just Your Imagination and Your Willingness to Experiment](https://kevinbellco.com/the-limit-is-now-really-just-your-imagination-and-your-willingness-to-experiment/)
 <!-- BLOG:END -->
 
 ---
