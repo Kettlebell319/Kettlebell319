@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don’t wait.](https://www.youtube.com/shorts/uJ10jO6Tnx4)
 - [It’s always worth it](https://www.youtube.com/shorts/rhIwanI6DFw)
 - [The only way to travel](https://www.youtube.com/shorts/Ed0Udrj6w0c)
 - [When your kids ask what you did with your life…](https://www.youtube.com/shorts/ULzwCWjcy5I)
 - [To all the work from home dads out there…](https://www.youtube.com/shorts/PSApNKtrlUw)
-- [Saturday morning coffee ASMR](https://www.youtube.com/shorts/39DY3wRXTKQ)
 <!-- YOUTUBE:END -->
 
 ---
