@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The power is in the hands of the dreamers and visionaries](https://kevinbellco.com/the-power-is-in-the-hands-of-the-dreamers-and-visionaries/)
+- [Here&#39;s your sign!](https://kevinbellco.com/heres-your-sign/)
+- [You can literally just do things!](https://kevinbellco.com/you-can-literally-just-do-things-new/)
 - [THIS is exactly what I&#39;m talking about](https://kevinbellco.com/this-is-exactly-what-im-talking-about/)
 - [Provide As Much Value As Possible](https://kevinbellco.com/provide-as-much-value-as-possible/)
-- [How I’m Explaining AI to Someone Who’s Already Technical](https://kevinbellco.com/how-im-explaining-ai-to-someone-whos-already-technical/)
-- [9 Hours in an AI Workshop—Here’s What Actually Matters](https://kevinbellco.com/9-hours-in-an-ai-workshopheres-what-actually-matters/)
-- [If You’re Not Hosting AI Workshops, You’re Late](https://kevinbellco.com/if-youre-not-hosting-ai-workshops-youre-late/)
 <!-- BLOG:END -->
 
 ---
