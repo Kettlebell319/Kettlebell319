@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [THIS is exactly what I&#39;m talking about](https://kevinbellco.com/this-is-exactly-what-im-talking-about/)
+- [Provide As Much Value As Possible](https://kevinbellco.com/provide-as-much-value-as-possible/)
 - [How I’m Explaining AI to Someone Who’s Already Technical](https://kevinbellco.com/how-im-explaining-ai-to-someone-whos-already-technical/)
 - [9 Hours in an AI Workshop—Here’s What Actually Matters](https://kevinbellco.com/9-hours-in-an-ai-workshopheres-what-actually-matters/)
 - [If You’re Not Hosting AI Workshops, You’re Late](https://kevinbellco.com/if-youre-not-hosting-ai-workshops-youre-late/)
-- [Morning sync with my AI](https://kevinbellco.com/morning-sync-with-my-ai/)
-- [This stuff is WAY easier than you think](https://kevinbellco.com/this-stuff-is-way-easier-than-you-think/)
 <!-- BLOG:END -->
 
 ---
