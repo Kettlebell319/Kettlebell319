@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [This is a race that’s going to continue.](https://kevinbellco.com/this-is-a-race-thats-going-to-continue/)
 - [The power is in the hands of the dreamers and visionaries](https://kevinbellco.com/the-power-is-in-the-hands-of-the-dreamers-and-visionaries/)
 - [Here&#39;s your sign!](https://kevinbellco.com/heres-your-sign/)
 - [You can literally just do things!](https://kevinbellco.com/you-can-literally-just-do-things-new/)
 - [THIS is exactly what I&#39;m talking about](https://kevinbellco.com/this-is-exactly-what-im-talking-about/)
-- [Provide As Much Value As Possible](https://kevinbellco.com/provide-as-much-value-as-possible/)
 <!-- BLOG:END -->
 
 ---
