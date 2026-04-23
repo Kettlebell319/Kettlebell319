@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Zero regrets](https://www.youtube.com/shorts/wXtVXE8ESFs)
 - [It was worth it](https://www.youtube.com/shorts/0tPavHJd1Ts)
 - [Half Ironman with zero training](https://www.youtube.com/shorts/5-uTDoHuw2A)
 - [Don’t wait.](https://www.youtube.com/shorts/uJ10jO6Tnx4)
 - [It’s always worth it](https://www.youtube.com/shorts/rhIwanI6DFw)
-- [The only way to travel](https://www.youtube.com/shorts/Ed0Udrj6w0c)
 <!-- YOUTUBE:END -->
 
 ---
