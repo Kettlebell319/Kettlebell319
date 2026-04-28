@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [My kids call ChatGPT “the blue circle”](https://kevinbellco.com/my-kids-call-chatgpt-the-blue-circle/)
 - [To AI Consultants: It’s Not About the Tools—It’s About Listening](https://kevinbellco.com/to-ai-consultants-its-not-about-the-toolsits-about-listening/)
 - [Best thing I&#39;ve seen on Twitter all week 🤣](https://kevinbellco.com/best-thing-ive-seen-on-twitter-all-week/)
 - [Complete ChatGPT Image 2.0 demo](https://kevinbellco.com/complete-chatgpt-image-20-demo/)
 - [Talk to People Making More Money Than You](https://kevinbellco.com/talk-to-people-making-more-money-than-you/)
-- [I Gave an AI Presentation — These Were the Only Questions That Mattered](https://kevinbellco.com/i-gave-an-ai-presentation-these-were-the-only-questions-that-mattered/)
 <!-- BLOG:END -->
 
 ---
