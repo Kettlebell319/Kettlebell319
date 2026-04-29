@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [My kids call ChatGPT “the blue circle”](https://kevinbellco.com/my-kids-call-chatgpt-the-blue-circle/)
-- [To AI Consultants: It’s Not About the Tools—It’s About Listening](https://kevinbellco.com/to-ai-consultants-its-not-about-the-toolsits-about-listening/)
-- [Best thing I&#39;ve seen on Twitter all week 🤣](https://kevinbellco.com/best-thing-ive-seen-on-twitter-all-week/)
-- [Complete ChatGPT Image 2.0 demo](https://kevinbellco.com/complete-chatgpt-image-20-demo/)
-- [Talk to People Making More Money Than You](https://kevinbellco.com/talk-to-people-making-more-money-than-you/)
+- [I Planned to Go All-In on Claude… Then OpenAI Caught Up](https://kevinbellco.com/i-planned-to-go-all-in-on-claude-then-openai-caught-up/)
+- [It&#39;s about time...](https://kevinbellco.com/its-about-time/)
+- [This Dude Is In His 20s Making Six Figures/Year](https://kevinbellco.com/this-dude-is-in-his-20s-making-six-figures/-year/)
+- [3 Basic Things to Do in Claude or Codex Right Now](https://kevinbellco.com/3-basic-things-to-do-in-claude-or-codex-right-now/)
+- [My Daughters’ Braids = Their $3K/Day](https://kevinbellco.com/my-daughters-braids-their-3kday/)
 <!-- BLOG:END -->
 
 ---
