@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Set the bar high](https://www.youtube.com/shorts/V-VTIbQkaW8)
 - [High protein low calorie chick fil a hack](https://www.youtube.com/shorts/gN67rg3xibE)
 - [I’m not a coffee snob](https://www.youtube.com/shorts/8q1fqjMf9-A)
 - [These are your Friday night plans &lpar;with 3 kids&rpar;](https://www.youtube.com/shorts/DT0DDxmF0KY)
 - [AI is getting scary good](https://www.youtube.com/shorts/ABsRl7Qcyc4)
-- [Zero regrets](https://www.youtube.com/shorts/wXtVXE8ESFs)
 <!-- YOUTUBE:END -->
 
 ---
