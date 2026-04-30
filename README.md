@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Possibly one of my all time favorite marketing strategies I’ve seen in 2026](https://kevinbellco.com/possibly-one-of-my-all-time-favorite-marketing-strategies-ive-seen-in-2026/)
 - [I Planned to Go All-In on Claude… Then OpenAI Caught Up](https://kevinbellco.com/i-planned-to-go-all-in-on-claude-then-openai-caught-up/)
 - [It&#39;s about time...](https://kevinbellco.com/its-about-time/)
 - [This Dude Is In His 20s Making Six Figures/Year](https://kevinbellco.com/this-dude-is-in-his-20s-making-six-figures/-year/)
 - [3 Basic Things to Do in Claude or Codex Right Now](https://kevinbellco.com/3-basic-things-to-do-in-claude-or-codex-right-now/)
-- [My Daughters’ Braids = Their $3K/Day](https://kevinbellco.com/my-daughters-braids-their-3kday/)
 <!-- BLOG:END -->
 
 ---
