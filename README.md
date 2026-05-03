@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Coke Zero protein shake](https://www.youtube.com/shorts/hfKnamMVCek)
 - [Work from home weekend vibes](https://www.youtube.com/shorts/FWctZl5lRIE)
 - [Set the bar high](https://www.youtube.com/shorts/V-VTIbQkaW8)
 - [High protein low calorie chick fil a hack](https://www.youtube.com/shorts/gN67rg3xibE)
 - [I’m not a coffee snob](https://www.youtube.com/shorts/8q1fqjMf9-A)
-- [These are your Friday night plans &lpar;with 3 kids&rpar;](https://www.youtube.com/shorts/DT0DDxmF0KY)
 <!-- YOUTUBE:END -->
 
 ---
