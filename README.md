@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This one reason alone justifies how awesome it is to work from home](https://www.youtube.com/shorts/-C_SqKclzec)
 - [Coke Zero protein shake](https://www.youtube.com/shorts/hfKnamMVCek)
 - [Work from home weekend vibes](https://www.youtube.com/shorts/FWctZl5lRIE)
 - [Set the bar high](https://www.youtube.com/shorts/V-VTIbQkaW8)
 - [High protein low calorie chick fil a hack](https://www.youtube.com/shorts/gN67rg3xibE)
-- [I’m not a coffee snob](https://www.youtube.com/shorts/8q1fqjMf9-A)
 <!-- YOUTUBE:END -->
 
 ---
