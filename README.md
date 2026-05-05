@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The limit is truly your own imagination.](https://kevinbellco.com/the-limit-is-truly-your-own-imagination/)
+- [The $1M Question…](https://kevinbellco.com/the-1m-question/)
 - [Scratch all the other stuff I’ve said. This is how you should start.](https://kevinbellco.com/scratch-all-the-other-stuff-ive-said-this-is-how-you-should-start/)
 - [Stock Market? ❌, Chick-fil-A points? ✅ 😂](https://kevinbellco.com/stock-market-chick-fil-a-points/)
 - [$40K Role Replaced by $100/Month AI](https://kevinbellco.com/40k-role-replaced-by-100month-ai/)
-- [Don’t Learn AI. Play With It.](https://kevinbellco.com/dont-learn-ai-play-with-it/)
-- [Possibly one of my all time favorite marketing strategies I’ve seen in 2026](https://kevinbellco.com/possibly-one-of-my-all-time-favorite-marketing-strategies-ive-seen-in-2026/)
 <!-- BLOG:END -->
 
 ---
