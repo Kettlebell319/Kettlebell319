@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Candy for a pre workout??](https://www.youtube.com/shorts/ARJYQNA24u4)
 - [The best perk of working from home](https://www.youtube.com/shorts/AfOUMQL7_SU)
 - [This one reason alone justifies how awesome it is to work from home](https://www.youtube.com/shorts/-C_SqKclzec)
 - [Coke Zero protein shake](https://www.youtube.com/shorts/hfKnamMVCek)
 - [Work from home weekend vibes](https://www.youtube.com/shorts/FWctZl5lRIE)
-- [Set the bar high](https://www.youtube.com/shorts/V-VTIbQkaW8)
 <!-- YOUTUBE:END -->
 
 ---
