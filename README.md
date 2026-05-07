@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [What subjects are you teaching when you&#39;re presenting to business owners about AI?](https://kevinbellco.com/what-subjects-are-you-teaching-when-youre-presenting-to-business-owners-about-ai/)
 - [I got hustled by two 6th graders last night…](https://kevinbellco.com/i-got-hustled-by-two-6th-graders-last-night/)
 - [The limit is truly your own imagination.](https://kevinbellco.com/the-limit-is-truly-your-own-imagination/)
 - [The $1M Question…](https://kevinbellco.com/the-1m-question/)
 - [Scratch all the other stuff I’ve said. This is how you should start.](https://kevinbellco.com/scratch-all-the-other-stuff-ive-said-this-is-how-you-should-start/)
-- [Stock Market? ❌, Chick-fil-A points? ✅ 😂](https://kevinbellco.com/stock-market-chick-fil-a-points/)
 <!-- BLOG:END -->
 
 ---
