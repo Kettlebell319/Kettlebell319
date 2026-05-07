@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Work from home cleaning montage](https://www.youtube.com/shorts/4z6ov-SbbQ0)
 - [Candy for a pre workout??](https://www.youtube.com/shorts/ARJYQNA24u4)
 - [The best perk of working from home](https://www.youtube.com/shorts/AfOUMQL7_SU)
 - [This one reason alone justifies how awesome it is to work from home](https://www.youtube.com/shorts/-C_SqKclzec)
 - [Coke Zero protein shake](https://www.youtube.com/shorts/hfKnamMVCek)
-- [Work from home weekend vibes](https://www.youtube.com/shorts/FWctZl5lRIE)
 <!-- YOUTUBE:END -->
 
 ---
