@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [What subjects are you teaching when you&#39;re presenting to business owners about AI?](https://kevinbellco.com/what-subjects-are-you-teaching-when-youre-presenting-to-business-owners-about-ai/)
-- [I got hustled by two 6th graders last night…](https://kevinbellco.com/i-got-hustled-by-two-6th-graders-last-night/)
-- [The limit is truly your own imagination.](https://kevinbellco.com/the-limit-is-truly-your-own-imagination/)
-- [The $1M Question…](https://kevinbellco.com/the-1m-question/)
-- [Scratch all the other stuff I’ve said. This is how you should start.](https://kevinbellco.com/scratch-all-the-other-stuff-ive-said-this-is-how-you-should-start/)
+- [This is all very anecdotal...Take the redpill](https://kevinbellco.com/this-is-all-very-anecdotaltake-the-redpill/)
+- [The EXACT step by step I used to make a business card in 5min](https://kevinbellco.com/the-exact-step-by-step-i-used-to-make-a-business-card-in-5min/)
+- [Chris Koerner driving for DoorDash!](https://kevinbellco.com/chris-koerner-driving-for-doordash/)
+- [My Daughter Is Learning to Communicate Through AI](https://kevinbellco.com/my-daughter-is-learning-to-communicate-through-ai/)
+- [Corey freaking gives away his playbook...](https://kevinbellco.com/corey-freaking-gives-away-his-playbook/)
 <!-- BLOG:END -->
 
 ---
