@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [35yo Dad of 3 starter pack](https://www.youtube.com/shorts/Aq7QttUwp0s)
 - [Life Hack Mothers Day Gift](https://www.youtube.com/shorts/bcyTm4GAe44)
 - [Work from home cleaning montage](https://www.youtube.com/shorts/4z6ov-SbbQ0)
 - [Candy for a pre workout??](https://www.youtube.com/shorts/ARJYQNA24u4)
 - [The best perk of working from home](https://www.youtube.com/shorts/AfOUMQL7_SU)
-- [This one reason alone justifies how awesome it is to work from home](https://www.youtube.com/shorts/-C_SqKclzec)
 <!-- YOUTUBE:END -->
 
 ---
