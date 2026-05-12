@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Ripple Effect of Sharing Your Ideas.](https://kevinbellco.com/the-ripple-effect-of-sharing-your-ideas/)
 - [This is all very anecdotal...Take the redpill](https://kevinbellco.com/this-is-all-very-anecdotaltake-the-redpill/)
 - [The EXACT step by step I used to make a business card in 5min](https://kevinbellco.com/the-exact-step-by-step-i-used-to-make-a-business-card-in-5min/)
 - [Chris Koerner driving for DoorDash!](https://kevinbellco.com/chris-koerner-driving-for-doordash/)
 - [My Daughter Is Learning to Communicate Through AI](https://kevinbellco.com/my-daughter-is-learning-to-communicate-through-ai/)
-- [Corey freaking gives away his playbook...](https://kevinbellco.com/corey-freaking-gives-away-his-playbook/)
 <!-- BLOG:END -->
 
 ---
