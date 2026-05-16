@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Life is simple](https://www.youtube.com/shorts/FNZcnBKWKKs)
 - [The most exhausting AND rewarding thing ever](https://www.youtube.com/shorts/-gGG3SbGim0)
 - [35yo Dad of 3 starter pack](https://www.youtube.com/shorts/Aq7QttUwp0s)
 - [Life Hack Mothers Day Gift](https://www.youtube.com/shorts/bcyTm4GAe44)
 - [Work from home cleaning montage](https://www.youtube.com/shorts/4z6ov-SbbQ0)
-- [Candy for a pre workout??](https://www.youtube.com/shorts/ARJYQNA24u4)
 <!-- YOUTUBE:END -->
 
 ---
