@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Apps That Are Awesome You Probably Haven&#39;t Heard Of](https://kevinbellco.com/apps-that-are-awesome-you-probably-havent-heard-of/)
 - [I just built my own Wispr Flow](https://kevinbellco.com/i-just-built-my-own-wispr-flow/)
 - [Play First, Master Later](https://kevinbellco.com/play-first-master-later/)
 - [This is proof that &quot;you can just do things&quot;](https://kevinbellco.com/this-is-proof-that-you-can-just-do-things/)
 - [The Ripple Effect of Sharing Your Ideas.](https://kevinbellco.com/the-ripple-effect-of-sharing-your-ideas/)
-- [This is all very anecdotal...Take the redpill](https://kevinbellco.com/this-is-all-very-anecdotaltake-the-redpill/)
 <!-- BLOG:END -->
 
 ---
