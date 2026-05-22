@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is a “California front yard”](https://www.youtube.com/shorts/4STr5pa9McU)
 - [POV: You’re a millennial girl dad who grew up on country T-Swift](https://www.youtube.com/shorts/3_4QcXgcoJg)
 - [They must be sleeping](https://www.youtube.com/shorts/sFs0pp59JFI)
 - [Life is simple](https://www.youtube.com/shorts/FNZcnBKWKKs)
 - [The most exhausting AND rewarding thing ever](https://www.youtube.com/shorts/-gGG3SbGim0)
-- [35yo Dad of 3 starter pack](https://www.youtube.com/shorts/Aq7QttUwp0s)
 <!-- YOUTUBE:END -->
 
 ---
