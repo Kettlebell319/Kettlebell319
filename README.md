@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I recreated an app that recently sold for $100M](https://www.youtube.com/shorts/AblNDoEyA2c)
 - [How I’ve found the extraordinary parts of life](https://www.youtube.com/shorts/F6m0GHaKddU)
 - [CrossFit parents on Memorial Day be like…](https://www.youtube.com/shorts/fwvZzzAnJNM)
 - [This is a “California front yard”](https://www.youtube.com/shorts/4STr5pa9McU)
 - [POV: You’re a millennial girl dad who grew up on country T-Swift](https://www.youtube.com/shorts/3_4QcXgcoJg)
-- [They must be sleeping](https://www.youtube.com/shorts/sFs0pp59JFI)
 <!-- YOUTUBE:END -->
 
 ---
