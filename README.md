@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Find time to play with the tools and you&#39;ll be fine!](https://kevinbellco.com/find-time-to-play-with-the-tools-and-youll-be-fine/)
+- [Meta Glasses](https://kevinbellco.com/meta-glasses/)
+- [The best skill you&#39;ll install this month](https://kevinbellco.com/the-best-skill-youll-install-this-month/)
 - [You just have to get past your own limiting beliefs first](https://kevinbellco.com/you-just-have-to-get-past-your-own-limiting-beliefs-first/)
 - [Do everything you possibly can to get there!](https://kevinbellco.com/do-everything-you-possibly-can-to-get-there/)
-- [Apps That Are Awesome You Probably Haven&#39;t Heard Of](https://kevinbellco.com/apps-that-are-awesome-you-probably-havent-heard-of/)
-- [I just built my own Wispr Flow](https://kevinbellco.com/i-just-built-my-own-wispr-flow/)
-- [Play First, Master Later](https://kevinbellco.com/play-first-master-later/)
 <!-- BLOG:END -->
 
 ---
