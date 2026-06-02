@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [One Prompt. 50 Sources. Here&#39;s What Came Out](https://kevinbellco.com/one-prompt-50-sources-heres-what-came-out/)
+- [Claude cowork tip of the week &lpar;for normal people&rpar;](https://kevinbellco.com/claude-cowork-tip-of-the-week-for-normal-people/)
+- [AI Isn&#39;t Taking Jobs. People Using AI Are](https://kevinbellco.com/ai-isnt-taking-jobs-people-using-ai-are/)
+- [This is one of my &quot;externally processed tweets&quot;](https://kevinbellco.com/this-is-one-of-my-externally-processed-tweets/)
 - [Find time to play with the tools and you&#39;ll be fine!](https://kevinbellco.com/find-time-to-play-with-the-tools-and-youll-be-fine/)
-- [Meta Glasses](https://kevinbellco.com/meta-glasses/)
-- [The best skill you&#39;ll install this month](https://kevinbellco.com/the-best-skill-youll-install-this-month/)
-- [You just have to get past your own limiting beliefs first](https://kevinbellco.com/you-just-have-to-get-past-your-own-limiting-beliefs-first/)
-- [Do everything you possibly can to get there!](https://kevinbellco.com/do-everything-you-possibly-can-to-get-there/)
 <!-- BLOG:END -->
 
 ---
