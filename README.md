@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Costco Approach to Closing Clients](https://kevinbellco.com/the-costco-approach-to-closing-clients/)
+- [I Rebuilt a $100M App Over Breakfast](https://kevinbellco.com/i-rebuilt-a-100m-app-over-breakfast/)
+- [4:30 AM on a Saturday Says Everything](https://kevinbellco.com/430-am-on-a-saturday-says-everything/)
 - [One Prompt. 50 Sources. Here&#39;s What Came Out](https://kevinbellco.com/one-prompt-50-sources-heres-what-came-out/)
 - [Claude cowork tip of the week &lpar;for normal people&rpar;](https://kevinbellco.com/claude-cowork-tip-of-the-week-for-normal-people/)
-- [AI Isn&#39;t Taking Jobs. People Using AI Are](https://kevinbellco.com/ai-isnt-taking-jobs-people-using-ai-are/)
-- [This is one of my &quot;externally processed tweets&quot;](https://kevinbellco.com/this-is-one-of-my-externally-processed-tweets/)
-- [Find time to play with the tools and you&#39;ll be fine!](https://kevinbellco.com/find-time-to-play-with-the-tools-and-youll-be-fine/)
 <!-- BLOG:END -->
 
 ---
