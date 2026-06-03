@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Every Kid Wants a Badge. I Want Mine to Want a Business](https://kevinbellco.com/every-kid-wants-a-badge-i-want-mine-to-want-a-business/)
 - [The Costco Approach to Closing Clients](https://kevinbellco.com/the-costco-approach-to-closing-clients/)
 - [I Rebuilt a $100M App Over Breakfast](https://kevinbellco.com/i-rebuilt-a-100m-app-over-breakfast/)
 - [4:30 AM on a Saturday Says Everything](https://kevinbellco.com/430-am-on-a-saturday-says-everything/)
 - [One Prompt. 50 Sources. Here&#39;s What Came Out](https://kevinbellco.com/one-prompt-50-sources-heres-what-came-out/)
-- [Claude cowork tip of the week &lpar;for normal people&rpar;](https://kevinbellco.com/claude-cowork-tip-of-the-week-for-normal-people/)
 <!-- BLOG:END -->
 
 ---
