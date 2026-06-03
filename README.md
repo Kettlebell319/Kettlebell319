@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The perks of working from home…](https://www.youtube.com/shorts/Z88i9zhjyfw)
 - [Let’s go to Napa for the weekend](https://www.youtube.com/shorts/PdQasD450VY)
 - [I recreated an app that recently sold for $100M](https://www.youtube.com/shorts/AblNDoEyA2c)
 - [How I’ve found the extraordinary parts of life](https://www.youtube.com/shorts/F6m0GHaKddU)
 - [CrossFit parents on Memorial Day be like…](https://www.youtube.com/shorts/fwvZzzAnJNM)
-- [This is a “California front yard”](https://www.youtube.com/shorts/4STr5pa9McU)
 <!-- YOUTUBE:END -->
 
 ---
