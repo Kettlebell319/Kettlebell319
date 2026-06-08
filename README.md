@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your kids will only know you as a memory…](https://www.youtube.com/shorts/g-LerDs2U1M)
 - [This I the zone your success happens in](https://www.youtube.com/shorts/7PElKUEod2Y)
 - [The perks of working from home…](https://www.youtube.com/shorts/Z88i9zhjyfw)
 - [Let’s go to Napa for the weekend](https://www.youtube.com/shorts/PdQasD450VY)
 - [I recreated an app that recently sold for $100M](https://www.youtube.com/shorts/AblNDoEyA2c)
-- [How I’ve found the extraordinary parts of life](https://www.youtube.com/shorts/F6m0GHaKddU)
 <!-- YOUTUBE:END -->
 
 ---
