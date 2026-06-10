@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [My hat was recognized in public...](https://kevinbellco.com/my-hat-was-recognized-in-public/)
 - [One Viral Video. Ten Minutes With AI. Now I Have a System.](https://kevinbellco.com/one-viral-video-ten-minutes-with-ai-now-i-have-a-system/)
 - [The iTunes Moment for Software](https://kevinbellco.com/the-itunes-moment-for-software/)
 - [Every Kid Wants a Badge. I Want Mine to Want a Business](https://kevinbellco.com/every-kid-wants-a-badge-i-want-mine-to-want-a-business/)
 - [The Costco Approach to Closing Clients](https://kevinbellco.com/the-costco-approach-to-closing-clients/)
-- [I Rebuilt a $100M App Over Breakfast](https://kevinbellco.com/i-rebuilt-a-100m-app-over-breakfast/)
 <!-- BLOG:END -->
 
 ---
