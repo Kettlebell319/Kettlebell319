@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lunch break in the garage gym](https://www.youtube.com/shorts/CDALUb4hdrs)
 - [Dad— watch this!](https://www.youtube.com/shorts/WN949XP1QhE)
 - [When will you say your last “in a minute”?](https://www.youtube.com/shorts/bZbaHqiCT3o)
 - [Your kids will only know you as a memory…](https://www.youtube.com/shorts/g-LerDs2U1M)
 - [This I the zone your success happens in](https://www.youtube.com/shorts/7PElKUEod2Y)
-- [The perks of working from home…](https://www.youtube.com/shorts/Z88i9zhjyfw)
 <!-- YOUTUBE:END -->
 
 ---
