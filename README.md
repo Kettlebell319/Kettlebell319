@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [You dont know until you know and the only way to know is by DOING](https://kevinbellco.com/you-dont-know-until-you-know-and-the-only-way-to-know-is-by-doing/)
+- [In-person events are powerful. Don’t overlook them.](https://kevinbellco.com/in-person-events-are-powerful-dont-overlook-them/)
 - [I Was Able to Snag a Pic From Claude Sonnet 4&#39;s Retirement Party Today](https://kevinbellco.com/i-was-able-to-snag-a-pic-from-claude-sonnet-4s-retirement-party-today/)
 - [Long Drive? Great Time to Run My Laptop on a Mobile Hotspot](https://kevinbellco.com/long-drive-great-time-to-run-my-laptop-on-a-mobile-hotspot/)
 - [The $5K Automation Setup Nobody&#39;s Building](https://kevinbellco.com/the-5k-automation-setup-nobodys-building/)
-- [Your AI is only as smart as your notes](https://kevinbellco.com/your-ai-is-only-as-smart-as-your-notes/)
-- [My hat was recognized in public...](https://kevinbellco.com/my-hat-was-recognized-in-public/)
 <!-- BLOG:END -->
 
 ---
