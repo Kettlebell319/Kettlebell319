@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [3 things you should be doing this weekend with Codex](https://kevinbellco.com/3-things-you-should-be-doing-this-weekend-with-codex/)
 - [They Shut Down the Most Powerful AI Ever. Here&#39;s Why That&#39;s Your Sign to Build.](https://kevinbellco.com/they-shut-down-the-most-powerful-ai-ever-heres-why-thats-your-sign-to-build/)
 - [Working from home is…Amazing!](https://kevinbellco.com/working-from-home-isamazing/)
 - [You dont know until you know and the only way to know is by DOING](https://kevinbellco.com/you-dont-know-until-you-know-and-the-only-way-to-know-is-by-doing/)
 - [In-person events are powerful. Don’t overlook them.](https://kevinbellco.com/in-person-events-are-powerful-dont-overlook-them/)
-- [I Was Able to Snag a Pic From Claude Sonnet 4&#39;s Retirement Party Today](https://kevinbellco.com/i-was-able-to-snag-a-pic-from-claude-sonnet-4s-retirement-party-today/)
 <!-- BLOG:END -->
 
 ---
