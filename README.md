@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hold their hand while you can](https://www.youtube.com/shorts/88SDfSLgpoY)
 - [The post was never the reason](https://www.youtube.com/shorts/6z72HPyenNc)
 - [You’ve gotta try this Coke and coffee](https://www.youtube.com/shorts/VWU8GdPo1zc)
 - [Lunch break in the garage gym](https://www.youtube.com/shorts/CDALUb4hdrs)
 - [Dad— watch this!](https://www.youtube.com/shorts/WN949XP1QhE)
-- [When will you say your last “in a minute”?](https://www.youtube.com/shorts/bZbaHqiCT3o)
 <!-- YOUTUBE:END -->
 
 ---
