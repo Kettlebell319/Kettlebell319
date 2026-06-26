@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [How Stack Overflow almost went under and what they did to survive...](https://kevinbellco.com/how-stack-overflow-almost-went-under-and-what-they-did-to-survive/)
+- [No Paper Cards. Just a QR Code on My Lock Screen](https://kevinbellco.com/no-paper-cards-just-a-qr-code-on-my-lock-screen/)
 - [Can&#39;t Wait to See Codie and the Hormozis in Their Parent Era](https://kevinbellco.com/cant-wait-to-see-codie-and-the-hormozis-in-their-parent-era/)
 - [Be the &quot;Kobe&quot; of AI Prompting](https://kevinbellco.com/be-the-kobe-of-ai-prompting/)
 - [Is life a marathon or a sprint for you?](https://kevinbellco.com/is-life-a-marathon-or-a-sprint-for-you/)
-- [Full Circle: What Watching Toy Story With My Own Kids Taught Me About Raising Them in a Tech World](https://kevinbellco.com/full-circle-what-watching-toy-story-with-my-own-kids-taught-me-about-raising-them-in-a-tech-world/)
-- [3 things you should be doing this weekend with Codex](https://kevinbellco.com/3-things-you-should-be-doing-this-weekend-with-codex/)
 <!-- BLOG:END -->
 
 ---
