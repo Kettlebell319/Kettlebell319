@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Can&#39;t Wait to See Codie and the Hormozis in Their Parent Era](https://kevinbellco.com/cant-wait-to-see-codie-and-the-hormozis-in-their-parent-era/)
+- [Be the &quot;Kobe&quot; of AI Prompting](https://kevinbellco.com/be-the-kobe-of-ai-prompting/)
+- [Is life a marathon or a sprint for you?](https://kevinbellco.com/is-life-a-marathon-or-a-sprint-for-you/)
+- [Full Circle: What Watching Toy Story With My Own Kids Taught Me About Raising Them in a Tech World](https://kevinbellco.com/full-circle-what-watching-toy-story-with-my-own-kids-taught-me-about-raising-them-in-a-tech-world/)
 - [3 things you should be doing this weekend with Codex](https://kevinbellco.com/3-things-you-should-be-doing-this-weekend-with-codex/)
-- [They Shut Down the Most Powerful AI Ever. Here&#39;s Why That&#39;s Your Sign to Build.](https://kevinbellco.com/they-shut-down-the-most-powerful-ai-ever-heres-why-thats-your-sign-to-build/)
-- [Working from home is…Amazing!](https://kevinbellco.com/working-from-home-isamazing/)
-- [You dont know until you know and the only way to know is by DOING](https://kevinbellco.com/you-dont-know-until-you-know-and-the-only-way-to-know-is-by-doing/)
-- [In-person events are powerful. Don’t overlook them.](https://kevinbellco.com/in-person-events-are-powerful-dont-overlook-them/)
 <!-- BLOG:END -->
 
 ---
