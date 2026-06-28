@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cool dads club, cool dads club, cool dads club.](https://www.youtube.com/shorts/6mPYTBVDiQs)
 - [My morning GUT drink routine](https://www.youtube.com/shorts/zsBYf2PQB2o)
 - [Hold their hand while you can](https://www.youtube.com/shorts/88SDfSLgpoY)
 - [The post was never the reason](https://www.youtube.com/shorts/6z72HPyenNc)
 - [You’ve gotta try this Coke and coffee](https://www.youtube.com/shorts/VWU8GdPo1zc)
-- [Lunch break in the garage gym](https://www.youtube.com/shorts/CDALUb4hdrs)
 <!-- YOUTUBE:END -->
 
 ---
