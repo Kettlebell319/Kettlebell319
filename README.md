@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Why Do Printers Suck? &lpar;ChatGPT Fixed Mine in 17 Minutes&rpar;](https://kevinbellco.com/why-do-printers-suck-chatgpt-fixed-mine-in-17-minutes/)
+- [Create As Many Traditions As You Can](https://kevinbellco.com/create-as-many-traditions-as-you-can/)
+- [We Are Entering Into Very Interesting and Incredible Times](https://kevinbellco.com/we-are-entering-into-very-interesting-and-incredible-times/)
 - [How Stack Overflow almost went under and what they did to survive...](https://kevinbellco.com/how-stack-overflow-almost-went-under-and-what-they-did-to-survive/)
 - [No Paper Cards. Just a QR Code on My Lock Screen](https://kevinbellco.com/no-paper-cards-just-a-qr-code-on-my-lock-screen/)
-- [Can&#39;t Wait to See Codie and the Hormozis in Their Parent Era](https://kevinbellco.com/cant-wait-to-see-codie-and-the-hormozis-in-their-parent-era/)
-- [Be the &quot;Kobe&quot; of AI Prompting](https://kevinbellco.com/be-the-kobe-of-ai-prompting/)
-- [Is life a marathon or a sprint for you?](https://kevinbellco.com/is-life-a-marathon-or-a-sprint-for-you/)
 <!-- BLOG:END -->
 
 ---
