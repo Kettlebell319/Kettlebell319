@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This how to parent and work from during the summer](https://www.youtube.com/shorts/UXJoQ4DQmiQ)
 - [Stop asking someone else for time off](https://www.youtube.com/shorts/p8GTXZv26ws)
 - [Let your kids fall asleep on you](https://www.youtube.com/shorts/rX5rhkqL5Y8)
 - [When a millennial reaches the “listen to The Fray as workout music” season of life](https://www.youtube.com/shorts/ktGib7YgW0M)
 - [Cool dads club, cool dads club, cool dads club.](https://www.youtube.com/shorts/6mPYTBVDiQs)
-- [My morning GUT drink routine](https://www.youtube.com/shorts/zsBYf2PQB2o)
 <!-- YOUTUBE:END -->
 
 ---
