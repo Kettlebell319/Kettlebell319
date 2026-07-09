@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Haven&#39;t Manually Written a Blog Post in Weeks](https://kevinbellco.com/i-havent-manually-written-a-blog-post-in-weeks/)
 - [Here&#39;s the Play to Make Your First $ With AI](https://kevinbellco.com/heres-the-play-to-make-your-first-with-ai/)
 - [My First 4th Off the Streets in 10 Years](https://kevinbellco.com/my-first-4th-off-the-streets-in-10-years/)
 - [My Wearable Stack Right Now](https://kevinbellco.com/my-wearable-stack-right-now/)
 - [Sounding Human Is the New Flex](https://kevinbellco.com/sounding-human-is-the-new-flex/)
-- [This 17-Year-Old&#39;s Couch Negotiation Is a Master&#39;s Class](https://kevinbellco.com/this-17-year-olds-couch-negotiation-is-a-masters-class/)
 <!-- BLOG:END -->
 
 ---
