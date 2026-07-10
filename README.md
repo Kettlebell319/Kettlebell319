@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is what working from home looks like](https://www.youtube.com/shorts/WDSiIvFfaYw)
 - [The best way to spend a weekend](https://www.youtube.com/shorts/dCs-nd5XG5o)
 - [This how to parent and work from during the summer](https://www.youtube.com/shorts/UXJoQ4DQmiQ)
 - [Stop asking someone else for time off](https://www.youtube.com/shorts/p8GTXZv26ws)
 - [Let your kids fall asleep on you](https://www.youtube.com/shorts/rX5rhkqL5Y8)
-- [When a millennial reaches the “listen to The Fray as workout music” season of life](https://www.youtube.com/shorts/ktGib7YgW0M)
 <!-- YOUTUBE:END -->
 
 ---
