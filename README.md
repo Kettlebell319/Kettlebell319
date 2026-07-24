@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Life after leaving my cop career](https://www.youtube.com/shorts/qJr7nMcv5m4)
 - [35yo with 3 kids Saturday morning routine](https://www.youtube.com/shorts/TlFxcGtjiUo)
 - [You only get 18 summers with your kids at home…](https://www.youtube.com/shorts/I9vApLg-hZc)
 - [The best way to film yourself running](https://www.youtube.com/shorts/H4B4QIWezLs)
 - [This is what working from home looks like](https://www.youtube.com/shorts/WDSiIvFfaYw)
-- [The best way to spend a weekend](https://www.youtube.com/shorts/dCs-nd5XG5o)
 <!-- YOUTUBE:END -->
 
 ---
