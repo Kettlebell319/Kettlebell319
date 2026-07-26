@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The most simple and brutal Sunday workout](https://www.youtube.com/shorts/SVDTlNfz8kc)
 - [Dad x3 Friday morning workout](https://www.youtube.com/shorts/LeIsMdV4vPI)
 - [Life after leaving my cop career](https://www.youtube.com/shorts/qJr7nMcv5m4)
 - [35yo with 3 kids Saturday morning routine](https://www.youtube.com/shorts/TlFxcGtjiUo)
 - [You only get 18 summers with your kids at home…](https://www.youtube.com/shorts/I9vApLg-hZc)
-- [The best way to film yourself running](https://www.youtube.com/shorts/H4B4QIWezLs)
 <!-- YOUTUBE:END -->
 
 ---
