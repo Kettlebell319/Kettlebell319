@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Finally this content is making a comeback](https://www.youtube.com/shorts/BpBcSYshQpY)
 - [Can you reduce crime with jiu jitsu?](https://www.youtube.com/shorts/Jgvc5_a5X2Q)
 - [When my cop salary wasn’t enough…](https://www.youtube.com/shorts/cYX8J7nNvbk)
 - [Breaking my fast with a massive breakfast burrito](https://www.youtube.com/shorts/7o9NybnO6B4)
 - [The secret to making content that connects with people](https://www.youtube.com/shorts/NaStVt0kbYw)
-- [The most simple and brutal Sunday workout](https://www.youtube.com/shorts/SVDTlNfz8kc)
 <!-- YOUTUBE:END -->
 
 ---
