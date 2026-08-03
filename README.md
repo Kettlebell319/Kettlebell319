@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The BEST and CHEAPEST mic for content creation](https://www.youtube.com/shorts/Jw1-CA0zxUM)
 - [If you’re watching this— it worked.](https://www.youtube.com/shorts/SlHwq8yLgjU)
 - [How to workout on vacation with 3 kids](https://www.youtube.com/shorts/uCWhG4Tjh6s)
 - [Finally this content is making a comeback](https://www.youtube.com/shorts/BpBcSYshQpY)
 - [Can you reduce crime with jiu jitsu?](https://www.youtube.com/shorts/Jgvc5_a5X2Q)
-- [When my cop salary wasn’t enough…](https://www.youtube.com/shorts/cYX8J7nNvbk)
 <!-- YOUTUBE:END -->
 
 ---
