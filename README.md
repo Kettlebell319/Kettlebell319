@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I use Claude to track everything I eat and all my activity](https://www.youtube.com/shorts/V1a_K0RzZpk)
 - [How I get my protein in for breakfast on vacation](https://www.youtube.com/shorts/uLwruAQ-Hes)
 - [The BEST and CHEAPEST mic for content creation](https://www.youtube.com/shorts/Jw1-CA0zxUM)
 - [If you’re watching this— it worked.](https://www.youtube.com/shorts/SlHwq8yLgjU)
 - [How to workout on vacation with 3 kids](https://www.youtube.com/shorts/uCWhG4Tjh6s)
-- [Finally this content is making a comeback](https://www.youtube.com/shorts/BpBcSYshQpY)
 <!-- YOUTUBE:END -->
 
 ---
