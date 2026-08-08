@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recording in public is so hard!](https://www.youtube.com/shorts/7HulbOWgx3A)
 - [I would never tell another dad this](https://www.youtube.com/shorts/xYvOhCIneS8)
 - [Launching a podcast from my kitchen table](https://www.youtube.com/shorts/OXpVp1Uoy3E)
 - [How I use Claude to track everything I eat and all my activity](https://www.youtube.com/shorts/V1a_K0RzZpk)
 - [How I get my protein in for breakfast on vacation](https://www.youtube.com/shorts/uLwruAQ-Hes)
-- [The BEST and CHEAPEST mic for content creation](https://www.youtube.com/shorts/Jw1-CA0zxUM)
 <!-- YOUTUBE:END -->
 
 ---
