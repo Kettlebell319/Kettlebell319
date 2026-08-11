@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your kids don’t need to worry about this yet](https://www.youtube.com/shorts/NUNsDefwSHs)
 - [The perfect workout doesn’t exi—](https://www.youtube.com/shorts/PL2m3ec3yJ0)
 - [This is why your content might suck… and it’s okay](https://www.youtube.com/shorts/ba5jJbYCQPg)
 - [Recording in public is so hard!](https://www.youtube.com/shorts/7HulbOWgx3A)
 - [I would never tell another dad this](https://www.youtube.com/shorts/xYvOhCIneS8)
-- [Launching a podcast from my kitchen table](https://www.youtube.com/shorts/OXpVp1Uoy3E)
 <!-- YOUTUBE:END -->
 
 ---
