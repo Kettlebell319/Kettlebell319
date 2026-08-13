@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [THIS is the new way to have a business card](https://www.youtube.com/shorts/edQ5fX1PB2A)
 - [This is what happened when their coach overslept](https://www.youtube.com/shorts/TzYx0R9f2to)
 - [Your kids don’t need to worry about this yet](https://www.youtube.com/shorts/NUNsDefwSHs)
 - [The perfect workout doesn’t exi—](https://www.youtube.com/shorts/PL2m3ec3yJ0)
 - [This is why your content might suck… and it’s okay](https://www.youtube.com/shorts/ba5jJbYCQPg)
-- [Recording in public is so hard!](https://www.youtube.com/shorts/7HulbOWgx3A)
 <!-- YOUTUBE:END -->
 
 ---
