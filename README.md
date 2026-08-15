@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I make these cookies EVERY night](https://www.youtube.com/shorts/Umav7c6UY0Y)
 - [If you’re writing a book, watch this before you finish it](https://www.youtube.com/shorts/bISLW9wz2mQ)
 - [THIS is the new way to have a business card](https://www.youtube.com/shorts/edQ5fX1PB2A)
 - [This is what happened when their coach overslept](https://www.youtube.com/shorts/TzYx0R9f2to)
 - [Your kids don’t need to worry about this yet](https://www.youtube.com/shorts/NUNsDefwSHs)
-- [The perfect workout doesn’t exi—](https://www.youtube.com/shorts/PL2m3ec3yJ0)
 <!-- YOUTUBE:END -->
 
 ---
