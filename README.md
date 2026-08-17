@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [It takes 45sec to go viral](https://www.youtube.com/shorts/7TKPSZt0hVQ)
 - [How to figure out what you’re meant to do in life](https://www.youtube.com/shorts/s72GjY3hPWU)
 - [I make these cookies EVERY night](https://www.youtube.com/shorts/Umav7c6UY0Y)
 - [If you’re writing a book, watch this before you finish it](https://www.youtube.com/shorts/bISLW9wz2mQ)
 - [THIS is the new way to have a business card](https://www.youtube.com/shorts/edQ5fX1PB2A)
-- [This is what happened when their coach overslept](https://www.youtube.com/shorts/TzYx0R9f2to)
 <!-- YOUTUBE:END -->
 
 ---
