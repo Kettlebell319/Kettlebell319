@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Day in the life of a podcast producer](https://www.youtube.com/shorts/BOkJbk1SmIs)
 - [This is why millennials should be creating more content!](https://www.youtube.com/shorts/tYQty7Ens94)
 - [Do you do this with an open coffee cup??](https://www.youtube.com/shorts/ETiwDtVdJxw)
 - [It takes 45sec to go viral](https://www.youtube.com/shorts/7TKPSZt0hVQ)
 - [How to figure out what you’re meant to do in life](https://www.youtube.com/shorts/s72GjY3hPWU)
-- [I make these cookies EVERY night](https://www.youtube.com/shorts/Umav7c6UY0Y)
 <!-- YOUTUBE:END -->
 
 ---
