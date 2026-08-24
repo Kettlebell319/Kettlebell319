@@ -19,7 +19,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [This is exactly why I meal prep… also this killer meal tool 3min to make.](https://www.youtube.com/shorts/DxXNI_jjhnU)
+- [This is why I meal prep… also this took 3min to make.](https://www.youtube.com/shorts/DxXNI_jjhnU)
 - [You want to be a dad that does this](https://www.youtube.com/shorts/3lHt1tovH9A)
 - [Day in the life of a podcast producer](https://www.youtube.com/shorts/BOkJbk1SmIs)
 - [This is why millennials should be creating more content!](https://www.youtube.com/shorts/tYQty7Ens94)
