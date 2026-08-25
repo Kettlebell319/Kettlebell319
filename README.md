@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This night time routine with our kids changed everything](https://www.youtube.com/shorts/zZcdfof7WrU)
 - [How I Built a Business Working 40+ Hours a Week as a Cop](https://www.youtube.com/watch?v=UJdf8HW96sE)
 - [There will be a last time you do this as a parent and you won’t know when](https://www.youtube.com/shorts/cVxo5k3s43U)
 - [This is why I meal prep… also this took 3min to make.](https://www.youtube.com/shorts/DxXNI_jjhnU)
 - [You want to be a dad that does this](https://www.youtube.com/shorts/3lHt1tovH9A)
-- [Day in the life of a podcast producer](https://www.youtube.com/shorts/BOkJbk1SmIs)
 <!-- YOUTUBE:END -->
 
 ---
