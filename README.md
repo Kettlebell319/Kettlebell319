@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jiu Jitsu is better cardio than running](https://www.youtube.com/shorts/IlSH66dAfLE)
 - [Dads, you need to work from home…](https://www.youtube.com/shorts/fAbPSL4RqzM)
 - [Crossfitter for 17 years— giving Hyrox a shot](https://www.youtube.com/shorts/CYO64yDeeoc)
 - [This night time routine with our kids changed everything](https://www.youtube.com/shorts/zZcdfof7WrU)
 - [How I Built a Business Working 40+ Hours a Week as a Cop](https://www.youtube.com/watch?v=UJdf8HW96sE)
-- [There will be a last time you do this as a parent and you won’t know when](https://www.youtube.com/shorts/cVxo5k3s43U)
 <!-- YOUTUBE:END -->
 
 ---
