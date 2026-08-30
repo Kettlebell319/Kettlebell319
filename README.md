@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Is this a new viral rice cake and honey snack??](https://www.youtube.com/shorts/V72S2wwL5uY)
 - [Have you noticed this about Trader Joe’s??](https://www.youtube.com/shorts/MsSUw2d7Dfc)
 - [Jiu Jitsu is better cardio than running](https://www.youtube.com/shorts/IlSH66dAfLE)
 - [Dads, you need to work from home…](https://www.youtube.com/shorts/fAbPSL4RqzM)
 - [Crossfitter for 17 years— giving Hyrox a shot](https://www.youtube.com/shorts/CYO64yDeeoc)
-- [This night time routine with our kids changed everything](https://www.youtube.com/shorts/zZcdfof7WrU)
 <!-- YOUTUBE:END -->
 
 ---
