@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The One Word Standing Between You and the Life You Want](https://www.youtube.com/watch?v=eToDly2TxiA)
+- [How to Find Your Side Hustle When You Have No Time and No Idea](https://www.youtube.com/watch?v=y6kixw_sLAc)
 - [This is the best time ever to be a new content creator!](https://www.youtube.com/shorts/QCfyyKjpVr8)
 - [White dude raps??](https://www.youtube.com/shorts/7vl3ronVq0Y)
 - [Is this how you trim a mustache??](https://www.youtube.com/shorts/riPIqbJ_vS8)
-- [Is this a new viral rice cake and honey snack??](https://www.youtube.com/shorts/V72S2wwL5uY)
-- [Have you noticed this about Trader Joe’s??](https://www.youtube.com/shorts/MsSUw2d7Dfc)
 <!-- YOUTUBE:END -->
 
 ---
