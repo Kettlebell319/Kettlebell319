@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Former cop spills the beans about getting out of tickets the easy way?!](https://www.youtube.com/shorts/1G3_NgnqQNI)
 - [Raw egg whites and chocolate syrup is the best post workout shake](https://www.youtube.com/shorts/vS1VUXm_xM0)
 - [The One Word Standing Between You and the Life You Want](https://www.youtube.com/watch?v=eToDly2TxiA)
 - [How to Find Your Side Hustle When You Have No Time and No Idea](https://www.youtube.com/watch?v=y6kixw_sLAc)
 - [This is the best time ever to be a new content creator!](https://www.youtube.com/shorts/QCfyyKjpVr8)
-- [White dude raps??](https://www.youtube.com/shorts/7vl3ronVq0Y)
 <!-- YOUTUBE:END -->
 
 ---
