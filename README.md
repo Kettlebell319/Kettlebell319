@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to sound more natural on camera](https://www.youtube.com/shorts/vozDL63Kbwo)
 - [This is what it’s like requesting time off when you have a 9 to 5](https://www.youtube.com/shorts/iXSE67qU06s)
 - [CrossFit is better than Hyrox. Here’s why…](https://www.youtube.com/shorts/Xr65j61tL9c)
 - [Mid 30s Jiu Jitsu dads. Mad respect](https://www.youtube.com/shorts/z8GYB-gkWNU)
 - [Former cop spills the beans about getting out of tickets the easy way?!](https://www.youtube.com/shorts/1G3_NgnqQNI)
-- [Raw egg whites and chocolate syrup is the best post workout shake](https://www.youtube.com/shorts/vS1VUXm_xM0)
 <!-- YOUTUBE:END -->
 
 ---
