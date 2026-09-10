@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The reality of filming in public](https://www.youtube.com/shorts/rt36DeNdnEI)
 - [Parenting is hard.](https://www.youtube.com/shorts/zM0DsFNH52w)
 - [How to sound more natural on camera](https://www.youtube.com/shorts/vozDL63Kbwo)
 - [This is what it’s like requesting time off when you have a 9 to 5](https://www.youtube.com/shorts/iXSE67qU06s)
 - [CrossFit is better than Hyrox. Here’s why…](https://www.youtube.com/shorts/Xr65j61tL9c)
-- [Mid 30s Jiu Jitsu dads. Mad respect](https://www.youtube.com/shorts/z8GYB-gkWNU)
 <!-- YOUTUBE:END -->
 
 ---
