@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Is this the easiest way to find success??](https://www.youtube.com/shorts/QI4brJx9UOI)
 - [being an expert is overrated when you’re making content in 2026](https://www.youtube.com/shorts/-vIpf4nZjnU)
 - [The world’s easiest diet… maybe](https://www.youtube.com/shorts/wzKR6A577dA)
 - [The reality of filming in public](https://www.youtube.com/shorts/rt36DeNdnEI)
 - [Parenting is hard.](https://www.youtube.com/shorts/zM0DsFNH52w)
-- [How to sound more natural on camera](https://www.youtube.com/shorts/vozDL63Kbwo)
 <!-- YOUTUBE:END -->
 
 ---
