@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [If You&#39;re a Beginner, Start Teaching Now](https://www.youtube.com/watch?v=OS146F1VurY)
 - [This is the Babe Ruth Method of content creation… and it’s awesome](https://www.youtube.com/shorts/_qKbQhEMdKk)
 - [Is this the easiest way to find success??](https://www.youtube.com/shorts/QI4brJx9UOI)
 - [being an expert is overrated when you’re making content in 2026](https://www.youtube.com/shorts/-vIpf4nZjnU)
 - [The world’s easiest diet… maybe](https://www.youtube.com/shorts/wzKR6A577dA)
-- [The reality of filming in public](https://www.youtube.com/shorts/rt36DeNdnEI)
 <!-- YOUTUBE:END -->
 
 ---
