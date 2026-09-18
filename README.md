@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What are you most passionate about… should be the first question you ask.](https://www.youtube.com/shorts/WdiywF1UBO0)
 - [White Monster + Espresso?? What?!](https://www.youtube.com/shorts/ohz9mhpqLD4)
 - [If You&#39;re a Beginner, Start Teaching Now](https://www.youtube.com/watch?v=OS146F1VurY)
 - [This is the Babe Ruth Method of content creation… and it’s awesome](https://www.youtube.com/shorts/_qKbQhEMdKk)
 - [Is this the easiest way to find success??](https://www.youtube.com/shorts/QI4brJx9UOI)
-- [being an expert is overrated when you’re making content in 2026](https://www.youtube.com/shorts/-vIpf4nZjnU)
 <!-- YOUTUBE:END -->
 
 ---
