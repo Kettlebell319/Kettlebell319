@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dear Dads,](https://www.youtube.com/shorts/KQXTCTzEkZg)
 - [A message to mid 30s hobbyist Jiu Jitsu athletes…](https://www.youtube.com/shorts/zdNrUoAjecY)
 - [Would you win if you pooped your pants? I doubt it…](https://www.youtube.com/shorts/KrfS6-lN078)
 - [This fitness trend is going to BLOW UP!!](https://www.youtube.com/shorts/DHUlv9JbJpA)
 - [What are you most passionate about… should be the first question you ask.](https://www.youtube.com/shorts/WdiywF1UBO0)
-- [White Monster + Espresso?? What?!](https://www.youtube.com/shorts/ohz9mhpqLD4)
 <!-- YOUTUBE:END -->
 
 ---
