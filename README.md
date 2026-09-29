@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dear Dads, you’re kids are watching](https://www.youtube.com/shorts/3tzj6weFhOE)
 - [Top secret Hyrox training method for dads](https://www.youtube.com/shorts/tNEHLeohESw)
 - [If you’re older than 30, copy this warm up](https://www.youtube.com/shorts/PR_m0d1Foo8)
 - [Dadx3 chasing Hyrox AND Jiu Jitsu world titles](https://www.youtube.com/shorts/2namvVXtxL8)
 - [Dear Dads,](https://www.youtube.com/shorts/KQXTCTzEkZg)
-- [A message to mid 30s hobbyist Jiu Jitsu athletes…](https://www.youtube.com/shorts/zdNrUoAjecY)
 <!-- YOUTUBE:END -->
 
 ---
