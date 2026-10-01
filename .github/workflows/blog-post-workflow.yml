@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '17 14 * * *'
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Pull in YouTube videos
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -22,5 +22,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://kevinbellco.com/feed/"
+          feed_list: "https://kevinbellco.com/feed.xml"
           max_post_count: 5
