@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [I Haven&#39;t Manually Written a Blog Post in Weeks](https://kevinbellco.com/i-havent-manually-written-a-blog-post-in-weeks/)
-- [Here&#39;s the Play to Make Your First $ With AI](https://kevinbellco.com/heres-the-play-to-make-your-first-with-ai/)
-- [My First 4th Off the Streets in 10 Years](https://kevinbellco.com/my-first-4th-off-the-streets-in-10-years/)
-- [My Wearable Stack Right Now](https://kevinbellco.com/my-wearable-stack-right-now/)
-- [Sounding Human Is the New Flex](https://kevinbellco.com/sounding-human-is-the-new-flex/)
+- [The OC Buzz — Issue #17](https://kevinbellco.com/newsletter-the-oc-buzz-issue-17-059ae9/)
+- [I Judged 10 Businesses Live. One Makes $68K/Month - Ep. #339](https://kevinbellco.com/podcast-i-judged-10-businesses-live-one-makes-68k-month-ep-339-704c8e/)
+- [It&#39;s Not Too Late For Your Dreams To Become Reality](https://kevinbellco.com/newsletter-it-s-not-too-late-for-your-dreams-to-become-reality-80a010/)
+- [The Crabs in the Bucket Story &lpar;And Why You Gave Up on Your Biggest Dream&rpar;](https://kevinbellco.com/podcast-the-crabs-in-the-bucket-story-and-why-you-gave-up-on-your-biggest-drea-9b3a27/)
+- [He Made $27K Last Month Connecting Contractors - Ep. #338](https://kevinbellco.com/podcast-he-made-27k-last-month-connecting-contractors-ep-338-62215b/)
 <!-- BLOG:END -->
 
 ---
