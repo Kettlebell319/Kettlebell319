@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I fixed my water heater](https://www.youtube.com/shorts/BDYSxOA_eJg)
+- [If you’re in you’re 30s, This is you’re wake up call](https://www.youtube.com/shorts/Q-nVBa3CbGU)
 - [Ai allows me to get work done while I’m sleeping… or driving… or doing anything else other than work](https://www.youtube.com/shorts/5xa3J9S3Geg)
 - [Dear Dads, you’re kids are watching](https://www.youtube.com/shorts/3tzj6weFhOE)
 - [Top secret Hyrox training method for dads](https://www.youtube.com/shorts/tNEHLeohESw)
-- [If you’re older than 30, copy this warm up](https://www.youtube.com/shorts/PR_m0d1Foo8)
-- [Dadx3 chasing Hyrox AND Jiu Jitsu world titles](https://www.youtube.com/shorts/2namvVXtxL8)
 <!-- YOUTUBE:END -->
 
 ---
