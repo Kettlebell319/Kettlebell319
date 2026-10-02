@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [$250K/Month Renting Out Things He Doesn&#39;t Own - Ep. #340](https://kevinbellco.com/podcast-250k-month-renting-out-things-he-doesn-t-own-ep-340-d11f17/)
+- [Living a Last-Minute Life Is Quietly Destroying You](https://kevinbellco.com/podcast-living-a-last-minute-life-is-quietly-destroying-you-8284de/)
 - [The OC Buzz — Issue #17](https://kevinbellco.com/newsletter-the-oc-buzz-issue-17-059ae9/)
 - [I Judged 10 Businesses Live. One Makes $68K/Month - Ep. #339](https://kevinbellco.com/podcast-i-judged-10-businesses-live-one-makes-68k-month-ep-339-704c8e/)
 - [It&#39;s Not Too Late For Your Dreams To Become Reality](https://kevinbellco.com/newsletter-it-s-not-too-late-for-your-dreams-to-become-reality-80a010/)
-- [The Crabs in the Bucket Story &lpar;And Why You Gave Up on Your Biggest Dream&rpar;](https://kevinbellco.com/podcast-the-crabs-in-the-bucket-story-and-why-you-gave-up-on-your-biggest-drea-9b3a27/)
-- [He Made $27K Last Month Connecting Contractors - Ep. #338](https://kevinbellco.com/podcast-he-made-27k-last-month-connecting-contractors-ep-338-62215b/)
 <!-- BLOG:END -->
 
 ---
