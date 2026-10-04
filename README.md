@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The easiest and BEST way to make a podcast today.](https://www.youtube.com/shorts/Yiylyb5R6Ps)
 - [How I fixed my water heater](https://www.youtube.com/shorts/BDYSxOA_eJg)
 - [If you’re in you’re 30s, This is you’re wake up call](https://www.youtube.com/shorts/Q-nVBa3CbGU)
 - [Ai allows me to get work done while I’m sleeping… or driving… or doing anything else other than work](https://www.youtube.com/shorts/5xa3J9S3Geg)
 - [Dear Dads, you’re kids are watching](https://www.youtube.com/shorts/3tzj6weFhOE)
-- [Top secret Hyrox training method for dads](https://www.youtube.com/shorts/tNEHLeohESw)
 <!-- YOUTUBE:END -->
 
 ---
