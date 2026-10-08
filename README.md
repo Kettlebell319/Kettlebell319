@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Nothing in Your Life Is Random &lpar;You Just Haven&#39;t Connected the Dots Yet&rpar;](https://kevinbellco.com/podcast-nothing-in-your-life-is-random-you-just-haven-t-connected-the-dots-yet-8abdc7/)
 - [The $1M/Year AI Business Anyone Can Start - Ep. #341](https://kevinbellco.com/podcast-the-1m-year-ai-business-anyone-can-start-ep-341-e4aa0f/)
 - [You might be living this kind of life and you don&#39;t even know it…](https://kevinbellco.com/newsletter-you-might-be-living-this-kind-of-life-and-you-don-t-even-kno-a80830/)
 - [$250K/Month Renting Out Things He Doesn&#39;t Own - Ep. #340](https://kevinbellco.com/podcast-250k-month-renting-out-things-he-doesn-t-own-ep-340-d11f17/)
 - [Living a Last-Minute Life Is Quietly Destroying You](https://kevinbellco.com/podcast-living-a-last-minute-life-is-quietly-destroying-you-8284de/)
-- [The OC Buzz — Issue #17](https://kevinbellco.com/newsletter-the-oc-buzz-issue-17-059ae9/)
 <!-- BLOG:END -->
 
 ---
