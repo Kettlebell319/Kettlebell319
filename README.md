@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What to do before you quit your job](https://www.youtube.com/shorts/zWVD8Y5DKzo)
+- [I workout in complete silence…](https://www.youtube.com/shorts/pji0ImZWfTg)
 - [This is why I love social media](https://www.youtube.com/shorts/YzZtFrDjM3s)
 - [Are you in the top 2% with AI??](https://www.youtube.com/shorts/5EJFJOTytUk)
 - [The easiest and BEST way to make a podcast today.](https://www.youtube.com/shorts/Yiylyb5R6Ps)
-- [How I fixed my water heater](https://www.youtube.com/shorts/BDYSxOA_eJg)
-- [If you’re in you’re 30s, This is you’re wake up call](https://www.youtube.com/shorts/Q-nVBa3CbGU)
 <!-- YOUTUBE:END -->
 
 ---
