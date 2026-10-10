@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is how you find out what you’re capable of](https://www.youtube.com/shorts/4VBHLd1_gwg)
 - [What to do before you quit your job](https://www.youtube.com/shorts/zWVD8Y5DKzo)
 - [I workout in complete silence…](https://www.youtube.com/shorts/pji0ImZWfTg)
 - [This is why I love social media](https://www.youtube.com/shorts/YzZtFrDjM3s)
 - [Are you in the top 2% with AI??](https://www.youtube.com/shorts/5EJFJOTytUk)
-- [The easiest and BEST way to make a podcast today.](https://www.youtube.com/shorts/Yiylyb5R6Ps)
 <!-- YOUTUBE:END -->
 
 ---
