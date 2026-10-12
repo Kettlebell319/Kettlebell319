@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make your own pizza](https://www.youtube.com/shorts/ZVT99_B153Q)
 - [This is how you find out what you’re capable of](https://www.youtube.com/shorts/4VBHLd1_gwg)
 - [What to do before you quit your job](https://www.youtube.com/shorts/zWVD8Y5DKzo)
 - [I workout in complete silence…](https://www.youtube.com/shorts/pji0ImZWfTg)
 - [This is why I love social media](https://www.youtube.com/shorts/YzZtFrDjM3s)
-- [Are you in the top 2% with AI??](https://www.youtube.com/shorts/5EJFJOTytUk)
 <!-- YOUTUBE:END -->
 
 ---
