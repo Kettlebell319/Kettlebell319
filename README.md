@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 ingredient protein cookies](https://www.youtube.com/shorts/ZB5s1qsL4-U)
 - [How to make your own pizza](https://www.youtube.com/shorts/ZVT99_B153Q)
 - [This is how you find out what you’re capable of](https://www.youtube.com/shorts/4VBHLd1_gwg)
 - [What to do before you quit your job](https://www.youtube.com/shorts/zWVD8Y5DKzo)
 - [I workout in complete silence…](https://www.youtube.com/shorts/pji0ImZWfTg)
-- [This is why I love social media](https://www.youtube.com/shorts/YzZtFrDjM3s)
 <!-- YOUTUBE:END -->
 
 ---
