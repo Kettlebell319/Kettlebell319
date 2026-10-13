@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [I don’t believe life is random...](https://kevinbellco.com/newsletter-i-don-t-believe-life-is-random-fa47f4/)
+- [The foot in the door beats the cold call](https://kevinbellco.com/the-foot-in-the-door-beats-the-cold-call/)
+- [6 Ways to Make Money With AI Agents Starting From Zero - Ep. #343](https://kevinbellco.com/podcast-6-ways-to-make-money-with-ai-agents-starting-from-zero-ep-343-3dfd1a/)
+- [Just try the free version](https://kevinbellco.com/just-try-the-free-version/)
+- [Come down the ladder a little bit](https://kevinbellco.com/come-down-the-ladder/)
 - [It&#39;s Rarely Too Late to Fix the Dough](https://kevinbellco.com/its-rarely-too-late-to-fix-the-dough/)
-- [The $16K/Month Business He Runs Without Quitting His Job - Ep. #342](https://kevinbellco.com/podcast-the-16k-month-business-he-runs-without-quitting-his-job-ep-342-5b81d0/)
-- [The OC Buzz — Issue #18](https://kevinbellco.com/newsletter-the-oc-buzz-issue-18-0a0ba9/)
-- [Nothing in Your Life Is Random &lpar;You Just Haven&#39;t Connected the Dots Yet&rpar;](https://kevinbellco.com/podcast-nothing-in-your-life-is-random-you-just-haven-t-connected-the-dots-yet-8abdc7/)
 <!-- BLOG:END -->
 
 ---
