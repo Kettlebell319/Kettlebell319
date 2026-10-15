@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is your sign to start creating](https://www.youtube.com/shorts/mWtSh58KWZ8)
 - [Do this with your kids every weekend](https://www.youtube.com/shorts/WUR04bDsGck)
 - [3 ingredient protein cookies](https://www.youtube.com/shorts/ZB5s1qsL4-U)
 - [How to make your own pizza](https://www.youtube.com/shorts/ZVT99_B153Q)
 - [This is how you find out what you’re capable of](https://www.youtube.com/shorts/4VBHLd1_gwg)
-- [What to do before you quit your job](https://www.youtube.com/shorts/zWVD8Y5DKzo)
 <!-- YOUTUBE:END -->
 
 ---
