@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I Took a 50% Pay Cut to Leave Policing. One Year Later...](https://kevinbellco.com/podcast-i-took-a-50-pay-cut-to-leave-policing-one-year-later-c6381f/)
+- [The OC Buzz — Issue #19](https://kevinbellco.com/newsletter-the-oc-buzz-issue-19-9975f1/)
 - [The foot in the door beats the cold call](https://kevinbellco.com/the-foot-in-the-door-beats-the-cold-call/)
 - [6 Ways to Make Money With AI Agents Starting From Zero - Ep. #343](https://kevinbellco.com/podcast-6-ways-to-make-money-with-ai-agents-starting-from-zero-ep-343-3dfd1a/)
-- [Just try the free version](https://kevinbellco.com/just-try-the-free-version/)
 - [Come down the ladder a little bit](https://kevinbellco.com/come-down-the-ladder/)
-- [It&#39;s Rarely Too Late to Fix the Dough](https://kevinbellco.com/its-rarely-too-late-to-fix-the-dough/)
 <!-- BLOG:END -->
 
 ---
