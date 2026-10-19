@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You&#39;re Not Handling It Last Minute. You&#39;re Missing It.](https://www.youtube.com/watch?v=pLUBrDJCUgs)
+- [What’s harder?? Fitness edition](https://www.youtube.com/shorts/C0g7w1-u8GU)
 - [Do yourself a favor and stop doing this…](https://www.youtube.com/shorts/uksrmY_161M)
 - [This is your sign to start creating](https://www.youtube.com/shorts/mWtSh58KWZ8)
 - [Do this with your kids every weekend](https://www.youtube.com/shorts/WUR04bDsGck)
-- [3 ingredient protein cookies](https://www.youtube.com/shorts/ZB5s1qsL4-U)
-- [How to make your own pizza](https://www.youtube.com/shorts/ZVT99_B153Q)
 <!-- YOUTUBE:END -->
 
 ---
