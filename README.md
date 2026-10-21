@@ -33,9 +33,9 @@
   <!-- BLOG:START -->
 - [Say yes to stuff](https://kevinbellco.com/say-yes-to-stuff/)
 - [Pay attention to why people show up](https://kevinbellco.com/why-people-show-up/)
+- [11 Proven Businesses My Listeners Started + How to Copy Them - Ep. #345](https://kevinbellco.com/podcast-11-proven-businesses-my-listeners-started-how-to-copy-them-ep-345-dc9197/)
 - [SO much can happen in a year...](https://kevinbellco.com/newsletter-so-much-can-happen-in-a-year-9824c3/)
 - [3 College Kids Help Companies Use AI for $15K/Month - Ep. #344](https://kevinbellco.com/podcast-3-college-kids-help-companies-use-ai-for-15k-month-ep-344-8b9090/)
-- [I Took a 50% Pay Cut to Leave Policing. One Year Later...](https://kevinbellco.com/podcast-i-took-a-50-pay-cut-to-leave-policing-one-year-later-c6381f/)
 <!-- BLOG:END -->
 
 ---
