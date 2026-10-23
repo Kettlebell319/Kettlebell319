@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Think twice before reading this book](https://www.youtube.com/shorts/8lJjddd3Xk0)
 - [I&#39;m 35, 5&#39;9&quot;, and Can&#39;t Dunk. I&#39;m Still Chasing Something Delusional](https://www.youtube.com/watch?v=bcI8-QWjzjw)
 - [Muse will essentially run your business for you](https://www.youtube.com/shorts/IYqM3EZnO3w)
 - [You&#39;re Not Handling It Last Minute. You&#39;re Missing It.](https://www.youtube.com/watch?v=pLUBrDJCUgs)
 - [What’s harder?? Fitness edition](https://www.youtube.com/shorts/C0g7w1-u8GU)
-- [Do yourself a favor and stop doing this…](https://www.youtube.com/shorts/uksrmY_161M)
 <!-- YOUTUBE:END -->
 
 ---
