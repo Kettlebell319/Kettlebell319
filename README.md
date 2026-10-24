@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [The Most Hands-Off $150K Side Hustle Nobody Talks About - Ep. #346](https://kevinbellco.com/podcast-the-most-hands-off-150k-side-hustle-nobody-talks-about-ep-346-3e211a/)
 - [This Might Be the Last Email You Get From Me](https://kevinbellco.com/podcast-this-might-be-the-last-email-you-get-from-me-fe01b2/)
 - [The OC Buzz — Issue #20](https://kevinbellco.com/newsletter-the-oc-buzz-issue-20-b83237/)
-- [Say yes to stuff](https://kevinbellco.com/say-yes-to-stuff/)
 - [Pay attention to why people show up](https://kevinbellco.com/why-people-show-up/)
-- [11 Proven Businesses My Listeners Started + How to Copy Them - Ep. #345](https://kevinbellco.com/podcast-11-proven-businesses-my-listeners-started-how-to-copy-them-ep-345-dc9197/)
+- [Say yes to stuff](https://kevinbellco.com/say-yes-to-stuff/)
 <!-- BLOG:END -->
 
 ---
