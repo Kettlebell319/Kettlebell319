@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Rebuild the software you pay for](https://kevinbellco.com/rebuild-the-software-you-pay-for/)
+- [They saw the future and still failed](https://kevinbellco.com/they-saw-the-future-and-still-failed/)
 - [The Most Hands-Off $150K Side Hustle Nobody Talks About - Ep. #346](https://kevinbellco.com/podcast-the-most-hands-off-150k-side-hustle-nobody-talks-about-ep-346-3e211a/)
 - [This Might Be the Last Email You Get From Me](https://kevinbellco.com/podcast-this-might-be-the-last-email-you-get-from-me-fe01b2/)
 - [The OC Buzz — Issue #20](https://kevinbellco.com/newsletter-the-oc-buzz-issue-20-b83237/)
-- [Say yes to stuff](https://kevinbellco.com/say-yes-to-stuff/)
-- [Pay attention to why people show up](https://kevinbellco.com/why-people-show-up/)
 <!-- BLOG:END -->
 
 ---
