@@ -32,10 +32,10 @@
 
   <!-- BLOG:START -->
 - [Rebuild the software you pay for](https://kevinbellco.com/rebuild-the-software-you-pay-for/)
+- [He’s 60, Not a Tech Guy, and Makes $30K/Month With AI - Ep. #347](https://kevinbellco.com/podcast-he-s-60-not-a-tech-guy-and-makes-30k-month-with-ai-ep-347-28c026/)
 - [They saw the future and still failed](https://kevinbellco.com/they-saw-the-future-and-still-failed/)
 - [The Most Hands-Off $150K Side Hustle Nobody Talks About - Ep. #346](https://kevinbellco.com/podcast-the-most-hands-off-150k-side-hustle-nobody-talks-about-ep-346-3e211a/)
 - [This Might Be the Last Email You Get From Me](https://kevinbellco.com/podcast-this-might-be-the-last-email-you-get-from-me-fe01b2/)
-- [The OC Buzz — Issue #20](https://kevinbellco.com/newsletter-the-oc-buzz-issue-20-b83237/)
 <!-- BLOG:END -->
 
 ---
