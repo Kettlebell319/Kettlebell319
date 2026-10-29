@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I recorded this podcast while running a 7:29 pace for 4 miles](https://www.youtube.com/shorts/1AHxnOkeEUI)
 - [I didn’t expect this at my tournament](https://www.youtube.com/shorts/uapUS7c_9wk)
 - [Amateur parenting over here](https://www.youtube.com/shorts/8iVl5TLvux8)
 - [Think twice before reading this book](https://www.youtube.com/shorts/8lJjddd3Xk0)
 - [I&#39;m 35, 5&#39;9&quot;, and Can&#39;t Dunk. I&#39;m Still Chasing Something Delusional](https://www.youtube.com/watch?v=bcI8-QWjzjw)
-- [Muse will essentially run your business for you](https://www.youtube.com/shorts/IYqM3EZnO3w)
 <!-- YOUTUBE:END -->
 
 ---
