@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why I learned sign language and why you should as well](https://www.youtube.com/shorts/ZtDPK18FlrA)
 - [What a 65yo Jiu Jitsu black belt taught me about creating content](https://www.youtube.com/shorts/JbqM_JMdV3A)
 - [I recorded this podcast while running a 7:29 pace for 4 miles](https://www.youtube.com/shorts/1AHxnOkeEUI)
 - [I didn’t expect this at my tournament](https://www.youtube.com/shorts/uapUS7c_9wk)
 - [Amateur parenting over here](https://www.youtube.com/shorts/8iVl5TLvux8)
-- [Think twice before reading this book](https://www.youtube.com/shorts/8lJjddd3Xk0)
 <!-- YOUTUBE:END -->
 
 ---
