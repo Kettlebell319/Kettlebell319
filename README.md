@@ -35,7 +35,7 @@
 - [In the Arena](https://kevinbellco.com/podcast-in-the-arena-1bf1cc/)
 - [The OC Buzz — Issue #21](https://kevinbellco.com/newsletter-the-oc-buzz-issue-21-9e335d/)
 - [Rebuild the software you pay for](https://kevinbellco.com/rebuild-the-software-you-pay-for/)
-- [They saw the future and still failed](https://kevinbellco.com/they-saw-the-future-and-still-failed/)
+- [He’s 60, Not a Tech Guy, and Makes $30K/Month With AI - Ep. #347](https://kevinbellco.com/podcast-he-s-60-not-a-tech-guy-and-makes-30k-month-with-ai-ep-347-28c026/)
 <!-- BLOG:END -->
 
 ---
