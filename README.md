@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is what happened when I didn’t cut weight for Jiu Jitsu](https://www.youtube.com/shorts/2iU_VmNsums)
+- [Time change in your 20s vs in your 30s](https://www.youtube.com/shorts/BkpEaNYXyE8)
+- [This Might Be the Last Email You Get From Me](https://www.youtube.com/watch?v=tarFtQtCep0)
+- [I Took a 50% Pay Cut to Leave Policing. One Year Later...](https://www.youtube.com/watch?v=a-2OW9IQ5EQ)
 - [Why I learned sign language and why you should as well](https://www.youtube.com/shorts/ZtDPK18FlrA)
-- [What a 65yo Jiu Jitsu black belt taught me about creating content](https://www.youtube.com/shorts/JbqM_JMdV3A)
-- [I recorded this podcast while running a 7:29 pace for 4 miles](https://www.youtube.com/shorts/1AHxnOkeEUI)
-- [I didn’t expect this at my tournament](https://www.youtube.com/shorts/uapUS7c_9wk)
-- [Amateur parenting over here](https://www.youtube.com/shorts/8iVl5TLvux8)
 <!-- YOUTUBE:END -->
 
 ---
