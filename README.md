@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [$100K in the First 2 Months From a Business Anyone Can Start - Ep. #349](https://kevinbellco.com/podcast-100k-in-the-first-2-months-from-a-business-anyone-can-start-ep-349-0eaae2/)
 - [I wrote this entire newsletter WHILE running 4 miles](https://kevinbellco.com/newsletter-i-wrote-this-entire-newsletter-while-running-4-miles-89bc00/)
 - [Anyone Can Start This $18K/Month Business With a Phone - Ep. #348](https://kevinbellco.com/podcast-anyone-can-start-this-18k-month-business-with-a-phone-ep-348-5743d2/)
-- [The OC Buzz — Issue #21](https://kevinbellco.com/newsletter-the-oc-buzz-issue-21-9e335d/)
 - [In the Arena](https://kevinbellco.com/podcast-in-the-arena-1bf1cc/)
-- [He’s 60, Not a Tech Guy, and Makes $30K/Month With AI - Ep. #347](https://kevinbellco.com/podcast-he-s-60-not-a-tech-guy-and-makes-30k-month-with-ai-ep-347-28c026/)
+- [The OC Buzz — Issue #21](https://kevinbellco.com/newsletter-the-oc-buzz-issue-21-9e335d/)
 <!-- BLOG:END -->
 
 ---
