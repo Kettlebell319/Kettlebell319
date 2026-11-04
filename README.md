@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My Best Posts Were Never Planned &lpar;Just Point the Phone at It&rpar;](https://www.youtube.com/watch?v=emKpwUexkho)
 - [Dads— do your girls hair](https://www.youtube.com/shorts/Gh7WBHjG13E)
 - [This is what happened when I didn’t cut weight for Jiu Jitsu](https://www.youtube.com/shorts/2iU_VmNsums)
 - [Time change in your 20s vs in your 30s](https://www.youtube.com/shorts/BkpEaNYXyE8)
 - [This Might Be the Last Email You Get From Me](https://www.youtube.com/watch?v=tarFtQtCep0)
-- [I Took a 50% Pay Cut to Leave Policing. One Year Later...](https://www.youtube.com/watch?v=a-2OW9IQ5EQ)
 <!-- YOUTUBE:END -->
 
 ---
