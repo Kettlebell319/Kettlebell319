@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I didn’t want to pay $400/yr so I built my own](https://www.youtube.com/shorts/CgP_WM9eIqQ)
 - [My Best Posts Were Never Planned &lpar;Just Point the Phone at It&rpar;](https://www.youtube.com/watch?v=emKpwUexkho)
 - [Dads— do your girls hair](https://www.youtube.com/shorts/Gh7WBHjG13E)
 - [This is what happened when I didn’t cut weight for Jiu Jitsu](https://www.youtube.com/shorts/2iU_VmNsums)
 - [Time change in your 20s vs in your 30s](https://www.youtube.com/shorts/BkpEaNYXyE8)
-- [This Might Be the Last Email You Get From Me](https://www.youtube.com/watch?v=tarFtQtCep0)
 <!-- YOUTUBE:END -->
 
 ---
