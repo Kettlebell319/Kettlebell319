@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [$100K in the First 2 Months From a Business Anyone Can Start - Ep. #349](https://kevinbellco.com/podcast-100k-in-the-first-2-months-from-a-business-anyone-can-start-ep-349-0eaae2/)
-- [I wrote this entire newsletter WHILE running 4 miles](https://kevinbellco.com/newsletter-i-wrote-this-entire-newsletter-while-running-4-miles-89bc00/)
-- [Anyone Can Start This $18K/Month Business With a Phone - Ep. #348](https://kevinbellco.com/podcast-anyone-can-start-this-18k-month-business-with-a-phone-ep-348-5743d2/)
-- [In the Arena](https://kevinbellco.com/podcast-in-the-arena-1bf1cc/)
-- [The OC Buzz — Issue #21](https://kevinbellco.com/newsletter-the-oc-buzz-issue-21-9e335d/)
+- [This is the way. We have been building to this for a few years now,...](https://kevinbellco.com/this-is-the-way-we-have-been-building-to-this-for-a-few-years-now-but--548092/)
+- [The OC Buzz — Issue #22](https://kevinbellco.com/newsletter-the-oc-buzz-issue-22-a06364/)
+- [Yes, thank you! It&#39;s not about the TOOL, its about solving the prob...](https://kevinbellco.com/yes-thank-you-it-s-not-about-the-tool-its-about-solving-the-problem-382083/)
+- [Point the Phone at It](https://kevinbellco.com/podcast-point-the-phone-at-it-eb8a20/)
+- [I built my own email platform after I was charged $390 for my 240 s...](https://kevinbellco.com/i-built-my-own-email-platform-after-i-was-charged-390-for-my-240-subsc-746827/)
 <!-- BLOG:END -->
 
 ---
