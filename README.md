@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Finish the last 20%](https://kevinbellco.com/finish-the-last-20/)
+- [Don&#39;t build the app first](https://kevinbellco.com/dont-build-the-app-first/)
 - [This is the way. We have been building to this for a few years now,...](https://kevinbellco.com/this-is-the-way-we-have-been-building-to-this-for-a-few-years-now-but--548092/)
-- [The OC Buzz — Issue #22](https://kevinbellco.com/newsletter-the-oc-buzz-issue-22-a06364/)
-- [Yes, thank you! It&#39;s not about the TOOL, its about solving the prob...](https://kevinbellco.com/yes-thank-you-it-s-not-about-the-tool-its-about-solving-the-problem-382083/)
 - [Point the Phone at It](https://kevinbellco.com/podcast-point-the-phone-at-it-eb8a20/)
-- [I built my own email platform after I was charged $390 for my 240 s...](https://kevinbellco.com/i-built-my-own-email-platform-after-i-was-charged-390-for-my-240-subsc-746827/)
+- [The OC Buzz — Issue #22](https://kevinbellco.com/newsletter-the-oc-buzz-issue-22-a06364/)
 <!-- BLOG:END -->
 
 ---
