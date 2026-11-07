@@ -32,10 +32,10 @@
 
   <!-- BLOG:START -->
 - [Finish the last 20%](https://kevinbellco.com/finish-the-last-20/)
+- [AI Replaced My Ad Guy in 20 Minutes. You Can Sell It. - Ep. #350](https://kevinbellco.com/podcast-ai-replaced-my-ad-guy-in-20-minutes-you-can-sell-it-ep-350-36566f/)
+- [I had a call this week with a gal that wants to build a business fo...](https://kevinbellco.com/i-had-a-call-this-week-with-a-gal-that-wants-to-build-a-business-for-s-615277/)
+- [Love this.](https://kevinbellco.com/love-this-951814/)
 - [Don&#39;t build the app first](https://kevinbellco.com/dont-build-the-app-first/)
-- [This is the way. We have been building to this for a few years now,...](https://kevinbellco.com/this-is-the-way-we-have-been-building-to-this-for-a-few-years-now-but--548092/)
-- [Point the Phone at It](https://kevinbellco.com/podcast-point-the-phone-at-it-eb8a20/)
-- [The OC Buzz — Issue #22](https://kevinbellco.com/newsletter-the-oc-buzz-issue-22-a06364/)
 <!-- BLOG:END -->
 
 ---
