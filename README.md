@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I&#39;d Make Money With AI Starting Today &lpar;Talk First, Tools Later&rpar;](https://www.youtube.com/watch?v=_yzFpVB83sY)
 - [What does zone 2 training mean??](https://www.youtube.com/shorts/ydV7VndrWHw)
 - [I didn’t want to pay $400/yr so I built my own](https://www.youtube.com/shorts/CgP_WM9eIqQ)
 - [My Best Posts Were Never Planned &lpar;Just Point the Phone at It&rpar;](https://www.youtube.com/watch?v=emKpwUexkho)
 - [Dads— do your girls hair](https://www.youtube.com/shorts/Gh7WBHjG13E)
-- [This is what happened when I didn’t cut weight for Jiu Jitsu](https://www.youtube.com/shorts/2iU_VmNsums)
 <!-- YOUTUBE:END -->
 
 ---
