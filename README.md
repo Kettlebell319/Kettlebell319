@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Just got this from @bot … this is going to get interesting.](https://kevinbellco.com/just-got-this-from-bot-this-is-going-to-get-interesting-785186/)
+- [He Copied My Episode With $70. Now He Does $15K/Month - Ep. #351](https://kevinbellco.com/podcast-he-copied-my-episode-with-70-now-he-does-15k-month-ep-351-a4357c/)
 - [Cruise people of Twitter, I need your advice--](https://kevinbellco.com/cruise-people-of-twitter-i-need-your-advice-012983/)
 - [Take your kids to the Bluey play.](https://kevinbellco.com/take-your-kids-to-the-bluey-play-724611/)
 - [Love this.](https://kevinbellco.com/love-this-951814/)
-- [I had a call this week with a gal that wants to build a business fo...](https://kevinbellco.com/i-had-a-call-this-week-with-a-gal-that-wants-to-build-a-business-for-s-615277/)
-- [AI Replaced My Ad Guy in 20 Minutes. You Can Sell It. - Ep. #350](https://kevinbellco.com/podcast-ai-replaced-my-ad-guy-in-20-minutes-you-can-sell-it-ep-350-36566f/)
 <!-- BLOG:END -->
 
 ---
