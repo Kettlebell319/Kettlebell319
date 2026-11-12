@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [Just got this from @bot … this is going to get interesting.](https://kevinbellco.com/just-got-this-from-bot-this-is-going-to-get-interesting-785186/)
+- [Guests and stories like this, fire me up! This is why I freaking lo...](https://kevinbellco.com/guests-and-stories-like-this-fire-me-up-this-is-why-i-freaking-love-my-010243/)
+- [Talk First, Tools Later](https://kevinbellco.com/podcast-talk-first-tools-later-19ccb9/)
+- [If you are any one of these listeners, I cannot even tell you how m...](https://kevinbellco.com/if-you-are-any-one-of-these-listeners-i-cannot-even-tell-you-how-much--540901/)
+- [The OC Buzz — Issue #23](https://kevinbellco.com/newsletter-the-oc-buzz-issue-23-d8d6bb/)
 - [He Copied My Episode With $70. Now He Does $15K/Month - Ep. #351](https://kevinbellco.com/podcast-he-copied-my-episode-with-70-now-he-does-15k-month-ep-351-a4357c/)
-- [Cruise people of Twitter, I need your advice--](https://kevinbellco.com/cruise-people-of-twitter-i-need-your-advice-012983/)
-- [Take your kids to the Bluey play.](https://kevinbellco.com/take-your-kids-to-the-bluey-play-724611/)
-- [Love this.](https://kevinbellco.com/love-this-951814/)
 <!-- BLOG:END -->
 
 ---
