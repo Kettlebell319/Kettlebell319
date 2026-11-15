@@ -33,9 +33,9 @@
   <!-- BLOG:START -->
 - [What Dane Cook figured out 20 years ago, still works today.](https://kevinbellco.com/what-dane-cook-figured-out-20-years-ago-still-works-today-888432/)
 - [She Writes Strangers’ Books With AI. They Pay Her $20K Each. - Ep. #352](https://kevinbellco.com/podcast-she-writes-strangers-books-with-ai-they-pay-her-20k-each-ep-352-a3ddac/)
-- [Guests and stories like this, fire me up! This is why I freaking lo...](https://kevinbellco.com/guests-and-stories-like-this-fire-me-up-this-is-why-i-freaking-love-my-010243/)
-- [The OC Buzz — Issue #23](https://kevinbellco.com/newsletter-the-oc-buzz-issue-23-d8d6bb/)
+- [Talk First, Tools Later](https://kevinbellco.com/podcast-talk-first-tools-later-19ccb9/)
 - [If you are any one of these listeners, I cannot even tell you how m...](https://kevinbellco.com/if-you-are-any-one-of-these-listeners-i-cannot-even-tell-you-how-much--540901/)
+- [The OC Buzz — Issue #23](https://kevinbellco.com/newsletter-the-oc-buzz-issue-23-d8d6bb/)
 <!-- BLOG:END -->
 
 ---
