@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [He Listened to This Podcast and Built an $8K/Month App for $20 - Ep. #353](https://kevinbellco.com/podcast-he-listened-to-this-podcast-and-built-an-8k-month-app-for-20-ep-353-a8c155/)
+- [I&#39;m not saying it&#39;s easy to get $30M...if it was, id already have i...](https://kevinbellco.com/i-m-not-saying-it-s-easy-to-get-30m-if-it-was-id-already-have-it-but-t-625724/)
+- [Grokbot is about to kill AI notetakers.](https://kevinbellco.com/grokbot-is-about-to-kill-ai-notetakers-272504/)
 - [Ok let&#39;s talk about ZONE 2 TRAINING:](https://kevinbellco.com/ok-let-s-talk-about-zone-2-training-268841/)
 - [What Dane Cook figured out 20 years ago, still works today.](https://kevinbellco.com/what-dane-cook-figured-out-20-years-ago-still-works-today-888432/)
-- [She Writes Strangers’ Books With AI. They Pay Her $20K Each. - Ep. #352](https://kevinbellco.com/podcast-she-writes-strangers-books-with-ai-they-pay-her-20k-each-ep-352-a3ddac/)
-- [Talk First, Tools Later](https://kevinbellco.com/podcast-talk-first-tools-later-19ccb9/)
-- [The OC Buzz — Issue #23](https://kevinbellco.com/newsletter-the-oc-buzz-issue-23-d8d6bb/)
 <!-- BLOG:END -->
 
 ---
