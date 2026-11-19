@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CrossFit is the GOAT training style](https://www.youtube.com/shorts/_IQjN5-iqrc)
+- [The Addiction Every Creator Has &lpar;and How I Point It Somewhere Useful&rpar;](https://www.youtube.com/watch?v=K4AiukiEzZI)
+- [What happens when you mix coffee and redbull??](https://www.youtube.com/shorts/AB7tjrcPHMk)
 - [My secret taco bell sauce hack revealed](https://www.youtube.com/shorts/vU5PQ4xXpbY)
 - [At millennials messing up their Gen Z kids??](https://www.youtube.com/shorts/RgD75v8MTTQ)
-- [Try drinking coffee without hearing this…](https://www.youtube.com/shorts/k3KtvnRpV-w)
-- [The easiest way to get my kids to exercise](https://www.youtube.com/shorts/g4G6uv7z1TU)
-- [How I&#39;d Make Money With AI Starting Today &lpar;Talk First, Tools Later&rpar;](https://www.youtube.com/watch?v=_yzFpVB83sY)
 <!-- YOUTUBE:END -->
 
 ---
