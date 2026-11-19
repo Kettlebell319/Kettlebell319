@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [He Listened to This Podcast and Built an $8K/Month App for $20 - Ep. #353](https://kevinbellco.com/podcast-he-listened-to-this-podcast-and-built-an-8k-month-app-for-20-ep-353-a8c155/)
+- [Zone 2 Living](https://kevinbellco.com/podcast-zone-2-living-6e382f/)
+- [Things to Do in Orange County This Weekend &lpar;Nov 20-22&rpar;](https://kevinbellco.com/newsletter-things-to-do-in-orange-county-this-weekend-nov-20-22-372b51/)
+- [The crazy part is, all anyone really needs is one AI subscription o...](https://kevinbellco.com/the-crazy-part-is-all-anyone-really-needs-is-one-ai-subscription-of-ch-606362/)
 - [I mean… seems like you pretty much have this handled… 🤣 https://t.c...](https://kevinbellco.com/i-mean-seems-like-you-pretty-much-have-this-handled-https-t-co-mjnveqb-958659/)
-- [Grokbot is about to kill AI notetakers.](https://kevinbellco.com/grokbot-is-about-to-kill-ai-notetakers-272504/)
-- [I&#39;m not saying it&#39;s easy to get $30M...if it was, id already have i...](https://kevinbellco.com/i-m-not-saying-it-s-easy-to-get-30m-if-it-was-id-already-have-it-but-t-625724/)
-- [Ok let&#39;s talk about ZONE 2 TRAINING:](https://kevinbellco.com/ok-let-s-talk-about-zone-2-training-268841/)
+- [He Listened to This Podcast and Built an $8K/Month App for $20 - Ep. #353](https://kevinbellco.com/podcast-he-listened-to-this-podcast-and-built-an-8k-month-app-for-20-ep-353-a8c155/)
 <!-- BLOG:END -->
 
 ---
