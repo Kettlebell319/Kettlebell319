@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [I&#39;ve said that content is nothing more than the way we position the...](https://kevinbellco.com/i-ve-said-that-content-is-nothing-more-than-the-way-we-position-the-re-053188/)
 - [I Hate QuickBooks So Much I Built My Own. Week One Results - Ep. #354](https://kevinbellco.com/podcast-i-hate-quickbooks-so-much-i-built-my-own-week-one-results-ep-354-8ea8e9/)
+- [This is what happens when you actually get out there and DO THINGS!](https://kevinbellco.com/this-is-what-happens-when-you-actually-get-out-there-and-do-things-407282/)
 - [I HATE getting sick. I mean... who actually likes it, lets be honest.](https://kevinbellco.com/i-hate-getting-sick-i-mean-who-actually-likes-it-lets-be-honest-156099/)
-- [Zone 2 Living](https://kevinbellco.com/podcast-zone-2-living-6e382f/)
 - [Things to Do in Orange County This Weekend &lpar;Nov 20-22&rpar;](https://kevinbellco.com/newsletter-things-to-do-in-orange-county-this-weekend-nov-20-22-372b51/)
-- [The crazy part is, all anyone really needs is one AI subscription o...](https://kevinbellco.com/the-crazy-part-is-all-anyone-really-needs-is-one-ai-subscription-of-ch-606362/)
 <!-- BLOG:END -->
 
 ---
