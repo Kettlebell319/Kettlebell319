@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
-- [I&#39;ve said that content is nothing more than the way we position the...](https://kevinbellco.com/i-ve-said-that-content-is-nothing-more-than-the-way-we-position-the-re-053188/)
+- [AI starts with a conversation...](https://kevinbellco.com/newsletter-ai-starts-with-a-conversation-37ce36/)
+- [I might have started a new Saturday tradition here. Homemade protei...](https://kevinbellco.com/i-might-have-started-a-new-saturday-tradition-here-homemade-protein-ci-344331/)
+- [In October I dropped from the 20x Claude plan to the 5x.](https://kevinbellco.com/in-october-i-dropped-from-the-20x-claude-plan-to-the-5x-429759/)
 - [I Hate QuickBooks So Much I Built My Own. Week One Results - Ep. #354](https://kevinbellco.com/podcast-i-hate-quickbooks-so-much-i-built-my-own-week-one-results-ep-354-8ea8e9/)
 - [This is what happens when you actually get out there and DO THINGS!](https://kevinbellco.com/this-is-what-happens-when-you-actually-get-out-there-and-do-things-407282/)
-- [I HATE getting sick. I mean... who actually likes it, lets be honest.](https://kevinbellco.com/i-hate-getting-sick-i-mean-who-actually-likes-it-lets-be-honest-156099/)
-- [Things to Do in Orange County This Weekend &lpar;Nov 20-22&rpar;](https://kevinbellco.com/newsletter-things-to-do-in-orange-county-this-weekend-nov-20-22-372b51/)
 <!-- BLOG:END -->
 
 ---
