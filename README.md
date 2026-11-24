@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [She Makes $100K/Month From Mystery Shopping &lpar;$0 to Start&rpar; - Ep. #355](https://kevinbellco.com/podcast-she-makes-100k-month-from-mystery-shopping-0-to-start-ep-355-9986e3/)
 - [Freaking love this! Sometimes you gotta shoot your shot! Well done ...](https://kevinbellco.com/freaking-love-this-sometimes-you-gotta-shoot-your-shot-well-done-broth-343581/)
-- [AI starts with a conversation...](https://kevinbellco.com/newsletter-ai-starts-with-a-conversation-37ce36/)
+- [Here me out— candy is one of the BEST pre workouts.](https://kevinbellco.com/here-me-out-candy-is-one-of-the-best-pre-workouts-288644/)
 - [Choose your crazy.](https://kevinbellco.com/choose-your-crazy-386108/)
-- [I might have started a new Saturday tradition here. Homemade protei...](https://kevinbellco.com/i-might-have-started-a-new-saturday-tradition-here-homemade-protein-ci-344331/)
-- [In October I dropped from the 20x Claude plan to the 5x.](https://kevinbellco.com/in-october-i-dropped-from-the-20x-claude-plan-to-the-5x-429759/)
+- [AI starts with a conversation...](https://kevinbellco.com/newsletter-ai-starts-with-a-conversation-37ce36/)
 <!-- BLOG:END -->
 
 ---
