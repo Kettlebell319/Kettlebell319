@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Freaking love this! Sometimes you gotta shoot your shot! Well done ...](https://kevinbellco.com/freaking-love-this-sometimes-you-gotta-shoot-your-shot-well-done-broth-343581/)
 - [AI starts with a conversation...](https://kevinbellco.com/newsletter-ai-starts-with-a-conversation-37ce36/)
+- [Choose your crazy.](https://kevinbellco.com/choose-your-crazy-386108/)
 - [I might have started a new Saturday tradition here. Homemade protei...](https://kevinbellco.com/i-might-have-started-a-new-saturday-tradition-here-homemade-protein-ci-344331/)
 - [In October I dropped from the 20x Claude plan to the 5x.](https://kevinbellco.com/in-october-i-dropped-from-the-20x-claude-plan-to-the-5x-429759/)
-- [I Hate QuickBooks So Much I Built My Own. Week One Results - Ep. #354](https://kevinbellco.com/podcast-i-hate-quickbooks-so-much-i-built-my-own-week-one-results-ep-354-8ea8e9/)
-- [This is what happens when you actually get out there and DO THINGS!](https://kevinbellco.com/this-is-what-happens-when-you-actually-get-out-there-and-do-things-407282/)
 <!-- BLOG:END -->
 
 ---
