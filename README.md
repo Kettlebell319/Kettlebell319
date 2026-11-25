@@ -19,11 +19,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Zone 2 Living: Why Elite Athletes Go Slow &lpar;and How I Use It in Life&rpar;](https://www.youtube.com/watch?v=2oT2Hot1nNQ)
 - [GTA vs 4am workout](https://www.youtube.com/shorts/mU73YY1GUxI)
 - [How much does music and background matter??](https://www.youtube.com/shorts/LX0gQqtpeeA)
 - [CrossFit is the GOAT training style](https://www.youtube.com/shorts/_IQjN5-iqrc)
 - [The Addiction Every Creator Has &lpar;and How I Point It Somewhere Useful&rpar;](https://www.youtube.com/watch?v=K4AiukiEzZI)
-- [What happens when you mix coffee and redbull??](https://www.youtube.com/shorts/AB7tjrcPHMk)
 <!-- YOUTUBE:END -->
 
 ---
