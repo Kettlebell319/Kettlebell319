@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [Things to Do in Orange County This Weekend &lpar;Nov 27-29&rpar;](https://kevinbellco.com/newsletter-things-to-do-in-orange-county-this-weekend-nov-27-29-6b185a/)
+- [Dang, one of the best spam texts I’ve gotten. they’re getting good!](https://kevinbellco.com/dang-one-of-the-best-spam-texts-i-ve-gotten-they-re-getting-good-599349/)
 - [Choose Your Crazy](https://kevinbellco.com/podcast-choose-your-crazy-3627b6/)
 - [She Makes $100K/Month From Mystery Shopping &lpar;$0 to Start&rpar; - Ep. #355](https://kevinbellco.com/podcast-she-makes-100k-month-from-mystery-shopping-0-to-start-ep-355-9986e3/)
 - [Social media is a funny thing sometimes...](https://kevinbellco.com/social-media-is-a-funny-thing-sometimes-231830/)
-- [Here me out— candy is one of the BEST pre workouts.](https://kevinbellco.com/here-me-out-candy-is-one-of-the-best-pre-workouts-288644/)
-- [Freaking love this! Sometimes you gotta shoot your shot! Well done ...](https://kevinbellco.com/freaking-love-this-sometimes-you-gotta-shoot-your-shot-well-done-broth-343581/)
 <!-- BLOG:END -->
 
 ---
