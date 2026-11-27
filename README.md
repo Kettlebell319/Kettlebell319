@@ -31,11 +31,11 @@
   ## 📝 Latest Blog Posts
 
   <!-- BLOG:START -->
+- [He Makes $25K/Month From Google Reviews &lpar;2 Hrs/Year Per Client&rpar; - Ep. #356](https://kevinbellco.com/podcast-he-makes-25k-month-from-google-reviews-2-hrs-year-per-client-ep-356-953026/)
+- [For almost a decade this was how I saw my family on Thanksgiving.](https://kevinbellco.com/for-almost-a-decade-this-was-how-i-saw-my-family-on-thanksgiving-556442/)
 - [Things to Do in Orange County This Weekend &lpar;Nov 27-29&rpar;](https://kevinbellco.com/newsletter-things-to-do-in-orange-county-this-weekend-nov-27-29-6b185a/)
 - [Dang, one of the best spam texts I’ve gotten. they’re getting good!](https://kevinbellco.com/dang-one-of-the-best-spam-texts-i-ve-gotten-they-re-getting-good-599349/)
-- [Choose Your Crazy](https://kevinbellco.com/podcast-choose-your-crazy-3627b6/)
 - [She Makes $100K/Month From Mystery Shopping &lpar;$0 to Start&rpar; - Ep. #355](https://kevinbellco.com/podcast-she-makes-100k-month-from-mystery-shopping-0-to-start-ep-355-9986e3/)
-- [Social media is a funny thing sometimes...](https://kevinbellco.com/social-media-is-a-funny-thing-sometimes-231830/)
 <!-- BLOG:END -->
 
 ---
